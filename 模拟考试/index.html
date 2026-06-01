@@ -143,12 +143,17 @@
   .meta-info li { margin:8px 0; font-size:14px; list-style:none; }
   .notice { background:var(--warn-bg); border:1px solid var(--warn-border); border-radius:8px; padding:14px; font-size:13.5px; margin:16px 0; text-align:left; }
 
-  .paper-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:12px; margin:20px 0; text-align:left; }
+  .paper-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:12px; margin:20px 0; text-align:left; max-height:420px; overflow-y:auto; padding-right:4px; }
   .paper-card { border:2px solid var(--line); background:var(--card); border-radius:12px; padding:16px; cursor:pointer; transition:.2s; }
   .paper-card:hover { border-color:var(--accent); }
   .paper-card.active { border-color:var(--accent); box-shadow:0 0 0 3px rgba(91,155,213,.25); }
   .paper-card strong { display:block; font-size:16px; color:var(--accent); margin-bottom:6px; }
-  .paper-card span { font-size:13px; color:var(--muted); }
+  .paper-card span { font-size:13px; color:var(--muted); display:block; line-height:1.5; }
+  .paper-card .tag { display:inline-block; font-size:11px; font-weight:700; padding:2px 8px; border-radius:10px; background:var(--line); color:var(--muted); margin-top:6px; }
+  .year-tabs { display:flex; flex-wrap:wrap; gap:8px; justify-content:center; margin:16px 0 4px; }
+  .year-tabs button { border:1px solid var(--line); background:var(--card); color:var(--text); padding:7px 14px; border-radius:20px; cursor:pointer; font-size:13px; font-weight:600; }
+  .year-tabs button.active { background:var(--accent); color:#fff; border-color:var(--accent); }
+  .paper-summary { font-size:13px; color:var(--muted); margin-bottom:8px; }
 
   .grade-panel { background:var(--passage-bg); border:1px solid var(--line); border-radius:10px; padding:14px; margin-top:14px; font-size:13.5px; }
   .grade-panel .tag { display:inline-block; font-size:11px; font-weight:700; padding:2px 8px; border-radius:10px; margin-right:6px; }
@@ -187,7 +192,8 @@ const state = {
   remain: EXAMS[0].meta.totalTime,
   timerId: null,
   dark: localStorage.getItem("cet6_dark") === "1",
-  subjective: { writing: null, translation: null }
+  subjective: { writing: null, translation: null },
+  yearFilter: 0
 };
 const app = document.getElementById("app");
 const timerEl = document.getElementById("timer");
@@ -209,6 +215,10 @@ function pickPaper(id){
   EXAM = EXAMS.find(e => e.id === id) || EXAMS[0];
   state.remain = EXAM.meta.totalTime;
   document.getElementById("topTitle").textContent = EXAM.meta.title;
+  render();
+}
+function setYearFilter(y){
+  state.yearFilter = y;
   render();
 }
 
@@ -289,14 +299,21 @@ function render(){
 }
 
 function renderStart(){
-  const cards = EXAMS.map(e=>`
+  const years = [...new Set(EXAMS.map(e => e.meta.year).filter(Boolean))].sort((a,b)=>b-a);
+  const filtered = state.yearFilter ? EXAMS.filter(e => e.meta.year === state.yearFilter) : EXAMS;
+  const yearTabs = [`<button class="${state.yearFilter===0?'active':''}" onclick="setYearFilter(0)">全部 ${EXAMS.length}</button>`]
+    .concat(years.map(y => `<button class="${state.yearFilter===y?'active':''}" onclick="setYearFilter(${y})">${y}年 ${EXAMS.filter(e=>e.meta.year===y).length}</button>`)).join("");
+  const cards = filtered.map(e=>`
     <div class="paper-card ${state.paperId===e.id?"active":""}" onclick="pickPaper(${e.id})">
       <strong>${e.name}</strong>
       <span>${e.theme || ""}</span>
+      <span class="tag">${e.translation && e.translation.source ? e.translation.source : "真题"}</span>
     </div>`).join("");
   app.innerHTML = `<div class="start-screen">
     <h1>大学英语六级模拟考试系统</h1>
-    <p class="sub">选择试卷 · 支持黑夜模式 · 写作/翻译 POE 双模型评分</p>
+    <p class="sub">共 ${EXAMS.length} 套真题卷（2016–2025）· 写作/翻译来自历年真题 · 听读轮换模板</p>
+    <div class="year-tabs">${yearTabs}</div>
+    <p class="paper-summary">当前筛选：${state.yearFilter ? state.yearFilter + "年" : "全部"} · 显示 ${filtered.length} 套</p>
     <div class="paper-grid">${cards}</div>
     <div class="meta-info">
       <h3 class="sub" style="border:none">当前：${EXAM.name} — ${EXAM.meta.subtitle}</h3>

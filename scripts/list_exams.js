@@ -6,8 +6,9 @@ const code = fs.readFileSync(require('path').join(__dirname, '../模拟考试/qu
 eval(code);
 EXAMS.forEach((p, i) => {
   const head = (p.translation && p.translation.text || '').slice(0, 16);
+  const yr = p.meta && p.meta.year ? `[${p.meta.year}] ` : '';
   console.log(
-    `[#${i}] id=${p.id} name=${p.name} theme=${p.theme} | trans.source=${p.translation && p.translation.source} | trans.head=${head}`
+    `${yr}[#${i}] id=${p.id} name=${p.name} theme=${p.theme} | trans.source=${p.translation && p.translation.source} | trans.head=${head}`
   );
 });
 console.log(`\nTotal: ${EXAMS.length} papers`);
