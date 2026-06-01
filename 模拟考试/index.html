@@ -375,8 +375,20 @@ function renderListening(){
   h += `<h3 class="sub">${L.sectionB.title}</h3><div class="directions">${L.sectionB.directions}</div>`;
   L.sectionB.passages.forEach((p,pi)=>{
     h += audioBlock(p.id, p.script, `短文 ${pi+1}`);
-    p.questions.forEach((q,qi)=> h += mcq("listening", p.id+"_"+qi, q, 8+qi+1));
+    p.questions.forEach((q,qi)=> h += mcq("listening", p.id+"_"+qi, q, 8+pi*4+qi+1));
   });
+  if(L.sectionC && L.sectionC.passages && L.sectionC.passages.length){
+    h += `<h3 class="sub">${L.sectionC.title||"Section C —— 讲座/讲话"}</h3><div class="directions">${L.sectionC.directions||""}</div>`;
+    let base = 8 + L.sectionB.passages.reduce((n,p)=>n+p.questions.length,0);
+    L.sectionC.passages.forEach((p,pi)=>{
+      h += audioBlock(p.id, p.script, `讲座 ${pi+1}`);
+      p.questions.forEach((q,qi)=> h += mcq("listening", p.id+"_"+qi, q, base+qi+1));
+      base += p.questions.length;
+    });
+  }
+  if(L._answer_confidence==="low"){
+    h += `<div class="notice"><b>提示：</b>本套听力答案为 AI 推断（无官方录音对照），客观题得分仅供参考。</div>`;
+  }
   h += `<div class="btn-row"><button class="btn btn-ghost" onclick="go('writing')">◀ 上一部分</button><button class="btn btn-primary" onclick="go('readingA')">下一部分：阅读 ▶</button></div></div>`;
   return h;
 }
@@ -641,6 +653,9 @@ function calcScores(){
   let lTotal=0, lRight=0;
   L.sectionA.conversations.forEach(c=>c.questions.forEach((q,qi)=>{ lTotal++; if(state.answers.listening[c.id+"_"+qi]===q.answer) lRight++; }));
   L.sectionB.passages.forEach(p=>p.questions.forEach((q,qi)=>{ lTotal++; if(state.answers.listening[p.id+"_"+qi]===q.answer) lRight++; }));
+  if(L.sectionC && L.sectionC.passages){
+    L.sectionC.passages.forEach(p=>p.questions.forEach((q,qi)=>{ lTotal++; if(state.answers.listening[p.id+"_"+qi]===q.answer) lRight++; }));
+  }
   const A = EXAM.reading.sectionA;
   let aTotal = A.blanks.length, aRight = 0;
   A.blanks.forEach(n=>{ if(state.answers.readingA[n]===A.answers[n]) aRight++; });

@@ -1,0 +1,3164 @@
+{
+  "by_session": {
+    "2017-06_01": {
+      "answers": [
+        {
+          "num": 1,
+          "answer": 0
+        },
+        {
+          "num": 3,
+          "answer": 2
+        },
+        {
+          "num": 4,
+          "answer": 0
+        },
+        {
+          "num": 6,
+          "answer": 1
+        },
+        {
+          "num": 7,
+          "answer": 0
+        },
+        {
+          "num": 8,
+          "answer": 1
+        },
+        {
+          "num": 9,
+          "answer": 2
+        },
+        {
+          "num": 10,
+          "answer": 3
+        },
+        {
+          "num": 11,
+          "answer": 2
+        },
+        {
+          "num": 12,
+          "answer": 1
+        },
+        {
+          "num": 13,
+          "answer": 0
+        },
+        {
+          "num": 14,
+          "answer": 3
+        },
+        {
+          "num": 15,
+          "answer": 2
+        },
+        {
+          "num": 16,
+          "answer": 1
+        },
+        {
+          "num": 17,
+          "answer": 2
+        },
+        {
+          "num": 18,
+          "answer": 0
+        },
+        {
+          "num": 19,
+          "answer": 3
+        },
+        {
+          "num": 20,
+          "answer": 2
+        }
+      ],
+      "_confidence": "low"
+    },
+    "2016-06_01": {
+      "answers": [
+        {
+          "num": 1,
+          "answer": 3
+        },
+        {
+          "num": 2,
+          "answer": 2
+        },
+        {
+          "num": 3,
+          "answer": 3
+        },
+        {
+          "num": 4,
+          "answer": 3
+        },
+        {
+          "num": 5,
+          "answer": 0
+        },
+        {
+          "num": 6,
+          "answer": 1
+        },
+        {
+          "num": 7,
+          "answer": 0
+        },
+        {
+          "num": 8,
+          "answer": 2
+        },
+        {
+          "num": 9,
+          "answer": 3
+        },
+        {
+          "num": 10,
+          "answer": 0
+        },
+        {
+          "num": 11,
+          "answer": 2
+        },
+        {
+          "num": 12,
+          "answer": 0
+        },
+        {
+          "num": 13,
+          "answer": 3
+        },
+        {
+          "num": 14,
+          "answer": 2
+        },
+        {
+          "num": 15,
+          "answer": 1
+        },
+        {
+          "num": 16,
+          "answer": 3
+        },
+        {
+          "num": 17,
+          "answer": 1
+        },
+        {
+          "num": 18,
+          "answer": 0
+        },
+        {
+          "num": 19,
+          "answer": 2
+        },
+        {
+          "num": 20,
+          "answer": 1
+        },
+        {
+          "num": 21,
+          "answer": 3
+        },
+        {
+          "num": 22,
+          "answer": 3
+        },
+        {
+          "num": 23,
+          "answer": 0
+        },
+        {
+          "num": 24,
+          "answer": 0
+        },
+        {
+          "num": 25,
+          "answer": 2
+        }
+      ],
+      "_confidence": "low"
+    },
+    "2016-12_02": {
+      "answers": [
+        {
+          "num": 1,
+          "answer": 2
+        },
+        {
+          "num": 2,
+          "answer": 0
+        },
+        {
+          "num": 3,
+          "answer": 3
+        },
+        {
+          "num": 4,
+          "answer": 1
+        },
+        {
+          "num": 5,
+          "answer": 1
+        },
+        {
+          "num": 6,
+          "answer": 0
+        },
+        {
+          "num": 7,
+          "answer": 3
+        },
+        {
+          "num": 8,
+          "answer": 1
+        },
+        {
+          "num": 9,
+          "answer": 2
+        },
+        {
+          "num": 10,
+          "answer": 3
+        },
+        {
+          "num": 11,
+          "answer": 1
+        },
+        {
+          "num": 12,
+          "answer": 0
+        },
+        {
+          "num": 13,
+          "answer": 3
+        },
+        {
+          "num": 14,
+          "answer": 0
+        },
+        {
+          "num": 15,
+          "answer": 1
+        },
+        {
+          "num": 16,
+          "answer": 0
+        },
+        {
+          "num": 17,
+          "answer": 3
+        },
+        {
+          "num": 18,
+          "answer": 2
+        },
+        {
+          "num": 19,
+          "answer": 1
+        },
+        {
+          "num": 20,
+          "answer": 0
+        }
+      ],
+      "_confidence": "low"
+    },
+    "2017-12_02": {
+      "answers": [
+        {
+          "num": 1,
+          "answer": 0
+        },
+        {
+          "num": 2,
+          "answer": 0
+        },
+        {
+          "num": 3,
+          "answer": 1
+        },
+        {
+          "num": 5,
+          "answer": 0
+        },
+        {
+          "num": 6,
+          "answer": 1
+        },
+        {
+          "num": 7,
+          "answer": 3
+        },
+        {
+          "num": 8,
+          "answer": 3
+        },
+        {
+          "num": 9,
+          "answer": 0
+        },
+        {
+          "num": 10,
+          "answer": 2
+        },
+        {
+          "num": 11,
+          "answer": 3
+        },
+        {
+          "num": 12,
+          "answer": 3
+        },
+        {
+          "num": 13,
+          "answer": 3
+        },
+        {
+          "num": 14,
+          "answer": 2
+        },
+        {
+          "num": 15,
+          "answer": 1
+        },
+        {
+          "num": 16,
+          "answer": 2
+        },
+        {
+          "num": 17,
+          "answer": 2
+        },
+        {
+          "num": 19,
+          "answer": 3
+        },
+        {
+          "num": 20,
+          "answer": 0
+        },
+        {
+          "num": 21,
+          "answer": 2
+        },
+        {
+          "num": 22,
+          "answer": 1
+        },
+        {
+          "num": 23,
+          "answer": 3
+        },
+        {
+          "num": 24,
+          "answer": 2
+        },
+        {
+          "num": 25,
+          "answer": 1
+        }
+      ],
+      "_confidence": "low"
+    },
+    "2017-12_01": {
+      "answers": [
+        {
+          "num": 1,
+          "answer": 2
+        },
+        {
+          "num": 2,
+          "answer": 0
+        },
+        {
+          "num": 3,
+          "answer": 3
+        },
+        {
+          "num": 5,
+          "answer": 1
+        },
+        {
+          "num": 6,
+          "answer": 3
+        },
+        {
+          "num": 7,
+          "answer": 2
+        },
+        {
+          "num": 8,
+          "answer": 0
+        },
+        {
+          "num": 9,
+          "answer": 0
+        },
+        {
+          "num": 10,
+          "answer": 0
+        },
+        {
+          "num": 11,
+          "answer": 0
+        },
+        {
+          "num": 12,
+          "answer": 0
+        },
+        {
+          "num": 13,
+          "answer": 3
+        },
+        {
+          "num": 14,
+          "answer": 3
+        },
+        {
+          "num": 15,
+          "answer": 3
+        },
+        {
+          "num": 16,
+          "answer": 3
+        },
+        {
+          "num": 17,
+          "answer": 1
+        },
+        {
+          "num": 18,
+          "answer": 2
+        },
+        {
+          "num": 19,
+          "answer": 1
+        },
+        {
+          "num": 20,
+          "answer": 2
+        },
+        {
+          "num": 21,
+          "answer": 1
+        },
+        {
+          "num": 22,
+          "answer": 2
+        },
+        {
+          "num": 23,
+          "answer": 0
+        },
+        {
+          "num": 24,
+          "answer": 2
+        }
+      ],
+      "_confidence": "low"
+    },
+    "2017-06_02": {
+      "answers": [
+        {
+          "num": 1,
+          "answer": 2
+        },
+        {
+          "num": 2,
+          "answer": 3
+        },
+        {
+          "num": 3,
+          "answer": 2
+        },
+        {
+          "num": 4,
+          "answer": 1
+        },
+        {
+          "num": 5,
+          "answer": 2
+        },
+        {
+          "num": 6,
+          "answer": 3
+        },
+        {
+          "num": 8,
+          "answer": 0
+        },
+        {
+          "num": 9,
+          "answer": 1
+        },
+        {
+          "num": 11,
+          "answer": 1
+        },
+        {
+          "num": 12,
+          "answer": 1
+        },
+        {
+          "num": 13,
+          "answer": 3
+        },
+        {
+          "num": 14,
+          "answer": 1
+        },
+        {
+          "num": 15,
+          "answer": 2
+        },
+        {
+          "num": 16,
+          "answer": 1
+        },
+        {
+          "num": 17,
+          "answer": 2
+        }
+      ],
+      "_confidence": "low"
+    },
+    "2018-06_01": {
+      "answers": [
+        {
+          "num": 1,
+          "answer": 1
+        },
+        {
+          "num": 2,
+          "answer": 2
+        },
+        {
+          "num": 3,
+          "answer": 2
+        },
+        {
+          "num": 5,
+          "answer": 3
+        },
+        {
+          "num": 6,
+          "answer": 2
+        },
+        {
+          "num": 7,
+          "answer": 2
+        },
+        {
+          "num": 8,
+          "answer": 3
+        },
+        {
+          "num": 9,
+          "answer": 2
+        },
+        {
+          "num": 11,
+          "answer": 2
+        },
+        {
+          "num": 12,
+          "answer": 1
+        },
+        {
+          "num": 13,
+          "answer": 2
+        },
+        {
+          "num": 14,
+          "answer": 3
+        },
+        {
+          "num": 15,
+          "answer": 0
+        },
+        {
+          "num": 16,
+          "answer": 3
+        },
+        {
+          "num": 17,
+          "answer": 3
+        },
+        {
+          "num": 18,
+          "answer": 0
+        },
+        {
+          "num": 19,
+          "answer": 0
+        },
+        {
+          "num": 20,
+          "answer": 2
+        },
+        {
+          "num": 21,
+          "answer": 0
+        },
+        {
+          "num": 22,
+          "answer": 1
+        },
+        {
+          "num": 23,
+          "answer": 0
+        },
+        {
+          "num": 24,
+          "answer": 3
+        },
+        {
+          "num": 25,
+          "answer": 2
+        }
+      ],
+      "_confidence": "low"
+    },
+    "2018-12_01": {
+      "answers": [
+        {
+          "num": 1,
+          "answer": 0
+        },
+        {
+          "num": 2,
+          "answer": 0
+        },
+        {
+          "num": 3,
+          "answer": 1
+        },
+        {
+          "num": 4,
+          "answer": 0
+        },
+        {
+          "num": 5,
+          "answer": 1
+        },
+        {
+          "num": 6,
+          "answer": 0
+        },
+        {
+          "num": 8,
+          "answer": 2
+        },
+        {
+          "num": 9,
+          "answer": 3
+        },
+        {
+          "num": 10,
+          "answer": 1
+        },
+        {
+          "num": 11,
+          "answer": 1
+        },
+        {
+          "num": 12,
+          "answer": 2
+        },
+        {
+          "num": 13,
+          "answer": 1
+        },
+        {
+          "num": 14,
+          "answer": 0
+        },
+        {
+          "num": 15,
+          "answer": 1
+        },
+        {
+          "num": 17,
+          "answer": 3
+        },
+        {
+          "num": 18,
+          "answer": 2
+        },
+        {
+          "num": 19,
+          "answer": 1
+        },
+        {
+          "num": 20,
+          "answer": 0
+        },
+        {
+          "num": 21,
+          "answer": 1
+        },
+        {
+          "num": 22,
+          "answer": 0
+        },
+        {
+          "num": 23,
+          "answer": 0
+        },
+        {
+          "num": 24,
+          "answer": 2
+        },
+        {
+          "num": 25,
+          "answer": 2
+        }
+      ],
+      "_confidence": "low"
+    },
+    "2018-06_02": {
+      "answers": [
+        {
+          "num": 1,
+          "answer": 3
+        },
+        {
+          "num": 2,
+          "answer": 2
+        },
+        {
+          "num": 3,
+          "answer": 1
+        },
+        {
+          "num": 5,
+          "answer": 2
+        },
+        {
+          "num": 6,
+          "answer": 1
+        },
+        {
+          "num": 7,
+          "answer": 2
+        },
+        {
+          "num": 8,
+          "answer": 3
+        },
+        {
+          "num": 9,
+          "answer": 2
+        },
+        {
+          "num": 10,
+          "answer": 2
+        },
+        {
+          "num": 12,
+          "answer": 3
+        },
+        {
+          "num": 13,
+          "answer": 2
+        },
+        {
+          "num": 15,
+          "answer": 3
+        },
+        {
+          "num": 16,
+          "answer": 2
+        },
+        {
+          "num": 17,
+          "answer": 3
+        },
+        {
+          "num": 18,
+          "answer": 0
+        },
+        {
+          "num": 19,
+          "answer": 0
+        },
+        {
+          "num": 20,
+          "answer": 3
+        },
+        {
+          "num": 21,
+          "answer": 3
+        },
+        {
+          "num": 22,
+          "answer": 0
+        },
+        {
+          "num": 23,
+          "answer": 1
+        },
+        {
+          "num": 24,
+          "answer": 3
+        },
+        {
+          "num": 25,
+          "answer": 3
+        }
+      ],
+      "_confidence": "low"
+    },
+    "2019-06_01": {
+      "answers": [
+        {
+          "num": 1,
+          "answer": 2
+        },
+        {
+          "num": 2,
+          "answer": 2
+        },
+        {
+          "num": 3,
+          "answer": 2
+        },
+        {
+          "num": 4,
+          "answer": 3
+        },
+        {
+          "num": 5,
+          "answer": 3
+        },
+        {
+          "num": 6,
+          "answer": 0
+        },
+        {
+          "num": 7,
+          "answer": 0
+        },
+        {
+          "num": 8,
+          "answer": 0
+        },
+        {
+          "num": 10,
+          "answer": 1
+        },
+        {
+          "num": 11,
+          "answer": 2
+        },
+        {
+          "num": 12,
+          "answer": 1
+        },
+        {
+          "num": 13,
+          "answer": 0
+        },
+        {
+          "num": 14,
+          "answer": 2
+        },
+        {
+          "num": 15,
+          "answer": 0
+        },
+        {
+          "num": 16,
+          "answer": 1
+        },
+        {
+          "num": 17,
+          "answer": 0
+        },
+        {
+          "num": 18,
+          "answer": 2
+        },
+        {
+          "num": 19,
+          "answer": 1
+        },
+        {
+          "num": 20,
+          "answer": 3
+        },
+        {
+          "num": 22,
+          "answer": 2
+        },
+        {
+          "num": 23,
+          "answer": 1
+        },
+        {
+          "num": 24,
+          "answer": 3
+        }
+      ],
+      "_confidence": "low"
+    },
+    "2018-12_02": {
+      "answers": [
+        {
+          "num": 2,
+          "answer": 1
+        },
+        {
+          "num": 3,
+          "answer": 1
+        },
+        {
+          "num": 4,
+          "answer": 2
+        },
+        {
+          "num": 5,
+          "answer": 0
+        },
+        {
+          "num": 6,
+          "answer": 1
+        },
+        {
+          "num": 7,
+          "answer": 3
+        },
+        {
+          "num": 8,
+          "answer": 2
+        },
+        {
+          "num": 9,
+          "answer": 1
+        },
+        {
+          "num": 10,
+          "answer": 0
+        },
+        {
+          "num": 13,
+          "answer": 0
+        },
+        {
+          "num": 14,
+          "answer": 3
+        },
+        {
+          "num": 15,
+          "answer": 2
+        },
+        {
+          "num": 16,
+          "answer": 0
+        },
+        {
+          "num": 18,
+          "answer": 3
+        },
+        {
+          "num": 19,
+          "answer": 2
+        },
+        {
+          "num": 20,
+          "answer": 2
+        },
+        {
+          "num": 21,
+          "answer": 3
+        },
+        {
+          "num": 22,
+          "answer": 0
+        },
+        {
+          "num": 23,
+          "answer": 1
+        },
+        {
+          "num": 24,
+          "answer": 1
+        },
+        {
+          "num": 25,
+          "answer": 1
+        }
+      ],
+      "_confidence": "low"
+    },
+    "2020-07_01": {
+      "answers": [
+        {
+          "num": 1,
+          "answer": 2
+        },
+        {
+          "num": 2,
+          "answer": 3
+        },
+        {
+          "num": 3,
+          "answer": 2
+        },
+        {
+          "num": 4,
+          "answer": 2
+        },
+        {
+          "num": 5,
+          "answer": 0
+        },
+        {
+          "num": 6,
+          "answer": 3
+        },
+        {
+          "num": 7,
+          "answer": 3
+        },
+        {
+          "num": 8,
+          "answer": 3
+        },
+        {
+          "num": 9,
+          "answer": 0
+        },
+        {
+          "num": 10,
+          "answer": 1
+        },
+        {
+          "num": 11,
+          "answer": 3
+        },
+        {
+          "num": 12,
+          "answer": 0
+        },
+        {
+          "num": 13,
+          "answer": 3
+        },
+        {
+          "num": 14,
+          "answer": 2
+        },
+        {
+          "num": 15,
+          "answer": 1
+        },
+        {
+          "num": 16,
+          "answer": 0
+        },
+        {
+          "num": 17,
+          "answer": 1
+        },
+        {
+          "num": 18,
+          "answer": 2
+        },
+        {
+          "num": 19,
+          "answer": 1
+        },
+        {
+          "num": 20,
+          "answer": 1
+        }
+      ],
+      "_confidence": "low"
+    },
+    "2021-06_01": {
+      "answers": [
+        {
+          "num": 1,
+          "answer": 3
+        },
+        {
+          "num": 2,
+          "answer": 0
+        },
+        {
+          "num": 3,
+          "answer": 2
+        },
+        {
+          "num": 4,
+          "answer": 2
+        },
+        {
+          "num": 5,
+          "answer": 2
+        },
+        {
+          "num": 6,
+          "answer": 3
+        },
+        {
+          "num": 7,
+          "answer": 3
+        },
+        {
+          "num": 8,
+          "answer": 2
+        },
+        {
+          "num": 9,
+          "answer": 1
+        },
+        {
+          "num": 10,
+          "answer": 2
+        },
+        {
+          "num": 11,
+          "answer": 3
+        },
+        {
+          "num": 12,
+          "answer": 3
+        },
+        {
+          "num": 13,
+          "answer": 2
+        },
+        {
+          "num": 14,
+          "answer": 0
+        },
+        {
+          "num": 15,
+          "answer": 0
+        },
+        {
+          "num": 16,
+          "answer": 3
+        },
+        {
+          "num": 17,
+          "answer": 1
+        },
+        {
+          "num": 18,
+          "answer": 2
+        },
+        {
+          "num": 19,
+          "answer": 3
+        },
+        {
+          "num": 20,
+          "answer": 3
+        },
+        {
+          "num": 21,
+          "answer": 2
+        },
+        {
+          "num": 22,
+          "answer": 1
+        },
+        {
+          "num": 23,
+          "answer": 3
+        },
+        {
+          "num": 24,
+          "answer": 1
+        },
+        {
+          "num": 25,
+          "answer": 0
+        }
+      ],
+      "_confidence": "low"
+    },
+    "2020-12_02": {
+      "answers": [
+        {
+          "num": 1,
+          "answer": 1
+        },
+        {
+          "num": 2,
+          "answer": 0
+        },
+        {
+          "num": 3,
+          "answer": 2
+        },
+        {
+          "num": 4,
+          "answer": 2
+        },
+        {
+          "num": 5,
+          "answer": 3
+        },
+        {
+          "num": 8,
+          "answer": 0
+        },
+        {
+          "num": 9,
+          "answer": 2
+        },
+        {
+          "num": 10,
+          "answer": 3
+        },
+        {
+          "num": 11,
+          "answer": 1
+        },
+        {
+          "num": 12,
+          "answer": 1
+        },
+        {
+          "num": 13,
+          "answer": 3
+        },
+        {
+          "num": 14,
+          "answer": 2
+        },
+        {
+          "num": 15,
+          "answer": 3
+        },
+        {
+          "num": 16,
+          "answer": 2
+        },
+        {
+          "num": 17,
+          "answer": 3
+        },
+        {
+          "num": 18,
+          "answer": 2
+        },
+        {
+          "num": 19,
+          "answer": 0
+        },
+        {
+          "num": 20,
+          "answer": 0
+        },
+        {
+          "num": 21,
+          "answer": 0
+        },
+        {
+          "num": 22,
+          "answer": 2
+        },
+        {
+          "num": 23,
+          "answer": 1
+        },
+        {
+          "num": 24,
+          "answer": 3
+        },
+        {
+          "num": 25,
+          "answer": 1
+        }
+      ],
+      "_confidence": "low"
+    },
+    "2020-12_01": {
+      "answers": [
+        {
+          "num": 1,
+          "answer": 1
+        },
+        {
+          "num": 2,
+          "answer": 1
+        },
+        {
+          "num": 3,
+          "answer": 0
+        },
+        {
+          "num": 4,
+          "answer": 1
+        },
+        {
+          "num": 5,
+          "answer": 0
+        },
+        {
+          "num": 6,
+          "answer": 2
+        },
+        {
+          "num": 7,
+          "answer": 0
+        },
+        {
+          "num": 8,
+          "answer": 0
+        },
+        {
+          "num": 9,
+          "answer": 2
+        },
+        {
+          "num": 10,
+          "answer": 3
+        },
+        {
+          "num": 11,
+          "answer": 0
+        },
+        {
+          "num": 12,
+          "answer": 2
+        },
+        {
+          "num": 13,
+          "answer": 3
+        },
+        {
+          "num": 14,
+          "answer": 1
+        },
+        {
+          "num": 15,
+          "answer": 2
+        },
+        {
+          "num": 16,
+          "answer": 2
+        },
+        {
+          "num": 17,
+          "answer": 0
+        },
+        {
+          "num": 18,
+          "answer": 0
+        },
+        {
+          "num": 19,
+          "answer": 1
+        },
+        {
+          "num": 20,
+          "answer": 0
+        },
+        {
+          "num": 21,
+          "answer": 2
+        },
+        {
+          "num": 22,
+          "answer": 0
+        },
+        {
+          "num": 23,
+          "answer": 2
+        },
+        {
+          "num": 24,
+          "answer": 3
+        },
+        {
+          "num": 25,
+          "answer": 3
+        }
+      ],
+      "_confidence": "low"
+    },
+    "2021-12_01": {
+      "answers": [
+        {
+          "num": 1,
+          "answer": 3
+        },
+        {
+          "num": 2,
+          "answer": 2
+        },
+        {
+          "num": 3,
+          "answer": 2
+        },
+        {
+          "num": 5,
+          "answer": 1
+        },
+        {
+          "num": 7,
+          "answer": 2
+        },
+        {
+          "num": 8,
+          "answer": 1
+        },
+        {
+          "num": 9,
+          "answer": 0
+        },
+        {
+          "num": 10,
+          "answer": 2
+        },
+        {
+          "num": 11,
+          "answer": 1
+        },
+        {
+          "num": 14,
+          "answer": 1
+        },
+        {
+          "num": 16,
+          "answer": 0
+        },
+        {
+          "num": 17,
+          "answer": 2
+        },
+        {
+          "num": 19,
+          "answer": 1
+        },
+        {
+          "num": 20,
+          "answer": 0
+        },
+        {
+          "num": 21,
+          "answer": 1
+        },
+        {
+          "num": 22,
+          "answer": 0
+        },
+        {
+          "num": 24,
+          "answer": 1
+        }
+      ],
+      "_confidence": "low"
+    },
+    "2021-12_02": {
+      "answers": [
+        {
+          "num": 1,
+          "answer": 1
+        },
+        {
+          "num": 2,
+          "answer": 1
+        },
+        {
+          "num": 3,
+          "answer": 0
+        },
+        {
+          "num": 4,
+          "answer": 0
+        },
+        {
+          "num": 5,
+          "answer": 3
+        },
+        {
+          "num": 6,
+          "answer": 2
+        },
+        {
+          "num": 8,
+          "answer": 1
+        },
+        {
+          "num": 9,
+          "answer": 2
+        },
+        {
+          "num": 10,
+          "answer": 2
+        },
+        {
+          "num": 11,
+          "answer": 1
+        },
+        {
+          "num": 13,
+          "answer": 3
+        },
+        {
+          "num": 14,
+          "answer": 0
+        },
+        {
+          "num": 15,
+          "answer": 0
+        },
+        {
+          "num": 16,
+          "answer": 1
+        },
+        {
+          "num": 17,
+          "answer": 2
+        },
+        {
+          "num": 18,
+          "answer": 0
+        },
+        {
+          "num": 20,
+          "answer": 3
+        },
+        {
+          "num": 21,
+          "answer": 2
+        },
+        {
+          "num": 22,
+          "answer": 1
+        },
+        {
+          "num": 23,
+          "answer": 3
+        },
+        {
+          "num": 24,
+          "answer": 2
+        },
+        {
+          "num": 25,
+          "answer": 2
+        }
+      ],
+      "_confidence": "low"
+    },
+    "2021-06_02": {
+      "answers": [
+        {
+          "num": 2,
+          "answer": 2
+        },
+        {
+          "num": 3,
+          "answer": 2
+        },
+        {
+          "num": 4,
+          "answer": 2
+        },
+        {
+          "num": 5,
+          "answer": 2
+        },
+        {
+          "num": 6,
+          "answer": 0
+        },
+        {
+          "num": 7,
+          "answer": 0
+        },
+        {
+          "num": 8,
+          "answer": 0
+        },
+        {
+          "num": 9,
+          "answer": 0
+        },
+        {
+          "num": 10,
+          "answer": 0
+        },
+        {
+          "num": 12,
+          "answer": 3
+        },
+        {
+          "num": 14,
+          "answer": 1
+        },
+        {
+          "num": 15,
+          "answer": 1
+        },
+        {
+          "num": 16,
+          "answer": 3
+        },
+        {
+          "num": 18,
+          "answer": 0
+        },
+        {
+          "num": 19,
+          "answer": 3
+        },
+        {
+          "num": 20,
+          "answer": 2
+        },
+        {
+          "num": 21,
+          "answer": 0
+        },
+        {
+          "num": 22,
+          "answer": 0
+        },
+        {
+          "num": 23,
+          "answer": 3
+        },
+        {
+          "num": 24,
+          "answer": 0
+        },
+        {
+          "num": 25,
+          "answer": 2
+        }
+      ],
+      "_confidence": "low"
+    },
+    "2022-06_01": {
+      "answers": [
+        {
+          "num": 1,
+          "answer": 0
+        },
+        {
+          "num": 2,
+          "answer": 1
+        },
+        {
+          "num": 3,
+          "answer": 2
+        },
+        {
+          "num": 4,
+          "answer": 2
+        },
+        {
+          "num": 5,
+          "answer": 1
+        },
+        {
+          "num": 6,
+          "answer": 0
+        },
+        {
+          "num": 7,
+          "answer": 3
+        },
+        {
+          "num": 8,
+          "answer": 3
+        },
+        {
+          "num": 9,
+          "answer": 0
+        },
+        {
+          "num": 10,
+          "answer": 1
+        },
+        {
+          "num": 11,
+          "answer": 1
+        },
+        {
+          "num": 12,
+          "answer": 0
+        },
+        {
+          "num": 13,
+          "answer": 1
+        },
+        {
+          "num": 14,
+          "answer": 0
+        },
+        {
+          "num": 15,
+          "answer": 0
+        },
+        {
+          "num": 16,
+          "answer": 0
+        },
+        {
+          "num": 17,
+          "answer": 1
+        },
+        {
+          "num": 18,
+          "answer": 0
+        },
+        {
+          "num": 19,
+          "answer": 0
+        },
+        {
+          "num": 20,
+          "answer": 3
+        },
+        {
+          "num": 21,
+          "answer": 0
+        },
+        {
+          "num": 22,
+          "answer": 0
+        },
+        {
+          "num": 23,
+          "answer": 3
+        },
+        {
+          "num": 24,
+          "answer": 3
+        },
+        {
+          "num": 25,
+          "answer": 1
+        }
+      ],
+      "_confidence": "low"
+    },
+    "2022-12_01": {
+      "answers": [
+        {
+          "num": 1,
+          "answer": 1
+        },
+        {
+          "num": 2,
+          "answer": 1
+        },
+        {
+          "num": 3,
+          "answer": 0
+        },
+        {
+          "num": 4,
+          "answer": 1
+        },
+        {
+          "num": 5,
+          "answer": 1
+        },
+        {
+          "num": 6,
+          "answer": 1
+        },
+        {
+          "num": 7,
+          "answer": 2
+        },
+        {
+          "num": 8,
+          "answer": 1
+        },
+        {
+          "num": 9,
+          "answer": 1
+        },
+        {
+          "num": 10,
+          "answer": 2
+        },
+        {
+          "num": 11,
+          "answer": 0
+        },
+        {
+          "num": 12,
+          "answer": 2
+        },
+        {
+          "num": 13,
+          "answer": 3
+        },
+        {
+          "num": 14,
+          "answer": 1
+        },
+        {
+          "num": 15,
+          "answer": 3
+        },
+        {
+          "num": 16,
+          "answer": 3
+        },
+        {
+          "num": 17,
+          "answer": 2
+        },
+        {
+          "num": 18,
+          "answer": 1
+        },
+        {
+          "num": 19,
+          "answer": 2
+        },
+        {
+          "num": 22,
+          "answer": 2
+        },
+        {
+          "num": 23,
+          "answer": 2
+        },
+        {
+          "num": 24,
+          "answer": 1
+        },
+        {
+          "num": 25,
+          "answer": 3
+        }
+      ],
+      "_confidence": "low"
+    },
+    "2023-06_01": {
+      "answers": [
+        {
+          "num": 1,
+          "answer": 3
+        },
+        {
+          "num": 2,
+          "answer": 0
+        },
+        {
+          "num": 3,
+          "answer": 2
+        },
+        {
+          "num": 4,
+          "answer": 0
+        },
+        {
+          "num": 5,
+          "answer": 3
+        },
+        {
+          "num": 6,
+          "answer": 2
+        },
+        {
+          "num": 7,
+          "answer": 0
+        },
+        {
+          "num": 8,
+          "answer": 3
+        },
+        {
+          "num": 9,
+          "answer": 0
+        },
+        {
+          "num": 10,
+          "answer": 3
+        },
+        {
+          "num": 11,
+          "answer": 1
+        },
+        {
+          "num": 12,
+          "answer": 2
+        },
+        {
+          "num": 13,
+          "answer": 3
+        },
+        {
+          "num": 14,
+          "answer": 1
+        },
+        {
+          "num": 15,
+          "answer": 2
+        },
+        {
+          "num": 16,
+          "answer": 0
+        },
+        {
+          "num": 17,
+          "answer": 2
+        },
+        {
+          "num": 18,
+          "answer": 1
+        },
+        {
+          "num": 19,
+          "answer": 3
+        },
+        {
+          "num": 20,
+          "answer": 2
+        },
+        {
+          "num": 21,
+          "answer": 1
+        },
+        {
+          "num": 22,
+          "answer": 3
+        },
+        {
+          "num": 23,
+          "answer": 0
+        },
+        {
+          "num": 24,
+          "answer": 3
+        }
+      ],
+      "_confidence": "low"
+    },
+    "2022-12_02": {
+      "answers": [
+        {
+          "num": 1,
+          "answer": 0
+        },
+        {
+          "num": 2,
+          "answer": 0
+        },
+        {
+          "num": 3,
+          "answer": 2
+        },
+        {
+          "num": 4,
+          "answer": 0
+        },
+        {
+          "num": 5,
+          "answer": 0
+        },
+        {
+          "num": 6,
+          "answer": 3
+        },
+        {
+          "num": 7,
+          "answer": 0
+        },
+        {
+          "num": 8,
+          "answer": 1
+        },
+        {
+          "num": 9,
+          "answer": 1
+        },
+        {
+          "num": 10,
+          "answer": 0
+        },
+        {
+          "num": 11,
+          "answer": 2
+        },
+        {
+          "num": 12,
+          "answer": 0
+        },
+        {
+          "num": 13,
+          "answer": 0
+        },
+        {
+          "num": 14,
+          "answer": 3
+        },
+        {
+          "num": 15,
+          "answer": 0
+        },
+        {
+          "num": 16,
+          "answer": 2
+        },
+        {
+          "num": 17,
+          "answer": 0
+        },
+        {
+          "num": 18,
+          "answer": 1
+        },
+        {
+          "num": 19,
+          "answer": 1
+        },
+        {
+          "num": 20,
+          "answer": 3
+        },
+        {
+          "num": 21,
+          "answer": 0
+        },
+        {
+          "num": 23,
+          "answer": 3
+        },
+        {
+          "num": 24,
+          "answer": 3
+        },
+        {
+          "num": 25,
+          "answer": 3
+        }
+      ],
+      "_confidence": "low"
+    },
+    "2023-06_02": {
+      "answers": [
+        {
+          "num": 1,
+          "answer": 2
+        },
+        {
+          "num": 2,
+          "answer": 0
+        },
+        {
+          "num": 3,
+          "answer": 0
+        },
+        {
+          "num": 4,
+          "answer": 2
+        },
+        {
+          "num": 5,
+          "answer": 2
+        },
+        {
+          "num": 6,
+          "answer": 0
+        },
+        {
+          "num": 7,
+          "answer": 2
+        },
+        {
+          "num": 8,
+          "answer": 0
+        },
+        {
+          "num": 9,
+          "answer": 3
+        },
+        {
+          "num": 10,
+          "answer": 2
+        },
+        {
+          "num": 11,
+          "answer": 3
+        },
+        {
+          "num": 12,
+          "answer": 2
+        },
+        {
+          "num": 13,
+          "answer": 1
+        },
+        {
+          "num": 14,
+          "answer": 0
+        },
+        {
+          "num": 15,
+          "answer": 0
+        },
+        {
+          "num": 16,
+          "answer": 2
+        },
+        {
+          "num": 17,
+          "answer": 1
+        },
+        {
+          "num": 18,
+          "answer": 0
+        },
+        {
+          "num": 19,
+          "answer": 2
+        },
+        {
+          "num": 20,
+          "answer": 3
+        },
+        {
+          "num": 21,
+          "answer": 3
+        },
+        {
+          "num": 22,
+          "answer": 0
+        },
+        {
+          "num": 23,
+          "answer": 0
+        },
+        {
+          "num": 24,
+          "answer": 3
+        }
+      ],
+      "_confidence": "low"
+    },
+    "2023-12_02": {
+      "answers": [
+        {
+          "num": 1,
+          "answer": 0
+        },
+        {
+          "num": 2,
+          "answer": 0
+        },
+        {
+          "num": 3,
+          "answer": 0
+        },
+        {
+          "num": 4,
+          "answer": 2
+        },
+        {
+          "num": 5,
+          "answer": 2
+        },
+        {
+          "num": 6,
+          "answer": 0
+        },
+        {
+          "num": 7,
+          "answer": 1
+        },
+        {
+          "num": 8,
+          "answer": 3
+        },
+        {
+          "num": 9,
+          "answer": 0
+        },
+        {
+          "num": 10,
+          "answer": 1
+        },
+        {
+          "num": 11,
+          "answer": 0
+        },
+        {
+          "num": 12,
+          "answer": 2
+        },
+        {
+          "num": 14,
+          "answer": 0
+        },
+        {
+          "num": 15,
+          "answer": 1
+        },
+        {
+          "num": 16,
+          "answer": 2
+        },
+        {
+          "num": 17,
+          "answer": 0
+        },
+        {
+          "num": 18,
+          "answer": 0
+        },
+        {
+          "num": 19,
+          "answer": 2
+        },
+        {
+          "num": 20,
+          "answer": 0
+        },
+        {
+          "num": 21,
+          "answer": 2
+        },
+        {
+          "num": 22,
+          "answer": 0
+        },
+        {
+          "num": 23,
+          "answer": 2
+        },
+        {
+          "num": 24,
+          "answer": 1
+        },
+        {
+          "num": 25,
+          "answer": 0
+        }
+      ],
+      "_confidence": "low"
+    },
+    "2024-06_01": {
+      "answers": [
+        {
+          "num": 1,
+          "answer": 2
+        },
+        {
+          "num": 2,
+          "answer": 3
+        },
+        {
+          "num": 3,
+          "answer": 3
+        },
+        {
+          "num": 4,
+          "answer": 3
+        },
+        {
+          "num": 5,
+          "answer": 3
+        },
+        {
+          "num": 6,
+          "answer": 2
+        },
+        {
+          "num": 7,
+          "answer": 2
+        },
+        {
+          "num": 8,
+          "answer": 2
+        },
+        {
+          "num": 9,
+          "answer": 2
+        },
+        {
+          "num": 10,
+          "answer": 3
+        },
+        {
+          "num": 11,
+          "answer": 1
+        },
+        {
+          "num": 12,
+          "answer": 0
+        },
+        {
+          "num": 13,
+          "answer": 1
+        },
+        {
+          "num": 14,
+          "answer": 3
+        },
+        {
+          "num": 15,
+          "answer": 2
+        },
+        {
+          "num": 16,
+          "answer": 2
+        },
+        {
+          "num": 18,
+          "answer": 2
+        },
+        {
+          "num": 19,
+          "answer": 3
+        },
+        {
+          "num": 20,
+          "answer": 3
+        },
+        {
+          "num": 21,
+          "answer": 0
+        },
+        {
+          "num": 22,
+          "answer": 1
+        },
+        {
+          "num": 23,
+          "answer": 0
+        },
+        {
+          "num": 24,
+          "answer": 0
+        },
+        {
+          "num": 25,
+          "answer": 3
+        }
+      ],
+      "_confidence": "low"
+    },
+    "2023-12_01": {
+      "answers": [
+        {
+          "num": 1,
+          "answer": 1
+        },
+        {
+          "num": 2,
+          "answer": 0
+        },
+        {
+          "num": 3,
+          "answer": 2
+        },
+        {
+          "num": 4,
+          "answer": 3
+        },
+        {
+          "num": 5,
+          "answer": 2
+        },
+        {
+          "num": 6,
+          "answer": 0
+        },
+        {
+          "num": 7,
+          "answer": 2
+        },
+        {
+          "num": 8,
+          "answer": 3
+        },
+        {
+          "num": 9,
+          "answer": 2
+        },
+        {
+          "num": 10,
+          "answer": 1
+        },
+        {
+          "num": 11,
+          "answer": 3
+        },
+        {
+          "num": 12,
+          "answer": 0
+        },
+        {
+          "num": 13,
+          "answer": 0
+        },
+        {
+          "num": 14,
+          "answer": 1
+        },
+        {
+          "num": 15,
+          "answer": 3
+        },
+        {
+          "num": 16,
+          "answer": 0
+        },
+        {
+          "num": 17,
+          "answer": 3
+        },
+        {
+          "num": 18,
+          "answer": 2
+        },
+        {
+          "num": 19,
+          "answer": 0
+        },
+        {
+          "num": 20,
+          "answer": 3
+        },
+        {
+          "num": 21,
+          "answer": 1
+        },
+        {
+          "num": 22,
+          "answer": 1
+        },
+        {
+          "num": 23,
+          "answer": 0
+        },
+        {
+          "num": 24,
+          "answer": 2
+        },
+        {
+          "num": 25,
+          "answer": 3
+        }
+      ],
+      "_confidence": "low"
+    },
+    "2024-06_02": {
+      "answers": [
+        {
+          "num": 1,
+          "answer": 0
+        },
+        {
+          "num": 2,
+          "answer": 0
+        },
+        {
+          "num": 3,
+          "answer": 2
+        },
+        {
+          "num": 4,
+          "answer": 0
+        },
+        {
+          "num": 5,
+          "answer": 0
+        },
+        {
+          "num": 6,
+          "answer": 1
+        },
+        {
+          "num": 7,
+          "answer": 0
+        },
+        {
+          "num": 8,
+          "answer": 3
+        },
+        {
+          "num": 9,
+          "answer": 2
+        },
+        {
+          "num": 10,
+          "answer": 1
+        },
+        {
+          "num": 11,
+          "answer": 1
+        },
+        {
+          "num": 12,
+          "answer": 0
+        },
+        {
+          "num": 13,
+          "answer": 2
+        },
+        {
+          "num": 14,
+          "answer": 1
+        },
+        {
+          "num": 15,
+          "answer": 3
+        },
+        {
+          "num": 16,
+          "answer": 3
+        },
+        {
+          "num": 17,
+          "answer": 1
+        },
+        {
+          "num": 18,
+          "answer": 1
+        },
+        {
+          "num": 19,
+          "answer": 0
+        },
+        {
+          "num": 20,
+          "answer": 1
+        },
+        {
+          "num": 21,
+          "answer": 3
+        },
+        {
+          "num": 22,
+          "answer": 0
+        },
+        {
+          "num": 23,
+          "answer": 0
+        },
+        {
+          "num": 25,
+          "answer": 3
+        }
+      ],
+      "_confidence": "low"
+    },
+    "2024-12_01": {
+      "answers": [
+        {
+          "num": 1,
+          "answer": 3
+        },
+        {
+          "num": 2,
+          "answer": 3
+        },
+        {
+          "num": 3,
+          "answer": 0
+        },
+        {
+          "num": 4,
+          "answer": 0
+        },
+        {
+          "num": 5,
+          "answer": 2
+        },
+        {
+          "num": 6,
+          "answer": 2
+        },
+        {
+          "num": 7,
+          "answer": 0
+        },
+        {
+          "num": 9,
+          "answer": 3
+        },
+        {
+          "num": 10,
+          "answer": 2
+        },
+        {
+          "num": 11,
+          "answer": 2
+        },
+        {
+          "num": 12,
+          "answer": 2
+        },
+        {
+          "num": 13,
+          "answer": 1
+        },
+        {
+          "num": 14,
+          "answer": 1
+        },
+        {
+          "num": 15,
+          "answer": 0
+        },
+        {
+          "num": 16,
+          "answer": 2
+        },
+        {
+          "num": 17,
+          "answer": 1
+        },
+        {
+          "num": 18,
+          "answer": 3
+        },
+        {
+          "num": 19,
+          "answer": 2
+        },
+        {
+          "num": 20,
+          "answer": 0
+        },
+        {
+          "num": 21,
+          "answer": 0
+        },
+        {
+          "num": 22,
+          "answer": 2
+        },
+        {
+          "num": 23,
+          "answer": 2
+        },
+        {
+          "num": 24,
+          "answer": 3
+        },
+        {
+          "num": 25,
+          "answer": 1
+        }
+      ],
+      "_confidence": "low"
+    },
+    "2024-12_02": {
+      "answers": [
+        {
+          "num": 1,
+          "answer": 3
+        },
+        {
+          "num": 2,
+          "answer": 2
+        },
+        {
+          "num": 3,
+          "answer": 1
+        },
+        {
+          "num": 5,
+          "answer": 2
+        },
+        {
+          "num": 6,
+          "answer": 2
+        },
+        {
+          "num": 7,
+          "answer": 2
+        },
+        {
+          "num": 8,
+          "answer": 1
+        },
+        {
+          "num": 9,
+          "answer": 1
+        },
+        {
+          "num": 10,
+          "answer": 1
+        },
+        {
+          "num": 11,
+          "answer": 1
+        },
+        {
+          "num": 12,
+          "answer": 3
+        },
+        {
+          "num": 13,
+          "answer": 0
+        },
+        {
+          "num": 14,
+          "answer": 2
+        },
+        {
+          "num": 15,
+          "answer": 0
+        },
+        {
+          "num": 16,
+          "answer": 3
+        },
+        {
+          "num": 17,
+          "answer": 2
+        },
+        {
+          "num": 18,
+          "answer": 1
+        },
+        {
+          "num": 19,
+          "answer": 0
+        },
+        {
+          "num": 20,
+          "answer": 3
+        },
+        {
+          "num": 21,
+          "answer": 1
+        },
+        {
+          "num": 22,
+          "answer": 0
+        },
+        {
+          "num": 23,
+          "answer": 3
+        },
+        {
+          "num": 25,
+          "answer": 2
+        }
+      ],
+      "_confidence": "low"
+    },
+    "2025-06_01": {
+      "answers": [
+        {
+          "num": 1,
+          "answer": 1
+        },
+        {
+          "num": 2,
+          "answer": 3
+        },
+        {
+          "num": 4,
+          "answer": 0
+        },
+        {
+          "num": 5,
+          "answer": 1
+        },
+        {
+          "num": 6,
+          "answer": 3
+        },
+        {
+          "num": 7,
+          "answer": 2
+        },
+        {
+          "num": 8,
+          "answer": 3
+        },
+        {
+          "num": 9,
+          "answer": 0
+        },
+        {
+          "num": 10,
+          "answer": 1
+        },
+        {
+          "num": 11,
+          "answer": 0
+        },
+        {
+          "num": 12,
+          "answer": 1
+        },
+        {
+          "num": 13,
+          "answer": 2
+        },
+        {
+          "num": 14,
+          "answer": 0
+        },
+        {
+          "num": 15,
+          "answer": 1
+        },
+        {
+          "num": 16,
+          "answer": 3
+        },
+        {
+          "num": 17,
+          "answer": 0
+        },
+        {
+          "num": 18,
+          "answer": 0
+        },
+        {
+          "num": 19,
+          "answer": 0
+        },
+        {
+          "num": 20,
+          "answer": 3
+        },
+        {
+          "num": 21,
+          "answer": 2
+        },
+        {
+          "num": 22,
+          "answer": 1
+        },
+        {
+          "num": 23,
+          "answer": 3
+        },
+        {
+          "num": 24,
+          "answer": 3
+        },
+        {
+          "num": 25,
+          "answer": 0
+        }
+      ],
+      "_confidence": "low"
+    },
+    "2025-12_02": {
+      "answers": [
+        {
+          "num": 1,
+          "answer": 1
+        },
+        {
+          "num": 2,
+          "answer": 0
+        },
+        {
+          "num": 4,
+          "answer": 0
+        },
+        {
+          "num": 5,
+          "answer": 2
+        },
+        {
+          "num": 7,
+          "answer": 0
+        },
+        {
+          "num": 8,
+          "answer": 2
+        },
+        {
+          "num": 9,
+          "answer": 0
+        },
+        {
+          "num": 10,
+          "answer": 2
+        },
+        {
+          "num": 11,
+          "answer": 0
+        },
+        {
+          "num": 12,
+          "answer": 2
+        },
+        {
+          "num": 13,
+          "answer": 0
+        },
+        {
+          "num": 14,
+          "answer": 1
+        },
+        {
+          "num": 15,
+          "answer": 3
+        },
+        {
+          "num": 16,
+          "answer": 2
+        },
+        {
+          "num": 17,
+          "answer": 2
+        },
+        {
+          "num": 18,
+          "answer": 2
+        },
+        {
+          "num": 19,
+          "answer": 2
+        },
+        {
+          "num": 20,
+          "answer": 0
+        },
+        {
+          "num": 21,
+          "answer": 2
+        },
+        {
+          "num": 22,
+          "answer": 2
+        },
+        {
+          "num": 23,
+          "answer": 0
+        },
+        {
+          "num": 24,
+          "answer": 2
+        },
+        {
+          "num": 25,
+          "answer": 1
+        }
+      ],
+      "_confidence": "low"
+    },
+    "2025-12_01": {
+      "answers": [
+        {
+          "num": 1,
+          "answer": 0
+        },
+        {
+          "num": 2,
+          "answer": 2
+        },
+        {
+          "num": 3,
+          "answer": 2
+        },
+        {
+          "num": 4,
+          "answer": 0
+        },
+        {
+          "num": 5,
+          "answer": 0
+        },
+        {
+          "num": 6,
+          "answer": 2
+        },
+        {
+          "num": 8,
+          "answer": 0
+        },
+        {
+          "num": 9,
+          "answer": 3
+        },
+        {
+          "num": 10,
+          "answer": 0
+        },
+        {
+          "num": 11,
+          "answer": 0
+        },
+        {
+          "num": 12,
+          "answer": 1
+        },
+        {
+          "num": 13,
+          "answer": 0
+        },
+        {
+          "num": 14,
+          "answer": 2
+        },
+        {
+          "num": 15,
+          "answer": 0
+        },
+        {
+          "num": 16,
+          "answer": 1
+        },
+        {
+          "num": 17,
+          "answer": 2
+        },
+        {
+          "num": 18,
+          "answer": 3
+        },
+        {
+          "num": 19,
+          "answer": 1
+        },
+        {
+          "num": 20,
+          "answer": 1
+        },
+        {
+          "num": 21,
+          "answer": 2
+        },
+        {
+          "num": 22,
+          "answer": 0
+        },
+        {
+          "num": 23,
+          "answer": 0
+        },
+        {
+          "num": 24,
+          "answer": 0
+        },
+        {
+          "num": 25,
+          "answer": 0
+        }
+      ],
+      "_confidence": "low"
+    },
+    "2025-06_02": {
+      "answers": [
+        {
+          "num": 1,
+          "answer": 3
+        },
+        {
+          "num": 2,
+          "answer": 0
+        },
+        {
+          "num": 3,
+          "answer": 0
+        },
+        {
+          "num": 4,
+          "answer": 3
+        },
+        {
+          "num": 5,
+          "answer": 1
+        },
+        {
+          "num": 6,
+          "answer": 2
+        },
+        {
+          "num": 7,
+          "answer": 0
+        },
+        {
+          "num": 8,
+          "answer": 1
+        },
+        {
+          "num": 9,
+          "answer": 3
+        },
+        {
+          "num": 10,
+          "answer": 2
+        },
+        {
+          "num": 11,
+          "answer": 1
+        },
+        {
+          "num": 12,
+          "answer": 0
+        },
+        {
+          "num": 13,
+          "answer": 3
+        },
+        {
+          "num": 14,
+          "answer": 3
+        },
+        {
+          "num": 15,
+          "answer": 3
+        },
+        {
+          "num": 16,
+          "answer": 2
+        },
+        {
+          "num": 17,
+          "answer": 0
+        },
+        {
+          "num": 18,
+          "answer": 3
+        },
+        {
+          "num": 19,
+          "answer": 0
+        },
+        {
+          "num": 20,
+          "answer": 1
+        },
+        {
+          "num": 21,
+          "answer": 2
+        },
+        {
+          "num": 22,
+          "answer": 2
+        },
+        {
+          "num": 23,
+          "answer": 0
+        },
+        {
+          "num": 24,
+          "answer": 1
+        },
+        {
+          "num": 25,
+          "answer": 1
+        }
+      ],
+      "_confidence": "low"
+    }
+  },
+  "meta": {
+    "_confidence": "low"
+  }
+}

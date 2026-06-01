@@ -1,5 +1,11 @@
 # -*- coding: utf-8 -*-
-"""Append exam papers 4-8 to questions.js using real translation anchors (offline, no CC API)."""
+"""DEPRECATED — use scripts/07_build_exam_bank.py instead.
+
+This script only appends papers 4–8 from translation anchors. The current
+pipeline builds all 59 papers from cet6_zhenti_cleaned txt via 07_build_exam_bank.py.
+Run: powershell -File scripts/rebuild_exam_bank.ps1
+Or full pipeline: powershell -File scripts/rebuild_all.ps1
+"""
 from __future__ import annotations
 
 import copy

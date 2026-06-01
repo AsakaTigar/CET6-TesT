@@ -1,0 +1,233 @@
+{
+  "ts": "2026-06-01T15:40:55.277Z",
+  "total": 59,
+  "errors": 0,
+  "warnings": 37,
+  "items": {
+    "errors": [],
+    "warnings": [
+      {
+        "id": 1,
+        "name": "2025年12月·第3套",
+        "type": "template_listening",
+        "msg": "listening from template fallback"
+      },
+      {
+        "id": 4,
+        "name": "2025年6月·第3套",
+        "type": "template_listening",
+        "msg": "listening from template fallback"
+      },
+      {
+        "id": 7,
+        "name": "2024年12月·第3套",
+        "type": "template_listening",
+        "msg": "listening from template fallback"
+      },
+      {
+        "id": 10,
+        "name": "2024年6月·第3套",
+        "type": "template_listening",
+        "msg": "listening from template fallback"
+      },
+      {
+        "id": 13,
+        "name": "2023年12月·第3套",
+        "type": "template_listening",
+        "msg": "listening from template fallback"
+      },
+      {
+        "id": 16,
+        "name": "2023年6月·第3套",
+        "type": "template_listening",
+        "msg": "listening from template fallback"
+      },
+      {
+        "id": 17,
+        "name": "2023年6月·第2套",
+        "type": "template_reading",
+        "msg": "reading from template fallback"
+      },
+      {
+        "id": 18,
+        "name": "2023年6月·第1套",
+        "type": "template_reading",
+        "msg": "reading from template fallback"
+      },
+      {
+        "id": 19,
+        "name": "2022年12月·第3套",
+        "type": "template_listening",
+        "msg": "listening from template fallback"
+      },
+      {
+        "id": 22,
+        "name": "2022年6月·第2套",
+        "type": "template_listening",
+        "msg": "listening from template fallback"
+      },
+      {
+        "id": 23,
+        "name": "2022年6月·第1套",
+        "type": "template_reading",
+        "msg": "reading from template fallback"
+      },
+      {
+        "id": 24,
+        "name": "2021年12月·第3套",
+        "type": "template_listening",
+        "msg": "listening from template fallback"
+      },
+      {
+        "id": 25,
+        "name": "2021年12月·第2套",
+        "type": "template_reading",
+        "msg": "reading from template fallback"
+      },
+      {
+        "id": 27,
+        "name": "2021年6月·第3套",
+        "type": "template_listening",
+        "msg": "listening from template fallback"
+      },
+      {
+        "id": 30,
+        "name": "2020年12月·第3套",
+        "type": "template_listening",
+        "msg": "listening from template fallback"
+      },
+      {
+        "id": 33,
+        "name": "2020年9月·第2套",
+        "type": "template_listening",
+        "msg": "listening from template fallback"
+      },
+      {
+        "id": 34,
+        "name": "2020年9月·第1套",
+        "type": "template_reading",
+        "msg": "reading from template fallback"
+      },
+      {
+        "id": 34,
+        "name": "2020年9月·第1套",
+        "type": "template_listening",
+        "msg": "listening from template fallback"
+      },
+      {
+        "id": 35,
+        "name": "2020年7月·第1套",
+        "type": "template_reading",
+        "msg": "reading from template fallback"
+      },
+      {
+        "id": 36,
+        "name": "2019年12月·第3套",
+        "type": "template_listening",
+        "msg": "listening from template fallback"
+      },
+      {
+        "id": 37,
+        "name": "2019年12月·第2套",
+        "type": "template_reading",
+        "msg": "reading from template fallback"
+      },
+      {
+        "id": 37,
+        "name": "2019年12月·第2套",
+        "type": "template_listening",
+        "msg": "listening from template fallback"
+      },
+      {
+        "id": 38,
+        "name": "2019年12月·第1套",
+        "type": "template_reading",
+        "msg": "reading from template fallback"
+      },
+      {
+        "id": 38,
+        "name": "2019年12月·第1套",
+        "type": "template_listening",
+        "msg": "listening from template fallback"
+      },
+      {
+        "id": 39,
+        "name": "2019年6月·第3套",
+        "type": "template_listening",
+        "msg": "listening from template fallback"
+      },
+      {
+        "id": 40,
+        "name": "2019年6月·第2套",
+        "type": "template_listening",
+        "msg": "listening from template fallback"
+      },
+      {
+        "id": 42,
+        "name": "2018年12月·第3套",
+        "type": "template_listening",
+        "msg": "listening from template fallback"
+      },
+      {
+        "id": 45,
+        "name": "2018年6月·第3套",
+        "type": "template_listening",
+        "msg": "listening from template fallback"
+      },
+      {
+        "id": 48,
+        "name": "2017年12月·第3套",
+        "type": "template_listening",
+        "msg": "listening from template fallback"
+      },
+      {
+        "id": 51,
+        "name": "2017年6月·第3套",
+        "type": "template_listening",
+        "msg": "listening from template fallback"
+      },
+      {
+        "id": 52,
+        "name": "2017年6月·第2套",
+        "type": "template_reading",
+        "msg": "reading from template fallback"
+      },
+      {
+        "id": 53,
+        "name": "2017年6月·第1套",
+        "type": "template_reading",
+        "msg": "reading from template fallback"
+      },
+      {
+        "id": 54,
+        "name": "2016年12月·第3套",
+        "type": "template_listening",
+        "msg": "listening from template fallback"
+      },
+      {
+        "id": 55,
+        "name": "2016年12月·第2套",
+        "type": "template_reading",
+        "msg": "reading from template fallback"
+      },
+      {
+        "id": 56,
+        "name": "2016年12月·第1套",
+        "type": "template_listening",
+        "msg": "listening from template fallback"
+      },
+      {
+        "id": 57,
+        "name": "2016年6月·第3套",
+        "type": "template_listening",
+        "msg": "listening from template fallback"
+      },
+      {
+        "id": 58,
+        "name": "2016年6月·第2套",
+        "type": "template_listening",
+        "msg": "listening from template fallback"
+      }
+    ]
+  }
+}

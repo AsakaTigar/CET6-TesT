@@ -12,6 +12,11 @@ BASE = Path(__file__).resolve().parent.parent
 TXT_DIR = BASE / "cet6_exam_questions_txt_collection" / "cet6_zhenti_cleaned"
 ANCHORS = BASE / "分析结果" / "translation_anchors.json"
 REF_DB = BASE / "分析结果" / "translation_references.json"
+READING_PARSED = BASE / "分析结果" / "reading_parsed.json"
+READING_ANS = BASE / "分析结果" / "reading_answers.json"
+LISTENING_PARSED = BASE / "分析结果" / "listening_parsed.json"
+LISTENING_SCRIPTS = BASE / "分析结果" / "listening_scripts.json"
+LISTENING_ANS = BASE / "分析结果" / "listening_answers.json"
 GLOSSARY = BASE / "分析结果" / "六级翻译高频500.json"
 QUESTIONS = BASE / "模拟考试" / "questions.js"
 TEMPLATE_SRC = BASE / "模拟考试" / "questions.backup.js"
@@ -140,6 +145,18 @@ def match_anchor(cn_text: str, by_id: dict[str, dict], items: list[dict], year: 
     return best if score >= 20 else None
 
 
+_WRITING_STOP = re.compile(
+    r"(?:"
+    r"Part\s*(?:II|I\][\s\[]|ll|1[1l])\b"
+    r"|Listening\s+Comprehension"
+    r"|Section\s+A\s*\n\s*Directions:\s*In\s+this\s+section,\s*you\s+will\s+hear"
+    r"|Questions\s+1\s+to\s+4\s+are\s+based"
+    r"|Part\s*III\b"
+    r")",
+    re.I,
+)
+
+
 def extract_writing(text: str) -> str:
     m = re.search(
         r"Part\s*I[^\n]*\n(?:[^\n]*\n)*?Writing[^\n]*\n(.*?)(?=Part\s*(?:II|III|IV|N)\b|\Z)",
@@ -155,10 +172,16 @@ def extract_writing(text: str) -> str:
     if not m:
         return ""
     block = m.group(1)
-    dm = re.search(r"Directions\s*[:：]?\s*(.+?)(?=Part\s*(?:II|III|IV|N)\b|\Z)", block, re.S | re.I)
-    if dm:
-        return re.sub(r"\s+", " ", dm.group(1)).strip()
-    return re.sub(r"\s+", " ", block).strip()[:800]
+    dm = re.search(r"Directions\s*[:：]?\s*(.+)", block, re.S | re.I)
+    raw = dm.group(1) if dm else block
+    stop = _WRITING_STOP.search(raw)
+    if stop:
+        raw = raw[: stop.start()]
+    raw = re.sub(r"You should copy the sentence given in quotes.*$", "", raw, flags=re.I)
+    raw = re.sub(r"\s+", " ", raw).strip()
+    if len(raw) > 900:
+        raw = raw[:900].rsplit(".", 1)[0] + "." if "." in raw[:900] else raw[:900]
+    return raw
 
 
 def chinese_ratio(text: str) -> float:
@@ -172,6 +195,8 @@ def clean_translation_cn(raw: str) -> str:
     cn = re.sub(r"\s+#\s*20\d{2}年\s*$", "", raw)
     cn = re.sub(r"^(?:我的翻译|翻译范文)\s*", "", cn)
     cn = re.sub(r"(?:我的翻译|翻译范文)\s*", "", cn)
+    cn = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", cn)
+    cn = re.sub(r"([\u4e00-\u9fff])\s+(?=[\u4e00-\u9fff])", r"\1", cn)
     cn = re.sub(r"\s+", " ", cn).strip()
     return cn
 
@@ -329,6 +354,157 @@ def remap(obj, old: str, new: str):
     return obj
 
 
+def load_json_db(path: Path) -> dict:
+    if not path.is_file():
+        return {}
+    return json.loads(path.read_text(encoding="utf-8")).get("by_session", {})
+
+
+def answer_index(answers_list: list, num: int, default: int = 0) -> int:
+    for row in answers_list:
+        if int(row.get("num", -1)) == num:
+            return int(row.get("answer", default))
+    return default
+
+
+def apply_real_reading(paper: dict, sk: str, pid: int, parsed: dict, answers: dict) -> bool:
+    data = parsed.get(sk)
+    if not data:
+        paper.setdefault("reading", {})["_source"] = "template"
+        return False
+    ans = answers.get(sk, {})
+    rd = paper["reading"]
+    applied = False
+    if data.get("sectionA") and data["sectionA"].get("passage"):
+        sa = data["sectionA"]
+        rd["sectionA"]["passage"] = sa["passage"]
+        rd["sectionA"]["blanks"] = sa.get("blanks", rd["sectionA"].get("blanks", []))
+        if sa.get("bank"):
+            rd["sectionA"]["bank"] = sa["bank"]
+        if ans.get("sectionA"):
+            rd["sectionA"]["answers"] = ans["sectionA"]
+        applied = True
+    if data.get("sectionC") and data["sectionC"].get("passages"):
+        passages = []
+        ans_c = ans.get("sectionC") or []
+        for pi, pg in enumerate(data["sectionC"]["passages"]):
+            qs_out = []
+            for q in pg.get("questions", []):
+                aidx = answer_index([r for r in ans_c if r.get("_passage", 0) == pi], q["num"], 0)
+                qs_out.append({
+                    "num": q["num"],
+                    "q": q["q"],
+                    "options": q["options"],
+                    "answer": aidx,
+                })
+            passages.append({
+                "id": f"p{pid}r{pi+1}",
+                "source": f"{sk} 真题阅读",
+                "text": pg.get("text", ""),
+                "questions": qs_out,
+            })
+        rd["sectionC"]["passages"] = passages
+        applied = True
+    rd["_source"] = "real" if applied else "template"
+    return applied
+
+
+def apply_real_listening(paper: dict, sk: str, pid: int, parsed: dict, scripts: dict, answers: dict) -> bool:
+    data = parsed.get(sk)
+    if not data:
+        paper.setdefault("listening", {})["_source"] = "template"
+        return False
+    ans_map = {int(r["num"]): int(r["answer"]) for r in answers.get(sk, {}).get("answers", [])}
+    scr = scripts.get(sk, {}) or {}
+
+    def get_script(sec: str, idx: int, default: str) -> str:
+        arr = scr.get(sec) or []
+        if idx < len(arr) and arr[idx] and len(str(arr[idx])) > 40:
+            return arr[idx]
+        return default
+    L = paper["listening"]
+
+    def build_qs(qlist, prefix):
+        out = []
+        for qi, q in enumerate(qlist):
+            out.append({
+                "q": q["q"],
+                "options": q["options"],
+                "answer": ans_map.get(q["num"], 0),
+            })
+        return out
+
+    def split_chunks(qs, sizes):
+        chunks, i = [], 0
+        for s in sizes:
+            chunks.append(qs[i : i + s])
+            i += s
+        if i < len(qs):
+            chunks.append(qs[i:])
+        return [c for c in chunks if c]
+
+    applied = False
+    sec_a = data.get("sectionA") or []
+    if len(sec_a) >= 4:
+        chunks = split_chunks(sec_a, [4, 4])
+        convs = []
+        for ci, chunk in enumerate(chunks[:2]):
+            script = get_script("sectionA", ci, "W: (Listen carefully to the conversation.)\nM: Choose the best answer for each question.")
+            convs.append({
+                "id": f"p{pid}c{ci+1}",
+                "script": script,
+                "questions": build_qs(chunk, "c"),
+            })
+        L["sectionA"]["conversations"] = convs
+        applied = True
+
+    sec_b = data.get("sectionB") or []
+    if len(sec_b) >= 3:
+        chunks = split_chunks(sec_b, [3, 4])
+        pss = []
+        for pi, chunk in enumerate(chunks[:2]):
+            script = get_script("sectionB", pi, "Today I'd like to discuss a topic related to the questions below.")
+            pss.append({
+                "id": f"p{pid}b{pi+1}",
+                "script": script,
+                "questions": build_qs(chunk, "b"),
+            })
+        L["sectionB"]["passages"] = pss
+        applied = True
+
+    sec_c = data.get("sectionC") or []
+    if "sectionC" not in L:
+        L["sectionC"] = {
+            "title": "Section C —— 讲座/讲话",
+            "directions": "You will hear recordings followed by questions. Click ▶ to play, then choose the best answer.",
+            "passages": [],
+        }
+    if len(sec_c) >= 4:
+        chunks = split_chunks(sec_c, [3, 3, 3, 3])
+        pss = []
+        for pi, chunk in enumerate(chunks[:3]):
+            script = get_script("sectionC", pi, "In this lecture, we will explore several ideas connected to the following questions.")
+            pss.append({
+                "id": f"p{pid}l{pi+1}",
+                "script": script,
+                "questions": build_qs(chunk, "l"),
+            })
+        if "sectionC" not in L:
+            L["sectionC"] = {
+                "title": "Section C —— 讲座/讲话",
+                "directions": "You will hear recordings followed by questions. Click ▶ to play, then choose the best answer.",
+                "passages": [],
+            }
+        L["sectionC"]["passages"] = pss
+        applied = True
+
+    conf = answers.get(sk, {}).get("_confidence")
+    if conf:
+        L["_answer_confidence"] = conf
+    L["_source"] = "real" if applied else "template"
+    return applied
+
+
 def build_paper(
     paper_id: int,
     year: int,
@@ -343,6 +519,11 @@ def build_paper(
     glossary: list[tuple[str, str, int]],
     backup_refs: list[tuple[str, str]],
     ref_db: dict[str, str],
+    reading_parsed: dict,
+    reading_ans: dict,
+    listening_parsed: dict,
+    listening_scripts: dict,
+    listening_ans: dict,
 ) -> dict:
     old = f"p{template['id']}"
     new = f"p{paper_id}"
@@ -380,6 +561,9 @@ def build_paper(
     tr["text"] = cn
     tr["reference"] = ref
     tr["points"] = build_points(cn, glossary)
+    sk = session_key(year, month, set_num)
+    apply_real_reading(paper, sk, paper_id, reading_parsed, reading_ans)
+    apply_real_listening(paper, sk, paper_id, listening_parsed, listening_scripts, listening_ans)
     return paper
 
 
@@ -401,11 +585,16 @@ def main() -> int:
     glossary = load_glossary()
     backup_refs = load_backup_refs()
     ref_db = load_ref_db()
+    reading_parsed = load_json_db(READING_PARSED)
+    reading_ans = load_json_db(READING_ANS)
+    listening_parsed = load_json_db(LISTENING_PARSED)
+    listening_scripts = load_json_db(LISTENING_SCRIPTS)
+    listening_ans = load_json_db(LISTENING_ANS)
     templates = load_templates()
     txt_files = sorted(TXT_DIR.glob("*.txt"), key=lambda p: p.stem, reverse=True)
 
     exams: list[dict] = []
-    stats = {"total": 0, "anchor_hit": 0, "ref_ok": 0}
+    stats = {"total": 0, "anchor_hit": 0, "ref_ok": 0, "reading_real": 0, "listening_real": 0}
 
     for i, fp in enumerate(txt_files, start=1):
         year, month, set_num, session = parse_filename(fp.stem)
@@ -428,18 +617,28 @@ def main() -> int:
                 print(f"WARN skip {fp.name}: no translation", file=sys.stderr)
                 continue
         tpl = templates[(i - 1) % len(templates)]
-        paper = build_paper(i, year, month, set_num, session, tpl, (i - 1) % len(templates), writing_dirs, cn, anchor, glossary, backup_refs, ref_db)
+        paper = build_paper(
+            i, year, month, set_num, session, tpl, (i - 1) % len(templates),
+            writing_dirs, cn, anchor, glossary, backup_refs, ref_db,
+            reading_parsed, reading_ans, listening_parsed, listening_scripts, listening_ans,
+        )
         exams.append(paper)
         stats["total"] += 1
         if anchor:
             stats["anchor_hit"] += 1
         if not paper["translation"]["reference"].startswith("（"):
             stats["ref_ok"] += 1
+        if paper.get("reading", {}).get("_source") == "real":
+            stats["reading_real"] += 1
+        if paper.get("listening", {}).get("_source") == "real":
+            stats["listening_real"] += 1
 
     write_questions(exams)
     print(f"OK built {stats['total']} papers -> {QUESTIONS}")
     print(f"  anchor matched: {stats['anchor_hit']}/{stats['total']}")
     print(f"  with reference: {stats['ref_ok']}/{stats['total']}")
+    print(f"  reading real: {stats['reading_real']}/{stats['total']}")
+    print(f"  listening real: {stats['listening_real']}/{stats['total']}")
     print(f"  years: {sorted({e['meta']['year'] for e in exams}, reverse=True)}")
     return 0
 
