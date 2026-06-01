@@ -1,0 +1,33 @@
+# === 密钥：绝不上传 ===
+模拟考试/poe_key.txt
+poe_key.txt
+*.key
+.env
+
+# === Python 缓存 ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# === 外部数据来源仓库（非本项目代码，体积大，README 中以链接注明出处）===
+CET6-Resources/
+dict/
+cet6_exam_questions_txt_collection/
+
+# === 本地备份 / 临时文件 ===
+模拟考试/questions.backup.js
+*.backup.js
+_*_tmp.js
+_verify_tmp.js
+~$*
+
+# === 系统 / 编辑器 ===
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+nul
+
+# === 本地工具会话数据，勿上传 ===
+.claude/

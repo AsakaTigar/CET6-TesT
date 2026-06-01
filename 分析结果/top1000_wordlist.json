@@ -1,0 +1,6002 @@
+[
+ {
+  "rank": 1,
+  "word": "one",
+  "freq": 520,
+  "doc_freq": 58
+ },
+ {
+  "rank": 2,
+  "word": "people",
+  "freq": 490,
+  "doc_freq": 59
+ },
+ {
+  "rank": 3,
+  "word": "make",
+  "freq": 443,
+  "doc_freq": 58
+ },
+ {
+  "rank": 4,
+  "word": "use",
+  "freq": 369,
+  "doc_freq": 56
+ },
+ {
+  "rank": 5,
+  "word": "say",
+  "freq": 321,
+  "doc_freq": 53
+ },
+ {
+  "rank": 6,
+  "word": "work",
+  "freq": 308,
+  "doc_freq": 53
+ },
+ {
+  "rank": 7,
+  "word": "may",
+  "freq": 308,
+  "doc_freq": 56
+ },
+ {
+  "rank": 8,
+  "word": "write",
+  "freq": 297,
+  "doc_freq": 59
+ },
+ {
+  "rank": 9,
+  "word": "word",
+  "freq": 288,
+  "doc_freq": 58
+ },
+ {
+  "rank": 10,
+  "word": "time",
+  "freq": 273,
+  "doc_freq": 55
+ },
+ {
+  "rank": 11,
+  "word": "take",
+  "freq": 259,
+  "doc_freq": 56
+ },
+ {
+  "rank": 12,
+  "word": "find",
+  "freq": 253,
+  "doc_freq": 58
+ },
+ {
+  "rank": 13,
+  "word": "new",
+  "freq": 249,
+  "doc_freq": 54
+ },
+ {
+  "rank": 14,
+  "word": "give",
+  "freq": 241,
+  "doc_freq": 57
+ },
+ {
+  "rank": 15,
+  "word": "good",
+  "freq": 240,
+  "doc_freq": 54
+ },
+ {
+  "rank": 16,
+  "word": "many",
+  "freq": 237,
+  "doc_freq": 54
+ },
+ {
+  "rank": 17,
+  "word": "human",
+  "freq": 236,
+  "doc_freq": 51
+ },
+ {
+  "rank": 18,
+  "word": "change",
+  "freq": 234,
+  "doc_freq": 52
+ },
+ {
+  "rank": 19,
+  "word": "follow",
+  "freq": 227,
+  "doc_freq": 58
+ },
+ {
+  "rank": 20,
+  "word": "way",
+  "freq": 218,
+  "doc_freq": 54
+ },
+ {
+  "rank": 21,
+  "word": "record",
+  "freq": 212,
+  "doc_freq": 43
+ },
+ {
+  "rank": 22,
+  "word": "help",
+  "freq": 211,
+  "doc_freq": 53
+ },
+ {
+  "rank": 23,
+  "word": "get",
+  "freq": 210,
+  "doc_freq": 52
+ },
+ {
+  "rank": 24,
+  "word": "world",
+  "freq": 209,
+  "doc_freq": 50
+ },
+ {
+  "rank": 25,
+  "word": "would",
+  "freq": 203,
+  "doc_freq": 48
+ },
+ {
+  "rank": 26,
+  "word": "best",
+  "freq": 202,
+  "doc_freq": 53
+ },
+ {
+  "rank": 27,
+  "word": "student",
+  "freq": 199,
+  "doc_freq": 37
+ },
+ {
+  "rank": 28,
+  "word": "child",
+  "freq": 198,
+  "doc_freq": 38
+ },
+ {
+  "rank": 29,
+  "word": "year",
+  "freq": 197,
+  "doc_freq": 51
+ },
+ {
+  "rank": 30,
+  "word": "study",
+  "freq": 190,
+  "doc_freq": 52
+ },
+ {
+  "rank": 31,
+  "word": "learn",
+  "freq": 190,
+  "doc_freq": 48
+ },
+ {
+  "rank": 32,
+  "word": "like",
+  "freq": 189,
+  "doc_freq": 50
+ },
+ {
+  "rank": 33,
+  "word": "allow",
+  "freq": 188,
+  "doc_freq": 59
+ },
+ {
+  "rank": 34,
+  "word": "read",
+  "freq": 177,
+  "doc_freq": 52
+ },
+ {
+  "rank": 35,
+  "word": "even",
+  "freq": 176,
+  "doc_freq": 51
+ },
+ {
+  "rank": 36,
+  "word": "social",
+  "freq": 176,
+  "doc_freq": 45
+ },
+ {
+  "rank": 37,
+  "word": "also",
+  "freq": 168,
+  "doc_freq": 50
+ },
+ {
+  "rank": 38,
+  "word": "life",
+  "freq": 160,
+  "doc_freq": 52
+ },
+ {
+  "rank": 39,
+  "word": "must",
+  "freq": 159,
+  "doc_freq": 49
+ },
+ {
+  "rank": 40,
+  "word": "become",
+  "freq": 159,
+  "doc_freq": 51
+ },
+ {
+  "rank": 41,
+  "word": "think",
+  "freq": 154,
+  "doc_freq": 48
+ },
+ {
+  "rank": 42,
+  "word": "long",
+  "freq": 152,
+  "doc_freq": 57
+ },
+ {
+  "rank": 43,
+  "word": "bank",
+  "freq": 152,
+  "doc_freq": 49
+ },
+ {
+  "rank": 44,
+  "word": "need",
+  "freq": 150,
+  "doc_freq": 50
+ },
+ {
+  "rank": 45,
+  "word": "food",
+  "freq": 148,
+  "doc_freq": 40
+ },
+ {
+  "rank": 46,
+  "word": "could",
+  "freq": 146,
+  "doc_freq": 45
+ },
+ {
+  "rank": 47,
+  "word": "university",
+  "freq": 140,
+  "doc_freq": 34
+ },
+ {
+  "rank": 48,
+  "word": "live",
+  "freq": 139,
+  "doc_freq": 49
+ },
+ {
+  "rank": 49,
+  "word": "research",
+  "freq": 138,
+  "doc_freq": 43
+ },
+ {
+  "rank": 50,
+  "word": "much",
+  "freq": 137,
+  "doc_freq": 49
+ },
+ {
+  "rank": 51,
+  "word": "end",
+  "freq": 136,
+  "doc_freq": 53
+ },
+ {
+  "rank": 52,
+  "word": "high",
+  "freq": 136,
+  "doc_freq": 40
+ },
+ {
+  "rank": 53,
+  "word": "feel",
+  "freq": 134,
+  "doc_freq": 50
+ },
+ {
+  "rank": 54,
+  "word": "problem",
+  "freq": 134,
+  "doc_freq": 44
+ },
+ {
+  "rank": 55,
+  "word": "school",
+  "freq": 132,
+  "doc_freq": 30
+ },
+ {
+  "rank": 56,
+  "word": "country",
+  "freq": 132,
+  "doc_freq": 35
+ },
+ {
+  "rank": 57,
+  "word": "different",
+  "freq": 132,
+  "doc_freq": 48
+ },
+ {
+  "rank": 58,
+  "word": "come",
+  "freq": 131,
+  "doc_freq": 50
+ },
+ {
+  "rank": 59,
+  "word": "technology",
+  "freq": 128,
+  "doc_freq": 37
+ },
+ {
+  "rank": 60,
+  "word": "job",
+  "freq": 126,
+  "doc_freq": 39
+ },
+ {
+  "rank": 61,
+  "word": "develop",
+  "freq": 124,
+  "doc_freq": 44
+ },
+ {
+  "rank": 62,
+  "word": "show",
+  "freq": 122,
+  "doc_freq": 50
+ },
+ {
+  "rank": 63,
+  "word": "parent",
+  "freq": 122,
+  "doc_freq": 28
+ },
+ {
+  "rank": 64,
+  "word": "require",
+  "freq": 120,
+  "doc_freq": 55
+ },
+ {
+  "rank": 65,
+  "word": "great",
+  "freq": 119,
+  "doc_freq": 50
+ },
+ {
+  "rank": 66,
+  "word": "company",
+  "freq": 118,
+  "doc_freq": 40
+ },
+ {
+  "rank": 67,
+  "word": "data",
+  "freq": 117,
+  "doc_freq": 30
+ },
+ {
+  "rank": 68,
+  "word": "author",
+  "freq": 117,
+  "doc_freq": 44
+ },
+ {
+  "rank": 69,
+  "word": "increase",
+  "freq": 117,
+  "doc_freq": 47
+ },
+ {
+  "rank": 70,
+  "word": "often",
+  "freq": 116,
+  "doc_freq": 48
+ },
+ {
+  "rank": 71,
+  "word": "experience",
+  "freq": 116,
+  "doc_freq": 45
+ },
+ {
+  "rank": 72,
+  "word": "information",
+  "freq": 115,
+  "doc_freq": 41
+ },
+ {
+  "rank": 73,
+  "word": "government",
+  "freq": 113,
+  "doc_freq": 29
+ },
+ {
+  "rank": 74,
+  "word": "speak",
+  "freq": 109,
+  "doc_freq": 51
+ },
+ {
+  "rank": 75,
+  "word": "science",
+  "freq": 109,
+  "doc_freq": 27
+ },
+ {
+  "rank": 76,
+  "word": "essay",
+  "freq": 108,
+  "doc_freq": 56
+ },
+ {
+  "rank": 77,
+  "word": "without",
+  "freq": 108,
+  "doc_freq": 43
+ },
+ {
+  "rank": 78,
+  "word": "thing",
+  "freq": 107,
+  "doc_freq": 45
+ },
+ {
+  "rank": 79,
+  "word": "might",
+  "freq": 106,
+  "doc_freq": 34
+ },
+ {
+  "rank": 80,
+  "word": "state",
+  "freq": 105,
+  "doc_freq": 37
+ },
+ {
+  "rank": 81,
+  "word": "product",
+  "freq": 104,
+  "doc_freq": 27
+ },
+ {
+  "rank": 82,
+  "word": "try",
+  "freq": 104,
+  "doc_freq": 47
+ },
+ {
+  "rank": 83,
+  "word": "begin",
+  "freq": 104,
+  "doc_freq": 44
+ },
+ {
+  "rank": 84,
+  "word": "see",
+  "freq": 104,
+  "doc_freq": 45
+ },
+ {
+  "rank": 85,
+  "word": "example",
+  "freq": 103,
+  "doc_freq": 43
+ },
+ {
+  "rank": 86,
+  "word": "woman",
+  "freq": 103,
+  "doc_freq": 23
+ },
+ {
+  "rank": 87,
+  "word": "benefit",
+  "freq": 102,
+  "doc_freq": 46
+ },
+ {
+  "rank": 88,
+  "word": "know",
+  "freq": 102,
+  "doc_freq": 41
+ },
+ {
+  "rank": 89,
+  "word": "health",
+  "freq": 102,
+  "doc_freq": 34
+ },
+ {
+  "rank": 90,
+  "word": "place",
+  "freq": 101,
+  "doc_freq": 44
+ },
+ {
+  "rank": 91,
+  "word": "likely",
+  "freq": 97,
+  "doc_freq": 42
+ },
+ {
+  "rank": 92,
+  "word": "understand",
+  "freq": 96,
+  "doc_freq": 43
+ },
+ {
+  "rank": 93,
+  "word": "others",
+  "freq": 96,
+  "doc_freq": 39
+ },
+ {
+  "rank": 94,
+  "word": "mean",
+  "freq": 96,
+  "doc_freq": 39
+ },
+ {
+  "rank": 95,
+  "word": "college",
+  "freq": 96,
+  "doc_freq": 27
+ },
+ {
+  "rank": 96,
+  "word": "public",
+  "freq": 94,
+  "doc_freq": 30
+ },
+ {
+  "rank": 97,
+  "word": "employee",
+  "freq": 93,
+  "doc_freq": 20
+ },
+ {
+  "rank": 98,
+  "word": "provide",
+  "freq": 93,
+  "doc_freq": 43
+ },
+ {
+  "rank": 99,
+  "word": "keep",
+  "freq": 92,
+  "doc_freq": 43
+ },
+ {
+  "rank": 100,
+  "word": "least",
+  "freq": 91,
+  "doc_freq": 58
+ },
+ {
+  "rank": 101,
+  "word": "business",
+  "freq": 91,
+  "doc_freq": 36
+ },
+ {
+  "rank": 102,
+  "word": "first",
+  "freq": 91,
+  "doc_freq": 40
+ },
+ {
+  "rank": 103,
+  "word": "pay",
+  "freq": 90,
+  "doc_freq": 35
+ },
+ {
+  "rank": 104,
+  "word": "well",
+  "freq": 89,
+  "doc_freq": 45
+ },
+ {
+  "rank": 105,
+  "word": "around",
+  "freq": 89,
+  "doc_freq": 45
+ },
+ {
+  "rank": 106,
+  "word": "want",
+  "freq": 88,
+  "doc_freq": 37
+ },
+ {
+  "rank": 107,
+  "word": "start",
+  "freq": 87,
+  "doc_freq": 41
+ },
+ {
+  "rank": 108,
+  "word": "family",
+  "freq": 87,
+  "doc_freq": 38
+ },
+ {
+  "rank": 109,
+  "word": "create",
+  "freq": 86,
+  "doc_freq": 41
+ },
+ {
+  "rank": 110,
+  "word": "whether",
+  "freq": 86,
+  "doc_freq": 33
+ },
+ {
+  "rank": 111,
+  "word": "behavior",
+  "freq": 86,
+  "doc_freq": 26
+ },
+ {
+  "rank": 112,
+  "word": "large",
+  "freq": 85,
+  "doc_freq": 38
+ },
+ {
+  "rank": 113,
+  "word": "cost",
+  "freq": 85,
+  "doc_freq": 35
+ },
+ {
+  "rank": 114,
+  "word": "animal",
+  "freq": 85,
+  "doc_freq": 24
+ },
+ {
+  "rank": 115,
+  "word": "share",
+  "freq": 85,
+  "doc_freq": 30
+ },
+ {
+  "rank": 116,
+  "word": "education",
+  "freq": 84,
+  "doc_freq": 30
+ },
+ {
+  "rank": 117,
+  "word": "play",
+  "freq": 83,
+  "doc_freq": 44
+ },
+ {
+  "rank": 118,
+  "word": "ten",
+  "freq": 83,
+  "doc_freq": 50
+ },
+ {
+  "rank": 119,
+  "word": "cause",
+  "freq": 83,
+  "doc_freq": 43
+ },
+ {
+  "rank": 120,
+  "word": "climate",
+  "freq": 82,
+  "doc_freq": 25
+ },
+ {
+  "rank": 121,
+  "word": "impact",
+  "freq": 81,
+  "doc_freq": 41
+ },
+ {
+  "rank": 122,
+  "word": "lead",
+  "freq": 81,
+  "doc_freq": 47
+ },
+ {
+  "rank": 123,
+  "word": "scientist",
+  "freq": 81,
+  "doc_freq": 31
+ },
+ {
+  "rank": 124,
+  "word": "interest",
+  "freq": 80,
+  "doc_freq": 41
+ },
+ {
+  "rank": 125,
+  "word": "environment",
+  "freq": 80,
+  "doc_freq": 40
+ },
+ {
+  "rank": 126,
+  "word": "skill",
+  "freq": 80,
+  "doc_freq": 30
+ },
+ {
+  "rank": 127,
+  "word": "day",
+  "freq": 80,
+  "doc_freq": 35
+ },
+ {
+  "rank": 128,
+  "word": "hard",
+  "freq": 79,
+  "doc_freq": 37
+ },
+ {
+  "rank": 129,
+  "word": "ability",
+  "freq": 79,
+  "doc_freq": 39
+ },
+ {
+  "rank": 130,
+  "word": "researcher",
+  "freq": 79,
+  "doc_freq": 31
+ },
+ {
+  "rank": 131,
+  "word": "improve",
+  "freq": 79,
+  "doc_freq": 36
+ },
+ {
+  "rank": 132,
+  "word": "look",
+  "freq": 78,
+  "doc_freq": 40
+ },
+ {
+  "rank": 133,
+  "word": "number",
+  "freq": 78,
+  "doc_freq": 44
+ },
+ {
+  "rank": 134,
+  "word": "listen",
+  "freq": 77,
+  "doc_freq": 56
+ },
+ {
+  "rank": 135,
+  "word": "include",
+  "freq": 77,
+  "doc_freq": 39
+ },
+ {
+  "rank": 136,
+  "word": "robot",
+  "freq": 77,
+  "doc_freq": 11
+ },
+ {
+  "rank": 137,
+  "word": "important",
+  "freq": 77,
+  "doc_freq": 45
+ },
+ {
+  "rank": 138,
+  "word": "focus",
+  "freq": 77,
+  "doc_freq": 40
+ },
+ {
+  "rank": 139,
+  "word": "grow",
+  "freq": 76,
+  "doc_freq": 39
+ },
+ {
+  "rank": 140,
+  "word": "idea",
+  "freq": 76,
+  "doc_freq": 35
+ },
+ {
+  "rank": 141,
+  "word": "build",
+  "freq": 76,
+  "doc_freq": 34
+ },
+ {
+  "rank": 142,
+  "word": "worker",
+  "freq": 74,
+  "doc_freq": 29
+ },
+ {
+  "rank": 143,
+  "word": "city",
+  "freq": 74,
+  "doc_freq": 20
+ },
+ {
+  "rank": 144,
+  "word": "space",
+  "freq": 74,
+  "doc_freq": 17
+ },
+ {
+  "rank": 145,
+  "word": "young",
+  "freq": 73,
+  "doc_freq": 30
+ },
+ {
+  "rank": 146,
+  "word": "accord",
+  "freq": 73,
+  "doc_freq": 41
+ },
+ {
+  "rank": 147,
+  "word": "future",
+  "freq": 73,
+  "doc_freq": 37
+ },
+ {
+  "rank": 148,
+  "word": "area",
+  "freq": 73,
+  "doc_freq": 32
+ },
+ {
+  "rank": 149,
+  "word": "teacher",
+  "freq": 73,
+  "doc_freq": 12
+ },
+ {
+  "rank": 150,
+  "word": "set",
+  "freq": 72,
+  "doc_freq": 41
+ },
+ {
+  "rank": 151,
+  "word": "brain",
+  "freq": 72,
+  "doc_freq": 23
+ },
+ {
+  "rank": 152,
+  "word": "economic",
+  "freq": 71,
+  "doc_freq": 18
+ },
+ {
+  "rank": 153,
+  "word": "another",
+  "freq": 71,
+  "doc_freq": 40
+ },
+ {
+  "rank": 154,
+  "word": "energy",
+  "freq": 71,
+  "doc_freq": 20
+ },
+ {
+  "rank": 155,
+  "word": "group",
+  "freq": 71,
+  "doc_freq": 31
+ },
+ {
+  "rank": 156,
+  "word": "report",
+  "freq": 71,
+  "doc_freq": 36
+ },
+ {
+  "rank": 157,
+  "word": "level",
+  "freq": 71,
+  "doc_freq": 32
+ },
+ {
+  "rank": 158,
+  "word": "believe",
+  "freq": 70,
+  "doc_freq": 37
+ },
+ {
+  "rank": 159,
+  "word": "effect",
+  "freq": 69,
+  "doc_freq": 38
+ },
+ {
+  "rank": 160,
+  "word": "turn",
+  "freq": 69,
+  "doc_freq": 34
+ },
+ {
+  "rank": 161,
+  "word": "plan",
+  "freq": 69,
+  "doc_freq": 28
+ },
+ {
+  "rank": 162,
+  "word": "system",
+  "freq": 68,
+  "doc_freq": 30
+ },
+ {
+  "rank": 163,
+  "word": "risk",
+  "freq": 68,
+  "doc_freq": 31
+ },
+ {
+  "rank": 164,
+  "word": "reduce",
+  "freq": 68,
+  "doc_freq": 33
+ },
+ {
+  "rank": 165,
+  "word": "still",
+  "freq": 68,
+  "doc_freq": 36
+ },
+ {
+  "rank": 166,
+  "word": "talk",
+  "freq": 67,
+  "doc_freq": 46
+ },
+ {
+  "rank": 167,
+  "word": "goal",
+  "freq": 67,
+  "doc_freq": 29
+ },
+ {
+  "rank": 168,
+  "word": "issue",
+  "freq": 67,
+  "doc_freq": 33
+ },
+ {
+  "rank": 169,
+  "word": "medium",
+  "freq": 67,
+  "doc_freq": 25
+ },
+ {
+  "rank": 170,
+  "word": "teach",
+  "freq": 67,
+  "doc_freq": 30
+ },
+ {
+  "rank": 171,
+  "word": "relationship",
+  "freq": 66,
+  "doc_freq": 28
+ },
+ {
+  "rank": 172,
+  "word": "late",
+  "freq": 66,
+  "doc_freq": 35
+ },
+ {
+  "rank": 173,
+  "word": "something",
+  "freq": 66,
+  "doc_freq": 31
+ },
+ {
+  "rank": 174,
+  "word": "attention",
+  "freq": 66,
+  "doc_freq": 30
+ },
+ {
+  "rank": 175,
+  "word": "however",
+  "freq": 65,
+  "doc_freq": 34
+ },
+ {
+  "rank": 176,
+  "word": "call",
+  "freq": 65,
+  "doc_freq": 38
+ },
+ {
+  "rank": 177,
+  "word": "academic",
+  "freq": 65,
+  "doc_freq": 25
+ },
+ {
+  "rank": 178,
+  "word": "spend",
+  "freq": 64,
+  "doc_freq": 28
+ },
+ {
+  "rank": 179,
+  "word": "low",
+  "freq": 64,
+  "doc_freq": 31
+ },
+ {
+  "rank": 180,
+  "word": "carefully",
+  "freq": 64,
+  "doc_freq": 52
+ },
+ {
+  "rank": 181,
+  "word": "recent",
+  "freq": 64,
+  "doc_freq": 36
+ },
+ {
+  "rank": 182,
+  "word": "result",
+  "freq": 64,
+  "doc_freq": 33
+ },
+ {
+  "rank": 183,
+  "word": "language",
+  "freq": 64,
+  "doc_freq": 21
+ },
+ {
+  "rank": 184,
+  "word": "market",
+  "freq": 63,
+  "doc_freq": 30
+ },
+ {
+  "rank": 185,
+  "word": "view",
+  "freq": 63,
+  "doc_freq": 36
+ },
+ {
+  "rank": 186,
+  "word": "offer",
+  "freq": 63,
+  "doc_freq": 35
+ },
+ {
+  "rank": 187,
+  "word": "meet",
+  "freq": 63,
+  "doc_freq": 34
+ },
+ {
+  "rank": 188,
+  "word": "early",
+  "freq": 63,
+  "doc_freq": 31
+ },
+ {
+  "rank": 189,
+  "word": "farm",
+  "freq": 63,
+  "doc_freq": 15
+ },
+ {
+  "rank": 190,
+  "word": "translate",
+  "freq": 63,
+  "doc_freq": 59
+ },
+ {
+  "rank": 191,
+  "word": "possible",
+  "freq": 63,
+  "doc_freq": 34
+ },
+ {
+  "rank": 192,
+  "word": "lot",
+  "freq": 63,
+  "doc_freq": 35
+ },
+ {
+  "rank": 193,
+  "word": "person",
+  "freq": 63,
+  "doc_freq": 31
+ },
+ {
+  "rank": 194,
+  "word": "sense",
+  "freq": 62,
+  "doc_freq": 31
+ },
+ {
+  "rank": 195,
+  "word": "right",
+  "freq": 62,
+  "doc_freq": 27
+ },
+ {
+  "rank": 196,
+  "word": "money",
+  "freq": 62,
+  "doc_freq": 28
+ },
+ {
+  "rank": 197,
+  "word": "rather",
+  "freq": 61,
+  "doc_freq": 35
+ },
+ {
+  "rank": 198,
+  "word": "among",
+  "freq": 61,
+  "doc_freq": 37
+ },
+ {
+  "rank": 199,
+  "word": "society",
+  "freq": 61,
+  "doc_freq": 30
+ },
+ {
+  "rank": 200,
+  "word": "put",
+  "freq": 61,
+  "doc_freq": 34
+ },
+ {
+  "rank": 201,
+  "word": "industry",
+  "freq": 61,
+  "doc_freq": 29
+ },
+ {
+  "rank": 202,
+  "word": "personal",
+  "freq": 61,
+  "doc_freq": 36
+ },
+ {
+  "rank": 203,
+  "word": "last",
+  "freq": 60,
+  "doc_freq": 34
+ },
+ {
+  "rank": 204,
+  "word": "natural",
+  "freq": 60,
+  "doc_freq": 26
+ },
+ {
+  "rank": 205,
+  "word": "care",
+  "freq": 60,
+  "doc_freq": 28
+ },
+ {
+  "rank": 206,
+  "word": "little",
+  "freq": 60,
+  "doc_freq": 33
+ },
+ {
+  "rank": 207,
+  "word": "price",
+  "freq": 60,
+  "doc_freq": 16
+ },
+ {
+  "rank": 208,
+  "word": "value",
+  "freq": 60,
+  "doc_freq": 32
+ },
+ {
+  "rank": 209,
+  "word": "happen",
+  "freq": 59,
+  "doc_freq": 33
+ },
+ {
+  "rank": 210,
+  "word": "small",
+  "freq": 59,
+  "doc_freq": 33
+ },
+ {
+  "rank": 211,
+  "word": "community",
+  "freq": 59,
+  "doc_freq": 27
+ },
+ {
+  "rank": 212,
+  "word": "list",
+  "freq": 59,
+  "doc_freq": 50
+ },
+ {
+  "rank": 213,
+  "word": "seem",
+  "freq": 59,
+  "doc_freq": 34
+ },
+ {
+  "rank": 214,
+  "word": "program",
+  "freq": 59,
+  "doc_freq": 25
+ },
+ {
+  "rank": 215,
+  "word": "fact",
+  "freq": 59,
+  "doc_freq": 32
+ },
+ {
+  "rank": 216,
+  "word": "tend",
+  "freq": 59,
+  "doc_freq": 31
+ },
+ {
+  "rank": 217,
+  "word": "design",
+  "freq": 58,
+  "doc_freq": 29
+ },
+ {
+  "rank": 218,
+  "word": "environmental",
+  "freq": 58,
+  "doc_freq": 21
+ },
+ {
+  "rank": 219,
+  "word": "every",
+  "freq": 58,
+  "doc_freq": 34
+ },
+ {
+  "rank": 220,
+  "word": "individual",
+  "freq": 58,
+  "doc_freq": 32
+ },
+ {
+  "rank": 221,
+  "word": "scientific",
+  "freq": 58,
+  "doc_freq": 25
+ },
+ {
+  "rank": 222,
+  "word": "big",
+  "freq": 57,
+  "doc_freq": 33
+ },
+ {
+  "rank": 223,
+  "word": "rise",
+  "freq": 57,
+  "doc_freq": 30
+ },
+ {
+  "rank": 224,
+  "word": "yet",
+  "freq": 57,
+  "doc_freq": 33
+ },
+ {
+  "rank": 225,
+  "word": "back",
+  "freq": 56,
+  "doc_freq": 32
+ },
+ {
+  "rank": 226,
+  "word": "bring",
+  "freq": 56,
+  "doc_freq": 31
+ },
+ {
+  "rank": 227,
+  "word": "online",
+  "freq": 56,
+  "doc_freq": 20
+ },
+ {
+  "rank": 228,
+  "word": "process",
+  "freq": 56,
+  "doc_freq": 36
+ },
+ {
+  "rank": 229,
+  "word": "challenge",
+  "freq": 56,
+  "doc_freq": 28
+ },
+ {
+  "rank": 230,
+  "word": "book",
+  "freq": 56,
+  "doc_freq": 26
+ },
+ {
+  "rank": 231,
+  "word": "raise",
+  "freq": 55,
+  "doc_freq": 29
+ },
+ {
+  "rank": 232,
+  "word": "farmer",
+  "freq": 55,
+  "doc_freq": 13
+ },
+ {
+  "rank": 233,
+  "word": "mental",
+  "freq": 55,
+  "doc_freq": 24
+ },
+ {
+  "rank": 234,
+  "word": "common",
+  "freq": 55,
+  "doc_freq": 29
+ },
+ {
+  "rank": 235,
+  "word": "service",
+  "freq": 55,
+  "doc_freq": 25
+ },
+ {
+  "rank": 236,
+  "word": "suggest",
+  "freq": 55,
+  "doc_freq": 31
+ },
+ {
+  "rank": 237,
+  "word": "performance",
+  "freq": 55,
+  "doc_freq": 26
+ },
+ {
+  "rank": 238,
+  "word": "decision",
+  "freq": 55,
+  "doc_freq": 16
+ },
+ {
+  "rank": 239,
+  "word": "avoid",
+  "freq": 54,
+  "doc_freq": 29
+ },
+ {
+  "rank": 240,
+  "word": "contain",
+  "freq": 54,
+  "doc_freq": 37
+ },
+ {
+  "rank": 241,
+  "word": "far",
+  "freq": 54,
+  "doc_freq": 34
+ },
+ {
+  "rank": 242,
+  "word": "produce",
+  "freq": 54,
+  "doc_freq": 28
+ },
+ {
+  "rank": 243,
+  "word": "poor",
+  "freq": 54,
+  "doc_freq": 28
+ },
+ {
+  "rank": 244,
+  "word": "leave",
+  "freq": 54,
+  "doc_freq": 29
+ },
+ {
+  "rank": 245,
+  "word": "traffic",
+  "freq": 54,
+  "doc_freq": 10
+ },
+ {
+  "rank": 246,
+  "word": "face",
+  "freq": 53,
+  "doc_freq": 29
+ },
+ {
+  "rank": 247,
+  "word": "activity",
+  "freq": 53,
+  "doc_freq": 29
+ },
+ {
+  "rank": 248,
+  "word": "select",
+  "freq": 53,
+  "doc_freq": 47
+ },
+ {
+  "rank": 249,
+  "word": "demand",
+  "freq": 53,
+  "doc_freq": 28
+ },
+ {
+  "rank": 250,
+  "word": "drive",
+  "freq": 53,
+  "doc_freq": 25
+ },
+ {
+  "rank": 251,
+  "word": "light",
+  "freq": 53,
+  "doc_freq": 9
+ },
+ {
+  "rank": 252,
+  "word": "culture",
+  "freq": 53,
+  "doc_freq": 24
+ },
+ {
+  "rank": 253,
+  "word": "art",
+  "freq": 53,
+  "doc_freq": 18
+ },
+ {
+  "rank": 254,
+  "word": "real",
+  "freq": 52,
+  "doc_freq": 28
+ },
+ {
+  "rank": 255,
+  "word": "development",
+  "freq": 52,
+  "doc_freq": 26
+ },
+ {
+  "rank": 256,
+  "word": "resource",
+  "freq": 52,
+  "doc_freq": 25
+ },
+ {
+  "rank": 257,
+  "word": "reason",
+  "freq": 52,
+  "doc_freq": 31
+ },
+ {
+  "rank": 258,
+  "word": "gas",
+  "freq": 52,
+  "doc_freq": 15
+ },
+ {
+  "rank": 259,
+  "word": "emission",
+  "freq": 52,
+  "doc_freq": 12
+ },
+ {
+  "rank": 260,
+  "word": "effort",
+  "freq": 52,
+  "doc_freq": 31
+ },
+ {
+  "rank": 261,
+  "word": "difference",
+  "freq": 52,
+  "doc_freq": 27
+ },
+ {
+  "rank": 262,
+  "word": "percent",
+  "freq": 52,
+  "doc_freq": 18
+ },
+ {
+  "rank": 263,
+  "word": "save",
+  "freq": 52,
+  "doc_freq": 22
+ },
+ {
+  "rank": 264,
+  "word": "consumer",
+  "freq": 52,
+  "doc_freq": 19
+ },
+ {
+  "rank": 265,
+  "word": "task",
+  "freq": 52,
+  "doc_freq": 23
+ },
+ {
+  "rank": 266,
+  "word": "please",
+  "freq": 51,
+  "doc_freq": 46
+ },
+ {
+  "rank": 267,
+  "word": "global",
+  "freq": 51,
+  "doc_freq": 22
+ },
+ {
+  "rank": 268,
+  "word": "decide",
+  "freq": 51,
+  "doc_freq": 32
+ },
+ {
+  "rank": 269,
+  "word": "policy",
+  "freq": 51,
+  "doc_freq": 21
+ },
+ {
+  "rank": 270,
+  "word": "kind",
+  "freq": 51,
+  "doc_freq": 29
+ },
+ {
+  "rank": 271,
+  "word": "instead",
+  "freq": 50,
+  "doc_freq": 31
+ },
+ {
+  "rank": 272,
+  "word": "train",
+  "freq": 50,
+  "doc_freq": 30
+ },
+ {
+  "rank": 273,
+  "word": "item",
+  "freq": 50,
+  "doc_freq": 46
+ },
+ {
+  "rank": 274,
+  "word": "water",
+  "freq": 50,
+  "doc_freq": 22
+ },
+ {
+  "rank": 275,
+  "word": "car",
+  "freq": 50,
+  "doc_freq": 18
+ },
+ {
+  "rank": 276,
+  "word": "project",
+  "freq": 49,
+  "doc_freq": 27
+ },
+ {
+  "rank": 277,
+  "word": "access",
+  "freq": 49,
+  "doc_freq": 26
+ },
+ {
+  "rank": 278,
+  "word": "hour",
+  "freq": 49,
+  "doc_freq": 22
+ },
+ {
+  "rank": 279,
+  "word": "run",
+  "freq": 49,
+  "doc_freq": 26
+ },
+ {
+  "rank": 280,
+  "word": "compare",
+  "freq": 49,
+  "doc_freq": 29
+ },
+ {
+  "rank": 281,
+  "word": "stop",
+  "freq": 49,
+  "doc_freq": 19
+ },
+ {
+  "rank": 282,
+  "word": "friend",
+  "freq": 49,
+  "doc_freq": 26
+ },
+ {
+  "rank": 283,
+  "word": "success",
+  "freq": 48,
+  "doc_freq": 26
+ },
+ {
+  "rank": 284,
+  "word": "major",
+  "freq": 48,
+  "doc_freq": 25
+ },
+ {
+  "rank": 285,
+  "word": "point",
+  "freq": 48,
+  "doc_freq": 30
+ },
+ {
+  "rank": 286,
+  "word": "condition",
+  "freq": 48,
+  "doc_freq": 32
+ },
+ {
+  "rank": 287,
+  "word": "actually",
+  "freq": 47,
+  "doc_freq": 27
+ },
+ {
+  "rank": 288,
+  "word": "team",
+  "freq": 47,
+  "doc_freq": 19
+ },
+ {
+  "rank": 289,
+  "word": "attach",
+  "freq": 47,
+  "doc_freq": 39
+ },
+ {
+  "rank": 290,
+  "word": "measure",
+  "freq": 47,
+  "doc_freq": 24
+ },
+ {
+  "rank": 291,
+  "word": "open",
+  "freq": 47,
+  "doc_freq": 27
+ },
+ {
+  "rank": 292,
+  "word": "claim",
+  "freq": 47,
+  "doc_freq": 20
+ },
+ {
+  "rank": 293,
+  "word": "always",
+  "freq": 47,
+  "doc_freq": 30
+ },
+ {
+  "rank": 294,
+  "word": "specie",
+  "freq": 47,
+  "doc_freq": 19
+ },
+ {
+  "rank": 295,
+  "word": "away",
+  "freq": 47,
+  "doc_freq": 36
+ },
+ {
+  "rank": 296,
+  "word": "eat",
+  "freq": 47,
+  "doc_freq": 20
+ },
+ {
+  "rank": 297,
+  "word": "encourage",
+  "freq": 46,
+  "doc_freq": 29
+ },
+ {
+  "rank": 298,
+  "word": "affect",
+  "freq": 46,
+  "doc_freq": 28
+ },
+ {
+  "rank": 299,
+  "word": "decade",
+  "freq": 46,
+  "doc_freq": 30
+ },
+ {
+  "rank": 300,
+  "word": "stress",
+  "freq": 46,
+  "doc_freq": 15
+ },
+ {
+  "rank": 301,
+  "word": "importance",
+  "freq": 46,
+  "doc_freq": 33
+ },
+ {
+  "rank": 302,
+  "word": "music",
+  "freq": 46,
+  "doc_freq": 12
+ },
+ {
+  "rank": 303,
+  "word": "math",
+  "freq": 46,
+  "doc_freq": 9
+ },
+ {
+  "rank": 304,
+  "word": "lecture",
+  "freq": 45,
+  "doc_freq": 41
+ },
+ {
+  "rank": 305,
+  "word": "lose",
+  "freq": 45,
+  "doc_freq": 28
+ },
+ {
+  "rank": 306,
+  "word": "able",
+  "freq": 45,
+  "doc_freq": 28
+ },
+ {
+  "rank": 307,
+  "word": "clear",
+  "freq": 45,
+  "doc_freq": 28
+ },
+ {
+  "rank": 308,
+  "word": "already",
+  "freq": 45,
+  "doc_freq": 28
+ },
+ {
+  "rank": 309,
+  "word": "competition",
+  "freq": 45,
+  "doc_freq": 14
+ },
+ {
+  "rank": 310,
+  "word": "phone",
+  "freq": 45,
+  "doc_freq": 16
+ },
+ {
+  "rank": 311,
+  "word": "side",
+  "freq": 44,
+  "doc_freq": 23
+ },
+ {
+  "rank": 312,
+  "word": "bad",
+  "freq": 44,
+  "doc_freq": 27
+ },
+ {
+  "rank": 313,
+  "word": "easy",
+  "freq": 44,
+  "doc_freq": 29
+ },
+ {
+  "rank": 314,
+  "word": "concern",
+  "freq": 44,
+  "doc_freq": 30
+ },
+ {
+  "rank": 315,
+  "word": "local",
+  "freq": 44,
+  "doc_freq": 20
+ },
+ {
+  "rank": 316,
+  "word": "someone",
+  "freq": 44,
+  "doc_freq": 25
+ },
+ {
+  "rank": 317,
+  "word": "today",
+  "freq": 44,
+  "doc_freq": 26
+ },
+ {
+  "rank": 318,
+  "word": "control",
+  "freq": 44,
+  "doc_freq": 26
+ },
+ {
+  "rank": 319,
+  "word": "sentence",
+  "freq": 44,
+  "doc_freq": 26
+ },
+ {
+  "rank": 320,
+  "word": "contribute",
+  "freq": 43,
+  "doc_freq": 28
+ },
+ {
+  "rank": 321,
+  "word": "economy",
+  "freq": 43,
+  "doc_freq": 20
+ },
+ {
+  "rank": 322,
+  "word": "test",
+  "freq": 43,
+  "doc_freq": 17
+ },
+ {
+  "rank": 323,
+  "word": "class",
+  "freq": 43,
+  "doc_freq": 20
+ },
+ {
+  "rank": 324,
+  "word": "enjoy",
+  "freq": 43,
+  "doc_freq": 26
+ },
+ {
+  "rank": 325,
+  "word": "knowledge",
+  "freq": 43,
+  "doc_freq": 27
+ },
+ {
+  "rank": 326,
+  "word": "model",
+  "freq": 43,
+  "doc_freq": 18
+ },
+ {
+  "rank": 327,
+  "word": "satellite",
+  "freq": 43,
+  "doc_freq": 5
+ },
+ {
+  "rank": 328,
+  "word": "move",
+  "freq": 43,
+  "doc_freq": 24
+ },
+ {
+  "rank": 329,
+  "word": "beauty",
+  "freq": 43,
+  "doc_freq": 9
+ },
+ {
+  "rank": 330,
+  "word": "nation",
+  "freq": 42,
+  "doc_freq": 15
+ },
+ {
+  "rank": 331,
+  "word": "negative",
+  "freq": 42,
+  "doc_freq": 27
+ },
+ {
+  "rank": 332,
+  "word": "career",
+  "freq": 42,
+  "doc_freq": 23
+ },
+ {
+  "rank": 333,
+  "word": "greenhouse",
+  "freq": 42,
+  "doc_freq": 10
+ },
+ {
+  "rank": 334,
+  "word": "involve",
+  "freq": 42,
+  "doc_freq": 29
+ },
+ {
+  "rank": 335,
+  "word": "ask",
+  "freq": 42,
+  "doc_freq": 27
+ },
+ {
+  "rank": 336,
+  "word": "cannot",
+  "freq": 42,
+  "doc_freq": 26
+ },
+ {
+  "rank": 337,
+  "word": "sleep",
+  "freq": 42,
+  "doc_freq": 15
+ },
+ {
+  "rank": 338,
+  "word": "gain",
+  "freq": 42,
+  "doc_freq": 27
+ },
+ {
+  "rank": 339,
+  "word": "protect",
+  "freq": 42,
+  "doc_freq": 18
+ },
+ {
+  "rank": 340,
+  "word": "achieve",
+  "freq": 42,
+  "doc_freq": 26
+ },
+ {
+  "rank": 341,
+  "word": "prevent",
+  "freq": 42,
+  "doc_freq": 28
+ },
+ {
+  "rank": 342,
+  "word": "remain",
+  "freq": 42,
+  "doc_freq": 25
+ },
+ {
+  "rank": 343,
+  "word": "hold",
+  "freq": 42,
+  "doc_freq": 30
+ },
+ {
+  "rank": 344,
+  "word": "power",
+  "freq": 42,
+  "doc_freq": 19
+ },
+ {
+  "rank": 345,
+  "word": "mind",
+  "freq": 42,
+  "doc_freq": 21
+ },
+ {
+  "rank": 346,
+  "word": "form",
+  "freq": 41,
+  "doc_freq": 27
+ },
+ {
+  "rank": 347,
+  "word": "course",
+  "freq": 41,
+  "doc_freq": 23
+ },
+ {
+  "rank": 348,
+  "word": "green",
+  "freq": 41,
+  "doc_freq": 11
+ },
+ {
+  "rank": 349,
+  "word": "across",
+  "freq": 41,
+  "doc_freq": 24
+ },
+ {
+  "rank": 350,
+  "word": "advance",
+  "freq": 41,
+  "doc_freq": 26
+ },
+ {
+  "rank": 351,
+  "word": "patient",
+  "freq": 41,
+  "doc_freq": 10
+ },
+ {
+  "rank": 352,
+  "word": "quality",
+  "freq": 41,
+  "doc_freq": 23
+ },
+ {
+  "rank": 353,
+  "word": "positive",
+  "freq": 41,
+  "doc_freq": 21
+ },
+ {
+  "rank": 354,
+  "word": "field",
+  "freq": 41,
+  "doc_freq": 22
+ },
+ {
+  "rank": 355,
+  "word": "close",
+  "freq": 41,
+  "doc_freq": 28
+ },
+ {
+  "rank": 356,
+  "word": "comment",
+  "freq": 41,
+  "doc_freq": 33
+ },
+ {
+  "rank": 357,
+  "word": "effective",
+  "freq": 40,
+  "doc_freq": 30
+ },
+ {
+  "rank": 358,
+  "word": "prove",
+  "freq": 40,
+  "doc_freq": 28
+ },
+ {
+  "rank": 359,
+  "word": "age",
+  "freq": 40,
+  "doc_freq": 19
+ },
+ {
+  "rank": 360,
+  "word": "advice",
+  "freq": 40,
+  "doc_freq": 14
+ },
+ {
+  "rank": 361,
+  "word": "adult",
+  "freq": 40,
+  "doc_freq": 19
+ },
+ {
+  "rank": 362,
+  "word": "term",
+  "freq": 40,
+  "doc_freq": 21
+ },
+ {
+  "rank": 363,
+  "word": "population",
+  "freq": 40,
+  "doc_freq": 22
+ },
+ {
+  "rank": 364,
+  "word": "old",
+  "freq": 40,
+  "doc_freq": 20
+ },
+ {
+  "rank": 365,
+  "word": "law",
+  "freq": 40,
+  "doc_freq": 16
+ },
+ {
+  "rank": 366,
+  "word": "digital",
+  "freq": 40,
+  "doc_freq": 14
+ },
+ {
+  "rank": 367,
+  "word": "physical",
+  "freq": 40,
+  "doc_freq": 24
+ },
+ {
+  "rank": 368,
+  "word": "lack",
+  "freq": 39,
+  "doc_freq": 27
+ },
+ {
+  "rank": 369,
+  "word": "step",
+  "freq": 39,
+  "doc_freq": 21
+ },
+ {
+  "rank": 370,
+  "word": "rich",
+  "freq": 39,
+  "doc_freq": 19
+ },
+ {
+  "rank": 371,
+  "word": "support",
+  "freq": 39,
+  "doc_freq": 26
+ },
+ {
+  "rank": 372,
+  "word": "enough",
+  "freq": 39,
+  "doc_freq": 26
+ },
+ {
+  "rank": 373,
+  "word": "continue",
+  "freq": 39,
+  "doc_freq": 24
+ },
+ {
+  "rank": 374,
+  "word": "reach",
+  "freq": 39,
+  "doc_freq": 28
+ },
+ {
+  "rank": 375,
+  "word": "national",
+  "freq": 39,
+  "doc_freq": 20
+ },
+ {
+  "rank": 376,
+  "word": "communication",
+  "freq": 39,
+  "doc_freq": 20
+ },
+ {
+  "rank": 377,
+  "word": "tell",
+  "freq": 39,
+  "doc_freq": 25
+ },
+ {
+  "rank": 378,
+  "word": "standard",
+  "freq": 39,
+  "doc_freq": 19
+ },
+ {
+  "rank": 379,
+  "word": "belief",
+  "freq": 39,
+  "doc_freq": 17
+ },
+ {
+  "rank": 380,
+  "word": "since",
+  "freq": 39,
+  "doc_freq": 21
+ },
+ {
+  "rank": 381,
+  "word": "exist",
+  "freq": 38,
+  "doc_freq": 24
+ },
+ {
+  "rank": 382,
+  "word": "almost",
+  "freq": 38,
+  "doc_freq": 22
+ },
+ {
+  "rank": 383,
+  "word": "century",
+  "freq": 38,
+  "doc_freq": 20
+ },
+ {
+  "rank": 384,
+  "word": "case",
+  "freq": 38,
+  "doc_freq": 22
+ },
+ {
+  "rank": 385,
+  "word": "bear",
+  "freq": 38,
+  "doc_freq": 23
+ },
+ {
+  "rank": 386,
+  "word": "earn",
+  "freq": 38,
+  "doc_freq": 19
+ },
+ {
+  "rank": 387,
+  "word": "consequence",
+  "freq": 38,
+  "doc_freq": 22
+ },
+ {
+  "rank": 388,
+  "word": "peer",
+  "freq": 38,
+  "doc_freq": 14
+ },
+ {
+  "rank": 389,
+  "word": "enable",
+  "freq": 38,
+  "doc_freq": 25
+ },
+ {
+  "rank": 390,
+  "word": "habit",
+  "freq": 37,
+  "doc_freq": 17
+ },
+ {
+  "rank": 391,
+  "word": "customer",
+  "freq": 37,
+  "doc_freq": 18
+ },
+ {
+  "rank": 392,
+  "word": "opportunity",
+  "freq": 37,
+  "doc_freq": 22
+ },
+ {
+  "rank": 393,
+  "word": "growth",
+  "freq": 37,
+  "doc_freq": 18
+ },
+ {
+  "rank": 394,
+  "word": "simply",
+  "freq": 37,
+  "doc_freq": 26
+ },
+ {
+  "rank": 395,
+  "word": "wrong",
+  "freq": 37,
+  "doc_freq": 25
+ },
+ {
+  "rank": 396,
+  "word": "strong",
+  "freq": 37,
+  "doc_freq": 21
+ },
+ {
+  "rank": 397,
+  "word": "past",
+  "freq": 37,
+  "doc_freq": 25
+ },
+ {
+  "rank": 398,
+  "word": "history",
+  "freq": 37,
+  "doc_freq": 27
+ },
+ {
+  "rank": 399,
+  "word": "potential",
+  "freq": 37,
+  "doc_freq": 21
+ },
+ {
+  "rank": 400,
+  "word": "publish",
+  "freq": 37,
+  "doc_freq": 21
+ },
+ {
+  "rank": 401,
+  "word": "apple",
+  "freq": 37,
+  "doc_freq": 4
+ },
+ {
+  "rank": 402,
+  "word": "promote",
+  "freq": 36,
+  "doc_freq": 24
+ },
+ {
+  "rank": 403,
+  "word": "unite",
+  "freq": 36,
+  "doc_freq": 18
+ },
+ {
+  "rank": 404,
+  "word": "role",
+  "freq": 36,
+  "doc_freq": 27
+ },
+ {
+  "rank": 405,
+  "word": "memory",
+  "freq": 36,
+  "doc_freq": 14
+ },
+ {
+  "rank": 406,
+  "word": "cognitive",
+  "freq": 36,
+  "doc_freq": 19
+ },
+ {
+  "rank": 407,
+  "word": "derive",
+  "freq": 36,
+  "doc_freq": 32
+ },
+ {
+  "rank": 408,
+  "word": "progress",
+  "freq": 36,
+  "doc_freq": 22
+ },
+ {
+  "rank": 409,
+  "word": "huge",
+  "freq": 36,
+  "doc_freq": 26
+ },
+ {
+  "rank": 410,
+  "word": "half",
+  "freq": 36,
+  "doc_freq": 27
+ },
+ {
+  "rank": 411,
+  "word": "approach",
+  "freq": 36,
+  "doc_freq": 22
+ },
+ {
+  "rank": 412,
+  "word": "order",
+  "freq": 36,
+  "doc_freq": 23
+ },
+ {
+  "rank": 413,
+  "word": "buy",
+  "freq": 36,
+  "doc_freq": 26
+ },
+ {
+  "rank": 414,
+  "word": "degree",
+  "freq": 36,
+  "doc_freq": 19
+ },
+ {
+  "rank": 415,
+  "word": "expect",
+  "freq": 36,
+  "doc_freq": 22
+ },
+ {
+  "rank": 416,
+  "word": "draw",
+  "freq": 36,
+  "doc_freq": 21
+ },
+ {
+  "rank": 417,
+  "word": "meat",
+  "freq": 36,
+  "doc_freq": 8
+ },
+ {
+  "rank": 418,
+  "word": "accept",
+  "freq": 35,
+  "doc_freq": 23
+ },
+ {
+  "rank": 419,
+  "word": "average",
+  "freq": 35,
+  "doc_freq": 19
+ },
+ {
+  "rank": 420,
+  "word": "act",
+  "freq": 35,
+  "doc_freq": 24
+ },
+ {
+  "rank": 421,
+  "word": "expert",
+  "freq": 35,
+  "doc_freq": 20
+ },
+ {
+  "rank": 422,
+  "word": "medical",
+  "freq": 35,
+  "doc_freq": 18
+ },
+ {
+  "rank": 423,
+  "word": "game",
+  "freq": 35,
+  "doc_freq": 15
+ },
+ {
+  "rank": 424,
+  "word": "consider",
+  "freq": 35,
+  "doc_freq": 24
+ },
+ {
+  "rank": 425,
+  "word": "break",
+  "freq": 35,
+  "doc_freq": 21
+ },
+ {
+  "rank": 426,
+  "word": "cite",
+  "freq": 35,
+  "doc_freq": 31
+ },
+ {
+  "rank": 427,
+  "word": "photo",
+  "freq": 35,
+  "doc_freq": 7
+ },
+ {
+  "rank": 428,
+  "word": "free",
+  "freq": 34,
+  "doc_freq": 22
+ },
+ {
+  "rank": 429,
+  "word": "action",
+  "freq": 34,
+  "doc_freq": 22
+ },
+ {
+  "rank": 430,
+  "word": "house",
+  "freq": 34,
+  "doc_freq": 14
+ },
+ {
+  "rank": 431,
+  "word": "especially",
+  "freq": 34,
+  "doc_freq": 23
+ },
+ {
+  "rank": 432,
+  "word": "though",
+  "freq": 34,
+  "doc_freq": 21
+ },
+ {
+  "rank": 433,
+  "word": "harm",
+  "freq": 34,
+  "doc_freq": 18
+ },
+ {
+  "rank": 434,
+  "word": "responsibility",
+  "freq": 34,
+  "doc_freq": 20
+ },
+ {
+  "rank": 435,
+  "word": "journal",
+  "freq": 34,
+  "doc_freq": 13
+ },
+ {
+  "rank": 436,
+  "word": "million",
+  "freq": 34,
+  "doc_freq": 18
+ },
+ {
+  "rank": 437,
+  "word": "reflect",
+  "freq": 34,
+  "doc_freq": 22
+ },
+ {
+  "rank": 438,
+  "word": "picture",
+  "freq": 34,
+  "doc_freq": 19
+ },
+ {
+  "rank": 439,
+  "word": "healthy",
+  "freq": 34,
+  "doc_freq": 24
+ },
+ {
+  "rank": 440,
+  "word": "sale",
+  "freq": 34,
+  "doc_freq": 13
+ },
+ {
+  "rank": 441,
+  "word": "workplace",
+  "freq": 34,
+  "doc_freq": 14
+ },
+ {
+  "rank": 442,
+  "word": "everyone",
+  "freq": 33,
+  "doc_freq": 17
+ },
+ {
+  "rank": 443,
+  "word": "situation",
+  "freq": 33,
+  "doc_freq": 20
+ },
+ {
+  "rank": 444,
+  "word": "appear",
+  "freq": 33,
+  "doc_freq": 22
+ },
+ {
+  "rank": 445,
+  "word": "fail",
+  "freq": 33,
+  "doc_freq": 27
+ },
+ {
+  "rank": 446,
+  "word": "factor",
+  "freq": 33,
+  "doc_freq": 20
+ },
+ {
+  "rank": 447,
+  "word": "fast",
+  "freq": 33,
+  "doc_freq": 30
+ },
+ {
+  "rank": 448,
+  "word": "similar",
+  "freq": 33,
+  "doc_freq": 24
+ },
+ {
+  "rank": 449,
+  "word": "tax",
+  "freq": 33,
+  "doc_freq": 9
+ },
+ {
+  "rank": 450,
+  "word": "various",
+  "freq": 33,
+  "doc_freq": 24
+ },
+ {
+  "rank": 451,
+  "word": "explain",
+  "freq": 33,
+  "doc_freq": 21
+ },
+ {
+  "rank": 452,
+  "word": "consumption",
+  "freq": 33,
+  "doc_freq": 15
+ },
+ {
+  "rank": 453,
+  "word": "never",
+  "freq": 33,
+  "doc_freq": 24
+ },
+ {
+  "rank": 454,
+  "word": "full",
+  "freq": 33,
+  "doc_freq": 24
+ },
+ {
+  "rank": 455,
+  "word": "usually",
+  "freq": 33,
+  "doc_freq": 27
+ },
+ {
+  "rank": 456,
+  "word": "account",
+  "freq": 33,
+  "doc_freq": 23
+ },
+ {
+  "rank": 457,
+  "word": "cultural",
+  "freq": 33,
+  "doc_freq": 16
+ },
+ {
+  "rank": 458,
+  "word": "image",
+  "freq": 33,
+  "doc_freq": 14
+ },
+ {
+  "rank": 459,
+  "word": "computer",
+  "freq": 33,
+  "doc_freq": 17
+ },
+ {
+  "rank": 460,
+  "word": "short",
+  "freq": 32,
+  "doc_freq": 25
+ },
+ {
+  "rank": 461,
+  "word": "management",
+  "freq": 32,
+  "doc_freq": 19
+ },
+ {
+  "rank": 462,
+  "word": "prepare",
+  "freq": 32,
+  "doc_freq": 23
+ },
+ {
+  "rank": 463,
+  "word": "doctor",
+  "freq": 32,
+  "doc_freq": 10
+ },
+ {
+  "rank": 464,
+  "word": "fish",
+  "freq": 32,
+  "doc_freq": 9
+ },
+ {
+  "rank": 465,
+  "word": "maintain",
+  "freq": 32,
+  "doc_freq": 15
+ },
+ {
+  "rank": 466,
+  "word": "beyond",
+  "freq": 32,
+  "doc_freq": 22
+ },
+ {
+  "rank": 467,
+  "word": "determine",
+  "freq": 32,
+  "doc_freq": 22
+ },
+ {
+  "rank": 468,
+  "word": "due",
+  "freq": 32,
+  "doc_freq": 22
+ },
+ {
+  "rank": 469,
+  "word": "force",
+  "freq": 32,
+  "doc_freq": 20
+ },
+ {
+  "rank": 470,
+  "word": "traditional",
+  "freq": 32,
+  "doc_freq": 16
+ },
+ {
+  "rank": 471,
+  "word": "machine",
+  "freq": 32,
+  "doc_freq": 14
+ },
+ {
+  "rank": 472,
+  "word": "sell",
+  "freq": 32,
+  "doc_freq": 18
+ },
+ {
+  "rank": 473,
+  "word": "stay",
+  "freq": 32,
+  "doc_freq": 25
+ },
+ {
+  "rank": 474,
+  "word": "attract",
+  "freq": 32,
+  "doc_freq": 22
+ },
+ {
+  "rank": 475,
+  "word": "teenager",
+  "freq": 32,
+  "doc_freq": 6
+ },
+ {
+  "rank": 476,
+  "word": "present",
+  "freq": 32,
+  "doc_freq": 20
+ },
+ {
+  "rank": 477,
+  "word": "receive",
+  "freq": 32,
+  "doc_freq": 22
+ },
+ {
+  "rank": 478,
+  "word": "advantage",
+  "freq": 32,
+  "doc_freq": 20
+ },
+ {
+  "rank": 479,
+  "word": "increasingly",
+  "freq": 32,
+  "doc_freq": 23
+ },
+ {
+  "rank": 480,
+  "word": "red",
+  "freq": 32,
+  "doc_freq": 10
+ },
+ {
+  "rank": 481,
+  "word": "body",
+  "freq": 32,
+  "doc_freq": 18
+ },
+ {
+  "rank": 482,
+  "word": "member",
+  "freq": 32,
+  "doc_freq": 18
+ },
+ {
+  "rank": 483,
+  "word": "influence",
+  "freq": 32,
+  "doc_freq": 21
+ },
+ {
+  "rank": 484,
+  "word": "livestock",
+  "freq": 32,
+  "doc_freq": 4
+ },
+ {
+  "rank": 485,
+  "word": "manager",
+  "freq": 31,
+  "doc_freq": 20
+ },
+ {
+  "rank": 486,
+  "word": "suffer",
+  "freq": 31,
+  "doc_freq": 18
+ },
+ {
+  "rank": 487,
+  "word": "evidence",
+  "freq": 31,
+  "doc_freq": 18
+ },
+ {
+  "rank": 488,
+  "word": "regard",
+  "freq": 31,
+  "doc_freq": 22
+ },
+ {
+  "rank": 489,
+  "word": "serious",
+  "freq": 31,
+  "doc_freq": 23
+ },
+ {
+  "rank": 490,
+  "word": "complex",
+  "freq": 31,
+  "doc_freq": 18
+ },
+ {
+  "rank": 491,
+  "word": "employer",
+  "freq": 31,
+  "doc_freq": 15
+ },
+ {
+  "rank": 492,
+  "word": "experiment",
+  "freq": 31,
+  "doc_freq": 16
+ },
+ {
+  "rank": 493,
+  "word": "principle",
+  "freq": 31,
+  "doc_freq": 14
+ },
+ {
+  "rank": 494,
+  "word": "launch",
+  "freq": 31,
+  "doc_freq": 11
+ },
+ {
+  "rank": 495,
+  "word": "practice",
+  "freq": 31,
+  "doc_freq": 25
+ },
+ {
+  "rank": 496,
+  "word": "graduate",
+  "freq": 31,
+  "doc_freq": 14
+ },
+ {
+  "rank": 497,
+  "word": "colleague",
+  "freq": 31,
+  "doc_freq": 20
+ },
+ {
+  "rank": 498,
+  "word": "device",
+  "freq": 31,
+  "doc_freq": 13
+ },
+ {
+  "rank": 499,
+  "word": "certain",
+  "freq": 31,
+  "doc_freq": 20
+ },
+ {
+  "rank": 500,
+  "word": "depend",
+  "freq": 30,
+  "doc_freq": 22
+ },
+ {
+  "rank": 501,
+  "word": "let",
+  "freq": 30,
+  "doc_freq": 20
+ },
+ {
+  "rank": 502,
+  "word": "easily",
+  "freq": 30,
+  "doc_freq": 24
+ },
+ {
+  "rank": 503,
+  "word": "serve",
+  "freq": 30,
+  "doc_freq": 25
+ },
+ {
+  "rank": 504,
+  "word": "watch",
+  "freq": 30,
+  "doc_freq": 18
+ },
+ {
+  "rank": 505,
+  "word": "status",
+  "freq": 30,
+  "doc_freq": 16
+ },
+ {
+  "rank": 506,
+  "word": "source",
+  "freq": 30,
+  "doc_freq": 21
+ },
+ {
+  "rank": 507,
+  "word": "love",
+  "freq": 30,
+  "doc_freq": 15
+ },
+ {
+  "rank": 508,
+  "word": "limit",
+  "freq": 30,
+  "doc_freq": 18
+ },
+ {
+  "rank": 509,
+  "word": "store",
+  "freq": 30,
+  "doc_freq": 13
+ },
+ {
+  "rank": 510,
+  "word": "screen",
+  "freq": 30,
+  "doc_freq": 9
+ },
+ {
+  "rank": 511,
+  "word": "survey",
+  "freq": 30,
+  "doc_freq": 18
+ },
+ {
+  "rank": 512,
+  "word": "internet",
+  "freq": 30,
+  "doc_freq": 10
+ },
+ {
+  "rank": 513,
+  "word": "unique",
+  "freq": 30,
+  "doc_freq": 20
+ },
+ {
+  "rank": 514,
+  "word": "subject",
+  "freq": 30,
+  "doc_freq": 16
+ },
+ {
+  "rank": 515,
+  "word": "financial",
+  "freq": 29,
+  "doc_freq": 20
+ },
+ {
+  "rank": 516,
+  "word": "slow",
+  "freq": 29,
+  "doc_freq": 22
+ },
+ {
+  "rank": 517,
+  "word": "balance",
+  "freq": 29,
+  "doc_freq": 17
+ },
+ {
+  "rank": 518,
+  "word": "earth",
+  "freq": 29,
+  "doc_freq": 14
+ },
+ {
+  "rank": 519,
+  "word": "oil",
+  "freq": 29,
+  "doc_freq": 10
+ },
+ {
+  "rank": 520,
+  "word": "difficult",
+  "freq": 29,
+  "doc_freq": 22
+ },
+ {
+  "rank": 521,
+  "word": "note",
+  "freq": 29,
+  "doc_freq": 20
+ },
+ {
+  "rank": 522,
+  "word": "solution",
+  "freq": 29,
+  "doc_freq": 18
+ },
+ {
+  "rank": 523,
+  "word": "explore",
+  "freq": 29,
+  "doc_freq": 24
+ },
+ {
+  "rank": 524,
+  "word": "address",
+  "freq": 29,
+  "doc_freq": 19
+ },
+ {
+  "rank": 525,
+  "word": "matter",
+  "freq": 29,
+  "doc_freq": 21
+ },
+ {
+  "rank": 526,
+  "word": "top",
+  "freq": 29,
+  "doc_freq": 15
+ },
+ {
+  "rank": 527,
+  "word": "month",
+  "freq": 29,
+  "doc_freq": 21
+ },
+ {
+  "rank": 528,
+  "word": "tech",
+  "freq": 29,
+  "doc_freq": 9
+ },
+ {
+  "rank": 529,
+  "word": "plant",
+  "freq": 29,
+  "doc_freq": 14
+ },
+ {
+  "rank": 530,
+  "word": "along",
+  "freq": 29,
+  "doc_freq": 18
+ },
+ {
+  "rank": 531,
+  "word": "strategy",
+  "freq": 29,
+  "doc_freq": 18
+ },
+ {
+  "rank": 532,
+  "word": "appeal",
+  "freq": 29,
+  "doc_freq": 14
+ },
+ {
+  "rank": 533,
+  "word": "variety",
+  "freq": 29,
+  "doc_freq": 15
+ },
+ {
+  "rank": 534,
+  "word": "kid",
+  "freq": 29,
+  "doc_freq": 14
+ },
+ {
+  "rank": 535,
+  "word": "copy",
+  "freq": 29,
+  "doc_freq": 18
+ },
+ {
+  "rank": 536,
+  "word": "private",
+  "freq": 28,
+  "doc_freq": 14
+ },
+ {
+  "rank": 537,
+  "word": "exercise",
+  "freq": 28,
+  "doc_freq": 13
+ },
+ {
+  "rank": 538,
+  "word": "manage",
+  "freq": 28,
+  "doc_freq": 21
+ },
+ {
+  "rank": 539,
+  "word": "income",
+  "freq": 28,
+  "doc_freq": 11
+ },
+ {
+  "rank": 540,
+  "word": "agriculture",
+  "freq": 28,
+  "doc_freq": 10
+ },
+ {
+  "rank": 541,
+  "word": "fall",
+  "freq": 28,
+  "doc_freq": 21
+ },
+ {
+  "rank": 542,
+  "word": "cut",
+  "freq": 28,
+  "doc_freq": 20
+ },
+ {
+  "rank": 543,
+  "word": "really",
+  "freq": 28,
+  "doc_freq": 23
+ },
+ {
+  "rank": 544,
+  "word": "agree",
+  "freq": 28,
+  "doc_freq": 15
+ },
+ {
+  "rank": 545,
+  "word": "connect",
+  "freq": 28,
+  "doc_freq": 19
+ },
+ {
+  "rank": 546,
+  "word": "engage",
+  "freq": 28,
+  "doc_freq": 19
+ },
+ {
+  "rank": 547,
+  "word": "key",
+  "freq": 28,
+  "doc_freq": 23
+ },
+ {
+  "rank": 548,
+  "word": "event",
+  "freq": 28,
+  "doc_freq": 16
+ },
+ {
+  "rank": 549,
+  "word": "trend",
+  "freq": 27,
+  "doc_freq": 17
+ },
+ {
+  "rank": 550,
+  "word": "reality",
+  "freq": 27,
+  "doc_freq": 18
+ },
+ {
+  "rank": 551,
+  "word": "reward",
+  "freq": 27,
+  "doc_freq": 17
+ },
+ {
+  "rank": 552,
+  "word": "ensure",
+  "freq": 27,
+  "doc_freq": 20
+ },
+ {
+  "rank": 553,
+  "word": "popular",
+  "freq": 27,
+  "doc_freq": 18
+ },
+ {
+  "rank": 554,
+  "word": "within",
+  "freq": 27,
+  "doc_freq": 17
+ },
+ {
+  "rank": 555,
+  "word": "next",
+  "freq": 27,
+  "doc_freq": 21
+ },
+ {
+  "rank": 556,
+  "word": "expensive",
+  "freq": 27,
+  "doc_freq": 17
+ },
+ {
+  "rank": 557,
+  "word": "sometimes",
+  "freq": 27,
+  "doc_freq": 21
+ },
+ {
+  "rank": 558,
+  "word": "label",
+  "freq": 27,
+  "doc_freq": 6
+ },
+ {
+  "rank": 559,
+  "word": "campus",
+  "freq": 27,
+  "doc_freq": 10
+ },
+ {
+  "rank": 560,
+  "word": "creative",
+  "freq": 27,
+  "doc_freq": 12
+ },
+ {
+  "rank": 561,
+  "word": "concept",
+  "freq": 27,
+  "doc_freq": 18
+ },
+ {
+  "rank": 562,
+  "word": "video",
+  "freq": 27,
+  "doc_freq": 8
+ },
+ {
+  "rank": 563,
+  "word": "board",
+  "freq": 27,
+  "doc_freq": 13
+ },
+ {
+  "rank": 564,
+  "word": "network",
+  "freq": 27,
+  "doc_freq": 16
+ },
+ {
+  "rank": 565,
+  "word": "check",
+  "freq": 26,
+  "doc_freq": 15
+ },
+ {
+  "rank": 566,
+  "word": "current",
+  "freq": 26,
+  "doc_freq": 18
+ },
+ {
+  "rank": 567,
+  "word": "sign",
+  "freq": 26,
+  "doc_freq": 20
+ },
+ {
+  "rank": 568,
+  "word": "argue",
+  "freq": 26,
+  "doc_freq": 17
+ },
+ {
+  "rank": 569,
+  "word": "protection",
+  "freq": 26,
+  "doc_freq": 15
+ },
+ {
+  "rank": 570,
+  "word": "throughout",
+  "freq": 26,
+  "doc_freq": 19
+ },
+ {
+  "rank": 571,
+  "word": "modern",
+  "freq": 26,
+  "doc_freq": 16
+ },
+ {
+  "rank": 572,
+  "word": "relate",
+  "freq": 26,
+  "doc_freq": 23
+ },
+ {
+  "rank": 573,
+  "word": "sound",
+  "freq": 26,
+  "doc_freq": 19
+ },
+ {
+  "rank": 574,
+  "word": "analysis",
+  "freq": 26,
+  "doc_freq": 13
+ },
+ {
+  "rank": 575,
+  "word": "conflict",
+  "freq": 26,
+  "doc_freq": 15
+ },
+ {
+  "rank": 576,
+  "word": "professional",
+  "freq": 26,
+  "doc_freq": 20
+ },
+ {
+  "rank": 577,
+  "word": "basic",
+  "freq": 26,
+  "doc_freq": 17
+ },
+ {
+  "rank": 578,
+  "word": "responsible",
+  "freq": 26,
+  "doc_freq": 16
+ },
+ {
+  "rank": 579,
+  "word": "monitor",
+  "freq": 26,
+  "doc_freq": 11
+ },
+ {
+  "rank": 580,
+  "word": "production",
+  "freq": 26,
+  "doc_freq": 13
+ },
+ {
+  "rank": 581,
+  "word": "inequality",
+  "freq": 26,
+  "doc_freq": 9
+ },
+ {
+  "rank": 582,
+  "word": "grade",
+  "freq": 26,
+  "doc_freq": 11
+ },
+ {
+  "rank": 583,
+  "word": "sit",
+  "freq": 26,
+  "doc_freq": 14
+ },
+ {
+  "rank": 584,
+  "word": "international",
+  "freq": 26,
+  "doc_freq": 14
+ },
+ {
+  "rank": 585,
+  "word": "respect",
+  "freq": 26,
+  "doc_freq": 19
+ },
+ {
+  "rank": 586,
+  "word": "actor",
+  "freq": 26,
+  "doc_freq": 5
+ },
+ {
+  "rank": 587,
+  "word": "nature",
+  "freq": 25,
+  "doc_freq": 18
+ },
+ {
+  "rank": 588,
+  "word": "seek",
+  "freq": 25,
+  "doc_freq": 18
+ },
+ {
+  "rank": 589,
+  "word": "perhaps",
+  "freq": 25,
+  "doc_freq": 21
+ },
+ {
+  "rank": 590,
+  "word": "alone",
+  "freq": 25,
+  "doc_freq": 19
+ },
+ {
+  "rank": 591,
+  "word": "several",
+  "freq": 25,
+  "doc_freq": 21
+ },
+ {
+  "rank": 592,
+  "word": "ever",
+  "freq": 25,
+  "doc_freq": 19
+ },
+ {
+  "rank": 593,
+  "word": "perform",
+  "freq": 25,
+  "doc_freq": 19
+ },
+ {
+  "rank": 594,
+  "word": "billion",
+  "freq": 25,
+  "doc_freq": 15
+ },
+ {
+  "rank": 595,
+  "word": "rely",
+  "freq": 25,
+  "doc_freq": 18
+ },
+ {
+  "rank": 596,
+  "word": "deal",
+  "freq": 25,
+  "doc_freq": 19
+ },
+ {
+  "rank": 597,
+  "word": "per",
+  "freq": 25,
+  "doc_freq": 11
+ },
+ {
+  "rank": 598,
+  "word": "apply",
+  "freq": 25,
+  "doc_freq": 18
+ },
+ {
+  "rank": 599,
+  "word": "boost",
+  "freq": 25,
+  "doc_freq": 18
+ },
+ {
+  "rank": 600,
+  "word": "hope",
+  "freq": 25,
+  "doc_freq": 17
+ },
+ {
+  "rank": 601,
+  "word": "senior",
+  "freq": 25,
+  "doc_freq": 10
+ },
+ {
+  "rank": 602,
+  "word": "majority",
+  "freq": 25,
+  "doc_freq": 14
+ },
+ {
+  "rank": 603,
+  "word": "observe",
+  "freq": 25,
+  "doc_freq": 17
+ },
+ {
+  "rank": 604,
+  "word": "people's",
+  "freq": 25,
+  "doc_freq": 11
+ },
+ {
+  "rank": 605,
+  "word": "post",
+  "freq": 25,
+  "doc_freq": 12
+ },
+ {
+  "rank": 606,
+  "word": "professor",
+  "freq": 25,
+  "doc_freq": 14
+ },
+ {
+  "rank": 607,
+  "word": "quite",
+  "freq": 25,
+  "doc_freq": 21
+ },
+ {
+  "rank": 608,
+  "word": "tourist",
+  "freq": 25,
+  "doc_freq": 8
+ },
+ {
+  "rank": 609,
+  "word": "insect",
+  "freq": 25,
+  "doc_freq": 7
+ },
+ {
+  "rank": 610,
+  "word": "classical",
+  "freq": 25,
+  "doc_freq": 5
+ },
+ {
+  "rank": 611,
+  "word": "audience",
+  "freq": 25,
+  "doc_freq": 8
+ },
+ {
+  "rank": 612,
+  "word": "female",
+  "freq": 25,
+  "doc_freq": 6
+ },
+ {
+  "rank": 613,
+  "word": "method",
+  "freq": 25,
+  "doc_freq": 13
+ },
+ {
+  "rank": 614,
+  "word": "desire",
+  "freq": 25,
+  "doc_freq": 17
+ },
+ {
+  "rank": 615,
+  "word": "generally",
+  "freq": 24,
+  "doc_freq": 23
+ },
+ {
+  "rank": 616,
+  "word": "diet",
+  "freq": 24,
+  "doc_freq": 11
+ },
+ {
+  "rank": 617,
+  "word": "adolescent",
+  "freq": 24,
+  "doc_freq": 6
+ },
+ {
+  "rank": 618,
+  "word": "ideal",
+  "freq": 24,
+  "doc_freq": 12
+ },
+ {
+  "rank": 619,
+  "word": "ecosystem",
+  "freq": 24,
+  "doc_freq": 12
+ },
+ {
+  "rank": 620,
+  "word": "sea",
+  "freq": 24,
+  "doc_freq": 10
+ },
+ {
+  "rank": 621,
+  "word": "land",
+  "freq": 24,
+  "doc_freq": 14
+ },
+ {
+  "rank": 622,
+  "word": "baby",
+  "freq": 24,
+  "doc_freq": 12
+ },
+ {
+  "rank": 623,
+  "word": "user",
+  "freq": 24,
+  "doc_freq": 10
+ },
+ {
+  "rank": 624,
+  "word": "amount",
+  "freq": 24,
+  "doc_freq": 19
+ },
+ {
+  "rank": 625,
+  "word": "trade",
+  "freq": 24,
+  "doc_freq": 8
+ },
+ {
+  "rank": 626,
+  "word": "interaction",
+  "freq": 24,
+  "doc_freq": 19
+ },
+ {
+  "rank": 627,
+  "word": "disease",
+  "freq": 24,
+  "doc_freq": 14
+ },
+ {
+  "rank": 628,
+  "word": "paint",
+  "freq": 24,
+  "doc_freq": 12
+ },
+ {
+  "rank": 629,
+  "word": "describe",
+  "freq": 24,
+  "doc_freq": 17
+ },
+ {
+  "rank": 630,
+  "word": "aim",
+  "freq": 24,
+  "doc_freq": 17
+ },
+ {
+  "rank": 631,
+  "word": "signal",
+  "freq": 24,
+  "doc_freq": 8
+ },
+ {
+  "rank": 632,
+  "word": "shop",
+  "freq": 24,
+  "doc_freq": 13
+ },
+ {
+  "rank": 633,
+  "word": "significant",
+  "freq": 24,
+  "doc_freq": 21
+ },
+ {
+  "rank": 634,
+  "word": "add",
+  "freq": 24,
+  "doc_freq": 20
+ },
+ {
+  "rank": 635,
+  "word": "psychology",
+  "freq": 24,
+  "doc_freq": 9
+ },
+ {
+  "rank": 636,
+  "word": "introduce",
+  "freq": 24,
+  "doc_freq": 15
+ },
+ {
+  "rank": 637,
+  "word": "type",
+  "freq": 24,
+  "doc_freq": 15
+ },
+ {
+  "rank": 638,
+  "word": "occur",
+  "freq": 24,
+  "doc_freq": 16
+ },
+ {
+  "rank": 639,
+  "word": "region",
+  "freq": 24,
+  "doc_freq": 13
+ },
+ {
+  "rank": 640,
+  "word": "spider",
+  "freq": 24,
+  "doc_freq": 2
+ },
+ {
+  "rank": 641,
+  "word": "pressure",
+  "freq": 23,
+  "doc_freq": 15
+ },
+ {
+  "rank": 642,
+  "word": "safe",
+  "freq": 23,
+  "doc_freq": 18
+ },
+ {
+  "rank": 643,
+  "word": "adopt",
+  "freq": 23,
+  "doc_freq": 21
+ },
+ {
+  "rank": 644,
+  "word": "true",
+  "freq": 23,
+  "doc_freq": 20
+ },
+ {
+  "rank": 645,
+  "word": "wealth",
+  "freq": 23,
+  "doc_freq": 12
+ },
+ {
+  "rank": 646,
+  "word": "supply",
+  "freq": 23,
+  "doc_freq": 14
+ },
+ {
+  "rank": 647,
+  "word": "rat",
+  "freq": 23,
+  "doc_freq": 16
+ },
+ {
+  "rank": 648,
+  "word": "failure",
+  "freq": 23,
+  "doc_freq": 16
+ },
+ {
+  "rank": 649,
+  "word": "adapt",
+  "freq": 23,
+  "doc_freq": 20
+ },
+ {
+  "rank": 650,
+  "word": "week",
+  "freq": 23,
+  "doc_freq": 16
+ },
+ {
+  "rank": 651,
+  "word": "damage",
+  "freq": 23,
+  "doc_freq": 15
+ },
+ {
+  "rank": 652,
+  "word": "productivity",
+  "freq": 23,
+  "doc_freq": 12
+ },
+ {
+  "rank": 653,
+  "word": "shift",
+  "freq": 23,
+  "doc_freq": 15
+ },
+ {
+  "rank": 654,
+  "word": "vehicle",
+  "freq": 23,
+  "doc_freq": 11
+ },
+ {
+  "rank": 655,
+  "word": "fashion",
+  "freq": 23,
+  "doc_freq": 9
+ },
+ {
+  "rank": 656,
+  "word": "successful",
+  "freq": 23,
+  "doc_freq": 14
+ },
+ {
+  "rank": 657,
+  "word": "together",
+  "freq": 23,
+  "doc_freq": 17
+ },
+ {
+  "rank": 658,
+  "word": "guideline",
+  "freq": 23,
+  "doc_freq": 9
+ },
+ {
+  "rank": 659,
+  "word": "carry",
+  "freq": 23,
+  "doc_freq": 19
+ },
+ {
+  "rank": 660,
+  "word": "tool",
+  "freq": 23,
+  "doc_freq": 16
+ },
+ {
+  "rank": 661,
+  "word": "despite",
+  "freq": 23,
+  "doc_freq": 17
+ },
+ {
+  "rank": 662,
+  "word": "struggle",
+  "freq": 23,
+  "doc_freq": 16
+ },
+ {
+  "rank": 663,
+  "word": "operate",
+  "freq": 23,
+  "doc_freq": 16
+ },
+ {
+  "rank": 664,
+  "word": "participant",
+  "freq": 23,
+  "doc_freq": 15
+ },
+ {
+  "rank": 665,
+  "word": "creativity",
+  "freq": 23,
+  "doc_freq": 12
+ },
+ {
+  "rank": 666,
+  "word": "name",
+  "freq": 23,
+  "doc_freq": 13
+ },
+ {
+  "rank": 667,
+  "word": "topic",
+  "freq": 23,
+  "doc_freq": 12
+ },
+ {
+  "rank": 668,
+  "word": "institution",
+  "freq": 22,
+  "doc_freq": 10
+ },
+ {
+  "rank": 669,
+  "word": "hand",
+  "freq": 22,
+  "doc_freq": 17
+ },
+ {
+  "rank": 670,
+  "word": "promise",
+  "freq": 22,
+  "doc_freq": 13
+ },
+ {
+  "rank": 671,
+  "word": "collect",
+  "freq": 22,
+  "doc_freq": 15
+ },
+ {
+  "rank": 672,
+  "word": "man",
+  "freq": 22,
+  "doc_freq": 15
+ },
+ {
+  "rank": 673,
+  "word": "long-term",
+  "freq": 22,
+  "doc_freq": 16
+ },
+ {
+  "rank": 674,
+  "word": "race",
+  "freq": 22,
+  "doc_freq": 9
+ },
+ {
+  "rank": 675,
+  "word": "whole",
+  "freq": 22,
+  "doc_freq": 18
+ },
+ {
+  "rank": 676,
+  "word": "expense",
+  "freq": 22,
+  "doc_freq": 17
+ },
+ {
+  "rank": 677,
+  "word": "fund",
+  "freq": 22,
+  "doc_freq": 13
+ },
+ {
+  "rank": 678,
+  "word": "charge",
+  "freq": 22,
+  "doc_freq": 13
+ },
+ {
+  "rank": 679,
+  "word": "push",
+  "freq": 22,
+  "doc_freq": 17
+ },
+ {
+  "rank": 680,
+  "word": "eye",
+  "freq": 22,
+  "doc_freq": 14
+ },
+ {
+  "rank": 681,
+  "word": "feature",
+  "freq": 22,
+  "doc_freq": 17
+ },
+ {
+  "rank": 682,
+  "word": "general",
+  "freq": 22,
+  "doc_freq": 15
+ },
+ {
+  "rank": 683,
+  "word": "educational",
+  "freq": 22,
+  "doc_freq": 15
+ },
+ {
+  "rank": 684,
+  "word": "upon",
+  "freq": 22,
+  "doc_freq": 18
+ },
+ {
+  "rank": 685,
+  "word": "strike",
+  "freq": 22,
+  "doc_freq": 17
+ },
+ {
+  "rank": 686,
+  "word": "kill",
+  "freq": 22,
+  "doc_freq": 14
+ },
+ {
+  "rank": 687,
+  "word": "detail",
+  "freq": 22,
+  "doc_freq": 14
+ },
+ {
+  "rank": 688,
+  "word": "aspect",
+  "freq": 22,
+  "doc_freq": 15
+ },
+ {
+  "rank": 689,
+  "word": "although",
+  "freq": 22,
+  "doc_freq": 16
+ },
+ {
+  "rank": 690,
+  "word": "temperature",
+  "freq": 22,
+  "doc_freq": 10
+ },
+ {
+  "rank": 691,
+  "word": "establish",
+  "freq": 22,
+  "doc_freq": 20
+ },
+ {
+  "rank": 692,
+  "word": "resident",
+  "freq": 22,
+  "doc_freq": 10
+ },
+ {
+  "rank": 693,
+  "word": "travel",
+  "freq": 22,
+  "doc_freq": 15
+ },
+ {
+  "rank": 694,
+  "word": "passion",
+  "freq": 22,
+  "doc_freq": 6
+ },
+ {
+  "rank": 695,
+  "word": "south",
+  "freq": 22,
+  "doc_freq": 13
+ },
+ {
+  "rank": 696,
+  "word": "instruction",
+  "freq": 22,
+  "doc_freq": 11
+ },
+ {
+  "rank": 697,
+  "word": "chance",
+  "freq": 22,
+  "doc_freq": 15
+ },
+ {
+  "rank": 698,
+  "word": "visit",
+  "freq": 22,
+  "doc_freq": 15
+ },
+ {
+  "rank": 699,
+  "word": "schedule",
+  "freq": 22,
+  "doc_freq": 15
+ },
+ {
+  "rank": 700,
+  "word": "realize",
+  "freq": 22,
+  "doc_freq": 16
+ },
+ {
+  "rank": 701,
+  "word": "imagine",
+  "freq": 21,
+  "doc_freq": 17
+ },
+ {
+  "rank": 702,
+  "word": "essential",
+  "freq": 21,
+  "doc_freq": 17
+ },
+ {
+  "rank": 703,
+  "word": "organization",
+  "freq": 21,
+  "doc_freq": 14
+ },
+ {
+  "rank": 704,
+  "word": "air",
+  "freq": 21,
+  "doc_freq": 15
+ },
+ {
+  "rank": 705,
+  "word": "towards",
+  "freq": 21,
+  "doc_freq": 16
+ },
+ {
+  "rank": 706,
+  "word": "decline",
+  "freq": 21,
+  "doc_freq": 18
+ },
+ {
+  "rank": 707,
+  "word": "clean",
+  "freq": 21,
+  "doc_freq": 11
+ },
+ {
+  "rank": 708,
+  "word": "unfinished",
+  "freq": 21,
+  "doc_freq": 21
+ },
+ {
+  "rank": 709,
+  "word": "solve",
+  "freq": 21,
+  "doc_freq": 17
+ },
+ {
+  "rank": 710,
+  "word": "attend",
+  "freq": 21,
+  "doc_freq": 14
+ },
+ {
+  "rank": 711,
+  "word": "story",
+  "freq": 21,
+  "doc_freq": 13
+ },
+ {
+  "rank": 712,
+  "word": "investment",
+  "freq": 21,
+  "doc_freq": 14
+ },
+ {
+  "rank": 713,
+  "word": "fear",
+  "freq": 21,
+  "doc_freq": 14
+ },
+ {
+  "rank": 714,
+  "word": "drink",
+  "freq": 21,
+  "doc_freq": 12
+ },
+ {
+  "rank": 715,
+  "word": "overall",
+  "freq": 21,
+  "doc_freq": 17
+ },
+ {
+  "rank": 716,
+  "word": "treat",
+  "freq": 21,
+  "doc_freq": 16
+ },
+ {
+  "rank": 717,
+  "word": "famous",
+  "freq": 21,
+  "doc_freq": 12
+ },
+ {
+  "rank": 718,
+  "word": "daily",
+  "freq": 21,
+  "doc_freq": 20
+ },
+ {
+  "rank": 719,
+  "word": "voice",
+  "freq": 21,
+  "doc_freq": 10
+ },
+ {
+  "rank": 720,
+  "word": "threat",
+  "freq": 21,
+  "doc_freq": 17
+ },
+ {
+  "rank": 721,
+  "word": "weight",
+  "freq": 21,
+  "doc_freq": 13
+ },
+ {
+  "rank": 722,
+  "word": "office",
+  "freq": 21,
+  "doc_freq": 15
+ },
+ {
+  "rank": 723,
+  "word": "emotion",
+  "freq": 21,
+  "doc_freq": 14
+ },
+ {
+  "rank": 724,
+  "word": "recently",
+  "freq": 21,
+  "doc_freq": 18
+ },
+ {
+  "rank": 725,
+  "word": "piece",
+  "freq": 21,
+  "doc_freq": 16
+ },
+ {
+  "rank": 726,
+  "word": "track",
+  "freq": 21,
+  "doc_freq": 16
+ },
+ {
+  "rank": 727,
+  "word": "fuel",
+  "freq": 21,
+  "doc_freq": 11
+ },
+ {
+  "rank": 728,
+  "word": "absence",
+  "freq": 21,
+  "doc_freq": 7
+ },
+ {
+  "rank": 729,
+  "word": "bird",
+  "freq": 21,
+  "doc_freq": 9
+ },
+ {
+  "rank": 730,
+  "word": "men",
+  "freq": 21,
+  "doc_freq": 8
+ },
+ {
+  "rank": 731,
+  "word": "email",
+  "freq": 21,
+  "doc_freq": 13
+ },
+ {
+  "rank": 732,
+  "word": "diversity",
+  "freq": 21,
+  "doc_freq": 13
+ },
+ {
+  "rank": 733,
+  "word": "achievement",
+  "freq": 21,
+  "doc_freq": 17
+ },
+ {
+  "rank": 734,
+  "word": "argument",
+  "freq": 21,
+  "doc_freq": 13
+ },
+ {
+  "rank": 735,
+  "word": "debris",
+  "freq": 21,
+  "doc_freq": 4
+ },
+ {
+  "rank": 736,
+  "word": "gap",
+  "freq": 21,
+  "doc_freq": 13
+ },
+ {
+  "rank": 737,
+  "word": "strange",
+  "freq": 21,
+  "doc_freq": 8
+ },
+ {
+  "rank": 738,
+  "word": "flood",
+  "freq": 21,
+  "doc_freq": 10
+ },
+ {
+  "rank": 739,
+  "word": "marine",
+  "freq": 21,
+  "doc_freq": 6
+ },
+ {
+  "rank": 740,
+  "word": "trust",
+  "freq": 21,
+  "doc_freq": 15
+ },
+ {
+  "rank": 741,
+  "word": "relevant",
+  "freq": 21,
+  "doc_freq": 14
+ },
+ {
+  "rank": 742,
+  "word": "rice",
+  "freq": 21,
+  "doc_freq": 1
+ },
+ {
+  "rank": 743,
+  "word": "period",
+  "freq": 20,
+  "doc_freq": 11
+ },
+ {
+  "rank": 744,
+  "word": "recovery",
+  "freq": 20,
+  "doc_freq": 4
+ },
+ {
+  "rank": 745,
+  "word": "necessary",
+  "freq": 20,
+  "doc_freq": 15
+ },
+ {
+  "rank": 746,
+  "word": "ignore",
+  "freq": 20,
+  "doc_freq": 16
+ },
+ {
+  "rank": 747,
+  "word": "pursue",
+  "freq": 20,
+  "doc_freq": 12
+ },
+ {
+  "rank": 748,
+  "word": "dream",
+  "freq": 20,
+  "doc_freq": 12
+ },
+ {
+  "rank": 749,
+  "word": "generation",
+  "freq": 20,
+  "doc_freq": 15
+ },
+ {
+  "rank": 750,
+  "word": "simple",
+  "freq": 20,
+  "doc_freq": 13
+ },
+ {
+  "rank": 751,
+  "word": "citizen",
+  "freq": 20,
+  "doc_freq": 11
+ },
+ {
+  "rank": 752,
+  "word": "wealthy",
+  "freq": 20,
+  "doc_freq": 18
+ },
+ {
+  "rank": 753,
+  "word": "respond",
+  "freq": 20,
+  "doc_freq": 16
+ },
+ {
+  "rank": 754,
+  "word": "mother",
+  "freq": 20,
+  "doc_freq": 8
+ },
+ {
+  "rank": 755,
+  "word": "smart",
+  "freq": 20,
+  "doc_freq": 12
+ },
+ {
+  "rank": 756,
+  "word": "manufacturer",
+  "freq": 20,
+  "doc_freq": 6
+ },
+ {
+  "rank": 757,
+  "word": "treatment",
+  "freq": 20,
+  "doc_freq": 10
+ },
+ {
+  "rank": 758,
+  "word": "rule",
+  "freq": 20,
+  "doc_freq": 16
+ },
+ {
+  "rank": 759,
+  "word": "drop",
+  "freq": 20,
+  "doc_freq": 15
+ },
+ {
+  "rank": 760,
+  "word": "waste",
+  "freq": 20,
+  "doc_freq": 10
+ },
+ {
+  "rank": 761,
+  "word": "kitchen",
+  "freq": 20,
+  "doc_freq": 3
+ },
+ {
+  "rank": 762,
+  "word": "nothing",
+  "freq": 20,
+  "doc_freq": 16
+ },
+ {
+  "rank": 763,
+  "word": "fight",
+  "freq": 20,
+  "doc_freq": 13
+ },
+ {
+  "rank": 764,
+  "word": "emotional",
+  "freq": 20,
+  "doc_freq": 14
+ },
+ {
+  "rank": 765,
+  "word": "specific",
+  "freq": 20,
+  "doc_freq": 16
+ },
+ {
+  "rank": 766,
+  "word": "spread",
+  "freq": 20,
+  "doc_freq": 16
+ },
+ {
+  "rank": 767,
+  "word": "presence",
+  "freq": 20,
+  "doc_freq": 10
+ },
+ {
+  "rank": 768,
+  "word": "carbon",
+  "freq": 20,
+  "doc_freq": 11
+ },
+ {
+  "rank": 769,
+  "word": "fee",
+  "freq": 20,
+  "doc_freq": 11
+ },
+ {
+  "rank": 770,
+  "word": "consume",
+  "freq": 20,
+  "doc_freq": 13
+ },
+ {
+  "rank": 771,
+  "word": "position",
+  "freq": 20,
+  "doc_freq": 8
+ },
+ {
+  "rank": 772,
+  "word": "retail",
+  "freq": 20,
+  "doc_freq": 4
+ },
+ {
+  "rank": 773,
+  "word": "complete",
+  "freq": 20,
+  "doc_freq": 13
+ },
+ {
+  "rank": 774,
+  "word": "special",
+  "freq": 20,
+  "doc_freq": 17
+ },
+ {
+  "rank": 775,
+  "word": "interact",
+  "freq": 20,
+  "doc_freq": 12
+ },
+ {
+  "rank": 776,
+  "word": "editor",
+  "freq": 20,
+  "doc_freq": 2
+ },
+ {
+  "rank": 777,
+  "word": "telemedicine",
+  "freq": 20,
+  "doc_freq": 1
+ },
+ {
+  "rank": 778,
+  "word": "operation",
+  "freq": 19,
+  "doc_freq": 10
+ },
+ {
+  "rank": 779,
+  "word": "available",
+  "freq": 19,
+  "doc_freq": 13
+ },
+ {
+  "rank": 780,
+  "word": "rate",
+  "freq": 19,
+  "doc_freq": 14
+ },
+ {
+  "rank": 781,
+  "word": "win",
+  "freq": 19,
+  "doc_freq": 16
+ },
+ {
+  "rank": 782,
+  "word": "lifestyle",
+  "freq": 19,
+  "doc_freq": 14
+ },
+ {
+  "rank": 783,
+  "word": "worth",
+  "freq": 19,
+  "doc_freq": 14
+ },
+ {
+  "rank": 784,
+  "word": "well-being",
+  "freq": 19,
+  "doc_freq": 15
+ },
+ {
+  "rank": 785,
+  "word": "conclusion",
+  "freq": 19,
+  "doc_freq": 17
+ },
+ {
+  "rank": 786,
+  "word": "warn",
+  "freq": 19,
+  "doc_freq": 15
+ },
+ {
+  "rank": 787,
+  "word": "innovation",
+  "freq": 19,
+  "doc_freq": 8
+ },
+ {
+  "rank": 788,
+  "word": "talent",
+  "freq": 19,
+  "doc_freq": 15
+ },
+ {
+  "rank": 789,
+  "word": "pattern",
+  "freq": 19,
+  "doc_freq": 17
+ },
+ {
+  "rank": 790,
+  "word": "official",
+  "freq": 19,
+  "doc_freq": 11
+ },
+ {
+  "rank": 791,
+  "word": "outside",
+  "freq": 19,
+  "doc_freq": 17
+ },
+ {
+  "rank": 792,
+  "word": "bill",
+  "freq": 19,
+  "doc_freq": 6
+ },
+ {
+  "rank": 793,
+  "word": "proposal",
+  "freq": 19,
+  "doc_freq": 9
+ },
+ {
+  "rank": 794,
+  "word": "film",
+  "freq": 19,
+  "doc_freq": 6
+ },
+ {
+  "rank": 795,
+  "word": "else",
+  "freq": 19,
+  "doc_freq": 14
+ },
+ {
+  "rank": 796,
+  "word": "represent",
+  "freq": 19,
+  "doc_freq": 14
+ },
+ {
+  "rank": 797,
+  "word": "recognition",
+  "freq": 19,
+  "doc_freq": 15
+ },
+ {
+  "rank": 798,
+  "word": "trouble",
+  "freq": 19,
+  "doc_freq": 15
+ },
+ {
+  "rank": 799,
+  "word": "cultivate",
+  "freq": 19,
+  "doc_freq": 13
+ },
+ {
+  "rank": 800,
+  "word": "strive",
+  "freq": 19,
+  "doc_freq": 12
+ },
+ {
+  "rank": 801,
+  "word": "leader",
+  "freq": 19,
+  "doc_freq": 12
+ },
+ {
+  "rank": 802,
+  "word": "party",
+  "freq": 19,
+  "doc_freq": 10
+ },
+ {
+  "rank": 803,
+  "word": "awareness",
+  "freq": 19,
+  "doc_freq": 18
+ },
+ {
+  "rank": 804,
+  "word": "agreement",
+  "freq": 19,
+  "doc_freq": 10
+ },
+ {
+  "rank": 805,
+  "word": "designer",
+  "freq": 19,
+  "doc_freq": 7
+ },
+ {
+  "rank": 806,
+  "word": "motivate",
+  "freq": 19,
+  "doc_freq": 13
+ },
+ {
+  "rank": 807,
+  "word": "anxiety",
+  "freq": 19,
+  "doc_freq": 10
+ },
+ {
+  "rank": 808,
+  "word": "survive",
+  "freq": 19,
+  "doc_freq": 13
+ },
+ {
+  "rank": 809,
+  "word": "near",
+  "freq": 19,
+  "doc_freq": 17
+ },
+ {
+  "rank": 810,
+  "word": "taste",
+  "freq": 19,
+  "doc_freq": 12
+ },
+ {
+  "rank": 811,
+  "word": "engineer",
+  "freq": 19,
+  "doc_freq": 16
+ },
+ {
+  "rank": 812,
+  "word": "heart",
+  "freq": 19,
+  "doc_freq": 12
+ },
+ {
+  "rank": 813,
+  "word": "conduct",
+  "freq": 19,
+  "doc_freq": 15
+ },
+ {
+  "rank": 814,
+  "word": "discover",
+  "freq": 19,
+  "doc_freq": 16
+ },
+ {
+  "rank": 815,
+  "word": "road",
+  "freq": 19,
+  "doc_freq": 10
+ },
+ {
+  "rank": 816,
+  "word": "happiness",
+  "freq": 19,
+  "doc_freq": 6
+ },
+ {
+  "rank": 817,
+  "word": "chimp",
+  "freq": 19,
+  "doc_freq": 1
+ },
+ {
+  "rank": 818,
+  "word": "examine",
+  "freq": 18,
+  "doc_freq": 14
+ },
+ {
+  "rank": 819,
+  "word": "vary",
+  "freq": 18,
+  "doc_freq": 15
+ },
+ {
+  "rank": 820,
+  "word": "crisis",
+  "freq": 18,
+  "doc_freq": 11
+ },
+ {
+  "rank": 821,
+  "word": "enhance",
+  "freq": 18,
+  "doc_freq": 16
+ },
+ {
+  "rank": 822,
+  "word": "loss",
+  "freq": 18,
+  "doc_freq": 13
+ },
+ {
+  "rank": 823,
+  "word": "lay",
+  "freq": 18,
+  "doc_freq": 12
+ },
+ {
+  "rank": 824,
+  "word": "attitude",
+  "freq": 18,
+  "doc_freq": 11
+ },
+ {
+  "rank": 825,
+  "word": "ago",
+  "freq": 18,
+  "doc_freq": 14
+ },
+ {
+  "rank": 826,
+  "word": "five",
+  "freq": 18,
+  "doc_freq": 14
+ },
+ {
+  "rank": 827,
+  "word": "priority",
+  "freq": 18,
+  "doc_freq": 14
+ },
+ {
+  "rank": 828,
+  "word": "technological",
+  "freq": 18,
+  "doc_freq": 10
+ },
+ {
+  "rank": 829,
+  "word": "repeat",
+  "freq": 18,
+  "doc_freq": 11
+ },
+ {
+  "rank": 830,
+  "word": "ready",
+  "freq": 18,
+  "doc_freq": 18
+ },
+ {
+  "rank": 831,
+  "word": "quickly",
+  "freq": 18,
+  "doc_freq": 17
+ },
+ {
+  "rank": 832,
+  "word": "combine",
+  "freq": 18,
+  "doc_freq": 13
+ },
+ {
+  "rank": 833,
+  "word": "oppose",
+  "freq": 18,
+  "doc_freq": 12
+ },
+ {
+  "rank": 834,
+  "word": "package",
+  "freq": 18,
+  "doc_freq": 7
+ },
+ {
+  "rank": 835,
+  "word": "cover",
+  "freq": 18,
+  "doc_freq": 13
+ },
+ {
+  "rank": 836,
+  "word": "mostly",
+  "freq": 18,
+  "doc_freq": 15
+ },
+ {
+  "rank": 837,
+  "word": "news",
+  "freq": 18,
+  "doc_freq": 16
+ },
+ {
+  "rank": 838,
+  "word": "implement",
+  "freq": 18,
+  "doc_freq": 16
+ },
+ {
+  "rank": 839,
+  "word": "accelerate",
+  "freq": 18,
+  "doc_freq": 14
+ },
+ {
+  "rank": 840,
+  "word": "nearly",
+  "freq": 18,
+  "doc_freq": 14
+ },
+ {
+  "rank": 841,
+  "word": "chemical",
+  "freq": 18,
+  "doc_freq": 13
+ },
+ {
+  "rank": 842,
+  "word": "function",
+  "freq": 18,
+  "doc_freq": 16
+ },
+ {
+  "rank": 843,
+  "word": "artist",
+  "freq": 18,
+  "doc_freq": 10
+ },
+ {
+  "rank": 844,
+  "word": "normal",
+  "freq": 18,
+  "doc_freq": 12
+ },
+ {
+  "rank": 845,
+  "word": "description",
+  "freq": 18,
+  "doc_freq": 9
+ },
+ {
+  "rank": 846,
+  "word": "tree",
+  "freq": 18,
+  "doc_freq": 7
+ },
+ {
+  "rank": 847,
+  "word": "reveal",
+  "freq": 18,
+  "doc_freq": 17
+ },
+ {
+  "rank": 848,
+  "word": "remember",
+  "freq": 18,
+  "doc_freq": 12
+ },
+ {
+  "rank": 849,
+  "word": "psychological",
+  "freq": 18,
+  "doc_freq": 10
+ },
+ {
+  "rank": 850,
+  "word": "define",
+  "freq": 18,
+  "doc_freq": 13
+ },
+ {
+  "rank": 851,
+  "word": "intelligence",
+  "freq": 18,
+  "doc_freq": 11
+ },
+ {
+  "rank": 852,
+  "word": "emerge",
+  "freq": 18,
+  "doc_freq": 11
+ },
+ {
+  "rank": 853,
+  "word": "outcome",
+  "freq": 18,
+  "doc_freq": 15
+ },
+ {
+  "rank": 854,
+  "word": "useful",
+  "freq": 18,
+  "doc_freq": 10
+ },
+ {
+  "rank": 855,
+  "word": "advocate",
+  "freq": 18,
+  "doc_freq": 15
+ },
+ {
+  "rank": 856,
+  "word": "response",
+  "freq": 18,
+  "doc_freq": 11
+ },
+ {
+  "rank": 857,
+  "word": "crop",
+  "freq": 18,
+  "doc_freq": 9
+ },
+ {
+  "rank": 858,
+  "word": "owner",
+  "freq": 18,
+  "doc_freq": 10
+ },
+ {
+  "rank": 859,
+  "word": "war",
+  "freq": 18,
+  "doc_freq": 11
+ },
+ {
+  "rank": 860,
+  "word": "yellow",
+  "freq": 18,
+  "doc_freq": 4
+ },
+ {
+  "rank": 861,
+  "word": "efficiency",
+  "freq": 17,
+  "doc_freq": 12
+ },
+ {
+  "rank": 862,
+  "word": "expand",
+  "freq": 17,
+  "doc_freq": 15
+ },
+ {
+  "rank": 863,
+  "word": "speed",
+  "freq": 17,
+  "doc_freq": 13
+ },
+ {
+  "rank": 864,
+  "word": "refer",
+  "freq": 17,
+  "doc_freq": 14
+ },
+ {
+  "rank": 865,
+  "word": "intervention",
+  "freq": 17,
+  "doc_freq": 10
+ },
+ {
+  "rank": 866,
+  "word": "sure",
+  "freq": 17,
+  "doc_freq": 16
+ },
+ {
+  "rank": 867,
+  "word": "powerful",
+  "freq": 17,
+  "doc_freq": 12
+ },
+ {
+  "rank": 868,
+  "word": "agency",
+  "freq": 17,
+  "doc_freq": 10
+ },
+ {
+  "rank": 869,
+  "word": "proportion",
+  "freq": 17,
+  "doc_freq": 8
+ },
+ {
+  "rank": 870,
+  "word": "debt",
+  "freq": 17,
+  "doc_freq": 6
+ },
+ {
+  "rank": 871,
+  "word": "material",
+  "freq": 17,
+  "doc_freq": 13
+ },
+ {
+  "rank": 872,
+  "word": "release",
+  "freq": 17,
+  "doc_freq": 11
+ },
+ {
+  "rank": 873,
+  "word": "sustainable",
+  "freq": 17,
+  "doc_freq": 13
+ },
+ {
+  "rank": 874,
+  "word": "novel",
+  "freq": 17,
+  "doc_freq": 15
+ },
+ {
+  "rank": 875,
+  "word": "unemployment",
+  "freq": 17,
+  "doc_freq": 4
+ },
+ {
+  "rank": 876,
+  "word": "purpose",
+  "freq": 17,
+  "doc_freq": 15
+ },
+ {
+  "rank": 877,
+  "word": "death",
+  "freq": 17,
+  "doc_freq": 11
+ },
+ {
+  "rank": 878,
+  "word": "widely",
+  "freq": 17,
+  "doc_freq": 15
+ },
+ {
+  "rank": 879,
+  "word": "safety",
+  "freq": 17,
+  "doc_freq": 13
+ },
+ {
+  "rank": 880,
+  "word": "hundred",
+  "freq": 17,
+  "doc_freq": 13
+ },
+ {
+  "rank": 881,
+  "word": "lake",
+  "freq": 17,
+  "doc_freq": 2
+ },
+ {
+  "rank": 882,
+  "word": "cook",
+  "freq": 17,
+  "doc_freq": 10
+ },
+ {
+  "rank": 883,
+  "word": "middle",
+  "freq": 17,
+  "doc_freq": 15
+ },
+ {
+  "rank": 884,
+  "word": "anything",
+  "freq": 17,
+  "doc_freq": 15
+ },
+ {
+  "rank": 885,
+  "word": "walk",
+  "freq": 17,
+  "doc_freq": 13
+ },
+ {
+  "rank": 886,
+  "word": "connection",
+  "freq": 17,
+  "doc_freq": 16
+ },
+ {
+  "rank": 887,
+  "word": "teen",
+  "freq": 17,
+  "doc_freq": 6
+ },
+ {
+  "rank": 888,
+  "word": "associate",
+  "freq": 17,
+  "doc_freq": 13
+ },
+ {
+  "rank": 889,
+  "word": "staff",
+  "freq": 17,
+  "doc_freq": 10
+ },
+ {
+  "rank": 890,
+  "word": "object",
+  "freq": 17,
+  "doc_freq": 12
+ },
+ {
+  "rank": 891,
+  "word": "vital",
+  "freq": 17,
+  "doc_freq": 13
+ },
+ {
+  "rank": 892,
+  "word": "extreme",
+  "freq": 17,
+  "doc_freq": 13
+ },
+ {
+  "rank": 893,
+  "word": "score",
+  "freq": 17,
+  "doc_freq": 10
+ },
+ {
+  "rank": 894,
+  "word": "behind",
+  "freq": 17,
+  "doc_freq": 16
+ },
+ {
+  "rank": 895,
+  "word": "reserve",
+  "freq": 17,
+  "doc_freq": 8
+ },
+ {
+  "rank": 896,
+  "word": "station",
+  "freq": 17,
+  "doc_freq": 9
+ },
+ {
+  "rank": 897,
+  "word": "habitat",
+  "freq": 17,
+  "doc_freq": 11
+ },
+ {
+  "rank": 898,
+  "word": "suppose",
+  "freq": 17,
+  "doc_freq": 14
+ },
+ {
+  "rank": 899,
+  "word": "male",
+  "freq": 17,
+  "doc_freq": 8
+ },
+ {
+  "rank": 900,
+  "word": "count",
+  "freq": 17,
+  "doc_freq": 12
+ },
+ {
+  "rank": 901,
+  "word": "lifelong",
+  "freq": 17,
+  "doc_freq": 3
+ },
+ {
+  "rank": 902,
+  "word": "pursuit",
+  "freq": 17,
+  "doc_freq": 11
+ },
+ {
+  "rank": 903,
+  "word": "compel",
+  "freq": 17,
+  "doc_freq": 11
+ },
+ {
+  "rank": 904,
+  "word": "perspective",
+  "freq": 17,
+  "doc_freq": 11
+ },
+ {
+  "rank": 905,
+  "word": "debate",
+  "freq": 17,
+  "doc_freq": 14
+ },
+ {
+  "rank": 906,
+  "word": "conservation",
+  "freq": 17,
+  "doc_freq": 8
+ },
+ {
+  "rank": 907,
+  "word": "cell",
+  "freq": 17,
+  "doc_freq": 10
+ },
+ {
+  "rank": 908,
+  "word": "phenomenon",
+  "freq": 17,
+  "doc_freq": 11
+ },
+ {
+  "rank": 909,
+  "word": "identity",
+  "freq": 17,
+  "doc_freq": 8
+ },
+ {
+  "rank": 910,
+  "word": "grass-fed",
+  "freq": 17,
+  "doc_freq": 1
+ },
+ {
+  "rank": 911,
+  "word": "variability",
+  "freq": 17,
+  "doc_freq": 1
+ },
+ {
+  "rank": 912,
+  "word": "improvement",
+  "freq": 16,
+  "doc_freq": 11
+ },
+ {
+  "rank": 913,
+  "word": "acquire",
+  "freq": 16,
+  "doc_freq": 13
+ },
+ {
+  "rank": 914,
+  "word": "vacation",
+  "freq": 16,
+  "doc_freq": 10
+ },
+ {
+  "rank": 915,
+  "word": "statistic",
+  "freq": 16,
+  "doc_freq": 12
+ },
+ {
+  "rank": 916,
+  "word": "grind",
+  "freq": 16,
+  "doc_freq": 13
+ },
+ {
+  "rank": 917,
+  "word": "sufficient",
+  "freq": 16,
+  "doc_freq": 13
+ },
+ {
+  "rank": 918,
+  "word": "one's",
+  "freq": 16,
+  "doc_freq": 8
+ },
+ {
+  "rank": 919,
+  "word": "pas",
+  "freq": 16,
+  "doc_freq": 13
+ },
+ {
+  "rank": 920,
+  "word": "insurance",
+  "freq": 16,
+  "doc_freq": 6
+ },
+ {
+  "rank": 921,
+  "word": "urge",
+  "freq": 16,
+  "doc_freq": 12
+ },
+ {
+  "rank": 922,
+  "word": "celebrity",
+  "freq": 16,
+  "doc_freq": 6
+ },
+ {
+  "rank": 923,
+  "word": "worldwide",
+  "freq": 16,
+  "doc_freq": 12
+ },
+ {
+  "rank": 924,
+  "word": "fully",
+  "freq": 16,
+  "doc_freq": 12
+ },
+ {
+  "rank": 925,
+  "word": "cooperation",
+  "freq": 16,
+  "doc_freq": 10
+ },
+ {
+  "rank": 926,
+  "word": "toward",
+  "freq": 16,
+  "doc_freq": 13
+ },
+ {
+  "rank": 927,
+  "word": "shape",
+  "freq": 16,
+  "doc_freq": 14
+ },
+ {
+  "rank": 928,
+  "word": "federal",
+  "freq": 16,
+  "doc_freq": 9
+ },
+ {
+  "rank": 929,
+  "word": "message",
+  "freq": 16,
+  "doc_freq": 12
+ },
+ {
+  "rank": 930,
+  "word": "rest",
+  "freq": 16,
+  "doc_freq": 10
+ },
+ {
+  "rank": 931,
+  "word": "style",
+  "freq": 16,
+  "doc_freq": 12
+ },
+ {
+  "rank": 932,
+  "word": "practical",
+  "freq": 16,
+  "doc_freq": 13
+ },
+ {
+  "rank": 933,
+  "word": "weather",
+  "freq": 16,
+  "doc_freq": 11
+ },
+ {
+  "rank": 934,
+  "word": "basis",
+  "freq": 16,
+  "doc_freq": 12
+ },
+ {
+  "rank": 935,
+  "word": "replace",
+  "freq": 16,
+  "doc_freq": 14
+ },
+ {
+  "rank": 936,
+  "word": "fly",
+  "freq": 16,
+  "doc_freq": 10
+ },
+ {
+  "rank": 937,
+  "word": "partner",
+  "freq": 16,
+  "doc_freq": 9
+ },
+ {
+  "rank": 938,
+  "word": "white",
+  "freq": 16,
+  "doc_freq": 10
+ },
+ {
+  "rank": 939,
+  "word": "gene",
+  "freq": 16,
+  "doc_freq": 8
+ },
+ {
+  "rank": 940,
+  "word": "conducive",
+  "freq": 16,
+  "doc_freq": 13
+ },
+ {
+  "rank": 941,
+  "word": "sport",
+  "freq": 16,
+  "doc_freq": 8
+ },
+ {
+  "rank": 942,
+  "word": "trait",
+  "freq": 16,
+  "doc_freq": 12
+ },
+ {
+  "rank": 943,
+  "word": "organic",
+  "freq": 16,
+  "doc_freq": 4
+ },
+ {
+  "rank": 944,
+  "word": "capability",
+  "freq": 16,
+  "doc_freq": 9
+ },
+ {
+  "rank": 945,
+  "word": "total",
+  "freq": 16,
+  "doc_freq": 9
+ },
+ {
+  "rank": 946,
+  "word": "crowd",
+  "freq": 16,
+  "doc_freq": 10
+ },
+ {
+  "rank": 947,
+  "word": "socially",
+  "freq": 16,
+  "doc_freq": 7
+ },
+ {
+  "rank": 948,
+  "word": "dietary",
+  "freq": 16,
+  "doc_freq": 5
+ },
+ {
+  "rank": 949,
+  "word": "bilingual",
+  "freq": 16,
+  "doc_freq": 1
+ },
+ {
+  "rank": 950,
+  "word": "medicine",
+  "freq": 15,
+  "doc_freq": 9
+ },
+ {
+  "rank": 951,
+  "word": "disaster",
+  "freq": 15,
+  "doc_freq": 5
+ },
+ {
+  "rank": 952,
+  "word": "difficulty",
+  "freq": 15,
+  "doc_freq": 11
+ },
+ {
+  "rank": 953,
+  "word": "wide",
+  "freq": 15,
+  "doc_freq": 12
+ },
+ {
+  "rank": 954,
+  "word": "summer",
+  "freq": 15,
+  "doc_freq": 9
+ },
+ {
+  "rank": 955,
+  "word": "demonstrate",
+  "freq": 15,
+  "doc_freq": 13
+ },
+ {
+  "rank": 956,
+  "word": "entire",
+  "freq": 15,
+  "doc_freq": 11
+ },
+ {
+  "rank": 957,
+  "word": "ecological",
+  "freq": 15,
+  "doc_freq": 7
+ },
+ {
+  "rank": 958,
+  "word": "thrive",
+  "freq": 15,
+  "doc_freq": 14
+ },
+ {
+  "rank": 959,
+  "word": "completely",
+  "freq": 15,
+  "doc_freq": 13
+ },
+ {
+  "rank": 960,
+  "word": "generate",
+  "freq": 15,
+  "doc_freq": 11
+ },
+ {
+  "rank": 961,
+  "word": "danger",
+  "freq": 15,
+  "doc_freq": 11
+ },
+ {
+  "rank": 962,
+  "word": "political",
+  "freq": 15,
+  "doc_freq": 11
+ },
+ {
+  "rank": 963,
+  "word": "depression",
+  "freq": 15,
+  "doc_freq": 8
+ },
+ {
+  "rank": 964,
+  "word": "head",
+  "freq": 15,
+  "doc_freq": 11
+ },
+ {
+  "rank": 965,
+  "word": "competitive",
+  "freq": 15,
+  "doc_freq": 13
+ },
+ {
+  "rank": 966,
+  "word": "greatly",
+  "freq": 15,
+  "doc_freq": 13
+ },
+ {
+  "rank": 967,
+  "word": "decrease",
+  "freq": 15,
+  "doc_freq": 12
+ },
+ {
+  "rank": 968,
+  "word": "welfare",
+  "freq": 15,
+  "doc_freq": 6
+ },
+ {
+  "rank": 969,
+  "word": "propose",
+  "freq": 15,
+  "doc_freq": 13
+ },
+ {
+  "rank": 970,
+  "word": "provider",
+  "freq": 15,
+  "doc_freq": 6
+ },
+ {
+  "rank": 971,
+  "word": "electronic",
+  "freq": 15,
+  "doc_freq": 9
+ },
+ {
+  "rank": 972,
+  "word": "jam",
+  "freq": 15,
+  "doc_freq": 6
+ },
+ {
+  "rank": 973,
+  "word": "main",
+  "freq": 15,
+  "doc_freq": 13
+ },
+ {
+  "rank": 974,
+  "word": "harmful",
+  "freq": 15,
+  "doc_freq": 12
+ },
+ {
+  "rank": 975,
+  "word": "opinion",
+  "freq": 15,
+  "doc_freq": 15
+ },
+ {
+  "rank": 976,
+  "word": "fit",
+  "freq": 15,
+  "doc_freq": 12
+ },
+ {
+  "rank": 977,
+  "word": "rapid",
+  "freq": 15,
+  "doc_freq": 14
+ },
+ {
+  "rank": 978,
+  "word": "recover",
+  "freq": 15,
+  "doc_freq": 11
+ },
+ {
+  "rank": 979,
+  "word": "campaign",
+  "freq": 15,
+  "doc_freq": 9
+ },
+ {
+  "rank": 980,
+  "word": "meal",
+  "freq": 15,
+  "doc_freq": 10
+ },
+ {
+  "rank": 981,
+  "word": "series",
+  "freq": 15,
+  "doc_freq": 11
+ },
+ {
+  "rank": 982,
+  "word": "second",
+  "freq": 15,
+  "doc_freq": 11
+ },
+ {
+  "rank": 983,
+  "word": "interview",
+  "freq": 15,
+  "doc_freq": 13
+ },
+ {
+  "rank": 984,
+  "word": "immediate",
+  "freq": 15,
+  "doc_freq": 12
+ },
+ {
+  "rank": 985,
+  "word": "director",
+  "freq": 15,
+  "doc_freq": 11
+ },
+ {
+  "rank": 986,
+  "word": "west",
+  "freq": 15,
+  "doc_freq": 10
+ },
+ {
+  "rank": 987,
+  "word": "bite",
+  "freq": 15,
+  "doc_freq": 13
+ },
+ {
+  "rank": 988,
+  "word": "sacrifice",
+  "freq": 15,
+  "doc_freq": 10
+ },
+ {
+  "rank": 989,
+  "word": "perfect",
+  "freq": 15,
+  "doc_freq": 10
+ },
+ {
+  "rank": 990,
+  "word": "rarely",
+  "freq": 15,
+  "doc_freq": 12
+ },
+ {
+  "rank": 991,
+  "word": "ancient",
+  "freq": 15,
+  "doc_freq": 10
+ },
+ {
+  "rank": 992,
+  "word": "plastic",
+  "freq": 15,
+  "doc_freq": 3
+ },
+ {
+  "rank": 993,
+  "word": "firm",
+  "freq": 15,
+  "doc_freq": 8
+ },
+ {
+  "rank": 994,
+  "word": "transportation",
+  "freq": 15,
+  "doc_freq": 6
+ },
+ {
+  "rank": 995,
+  "word": "effectively",
+  "freq": 15,
+  "doc_freq": 12
+ },
+ {
+  "rank": 996,
+  "word": "hardly",
+  "freq": 15,
+  "doc_freq": 13
+ },
+ {
+  "rank": 997,
+  "word": "holiday",
+  "freq": 15,
+  "doc_freq": 11
+ },
+ {
+  "rank": 998,
+  "word": "illustrate",
+  "freq": 15,
+  "doc_freq": 12
+ },
+ {
+  "rank": 999,
+  "word": "application",
+  "freq": 15,
+  "doc_freq": 14
+ },
+ {
+  "rank": 1000,
+  "word": "expectation",
+  "freq": 15,
+  "doc_freq": 12
+ }
+]

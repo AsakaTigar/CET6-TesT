@@ -1,0 +1,684 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>大学英语六级模拟考试系统</title>
+<style>
+  :root {
+    --bg: #f0f2f5;
+    --card: #fff;
+    --text: #1a1a1a;
+    --muted: #888;
+    --line: #eef1f5;
+    --accent: #1e3a5f;
+    --accent2: #2c5282;
+    --ok: #27ae60;
+    --bad: #e74c3c;
+    --warn-bg: #fff8e6;
+    --warn-border: #ffe08a;
+    --passage-bg: #fafbfc;
+    --cn-bg: #fff8f0;
+    --shadow: 0 1px 6px rgba(0,0,0,.06);
+  }
+  body.dark {
+    --bg: #0f1419;
+    --card: #1a2332;
+    --text: #e8ecf1;
+    --muted: #9aa5b5;
+    --line: #2a3544;
+    --accent: #5b9bd5;
+    --accent2: #7eb3e8;
+    --ok: #3dd68c;
+    --bad: #ff6b6b;
+    --warn-bg: #2a2418;
+    --warn-border: #5c4a1a;
+    --passage-bg: #141c28;
+    --cn-bg: #1c1812;
+    --shadow: 0 1px 6px rgba(0,0,0,.35);
+  }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family:"Segoe UI","Microsoft YaHei",sans-serif; background:var(--bg); color:var(--text); line-height:1.7; transition:background .25s,color .25s; }
+  .wrap { max-width:880px; margin:0 auto; padding:20px; }
+
+  .topbar { position:sticky; top:0; z-index:100; background:var(--accent); color:#fff; padding:12px 20px;
+            display:flex; justify-content:space-between; align-items:center; gap:12px; box-shadow:0 2px 8px rgba(0,0,0,.15); flex-wrap:wrap; }
+  .topbar h1 { font-size:17px; font-weight:600; }
+  .topbar-actions { display:flex; align-items:center; gap:10px; flex-wrap:wrap; }
+  .timer { font-size:18px; font-weight:700; font-family:Consolas,monospace; background:rgba(255,255,255,.15);
+           padding:4px 14px; border-radius:6px; }
+  .timer.warn { background:#c0392b; animation:blink 1s infinite; }
+  @keyframes blink { 50%{opacity:.6;} }
+  .icon-btn { border:none; background:rgba(255,255,255,.18); color:#fff; padding:6px 12px; border-radius:6px;
+              cursor:pointer; font-size:13px; font-weight:600; }
+  .icon-btn:hover { background:rgba(255,255,255,.28); }
+
+  .nav { display:flex; gap:6px; background:var(--card); padding:8px; border-radius:10px; margin:16px 0;
+         box-shadow:var(--shadow); flex-wrap:wrap; }
+  .nav button { flex:1; min-width:90px; padding:10px 8px; border:none; background:var(--line); border-radius:7px;
+                cursor:pointer; font-size:13px; font-weight:600; color:var(--muted); transition:.2s; }
+  .nav button:hover { filter:brightness(.95); }
+  .nav button.active { background:var(--accent); color:#fff; }
+  .nav button .dot { display:inline-block; width:7px; height:7px; border-radius:50%; background:var(--ok); margin-left:4px; }
+
+  .card { background:var(--card); border-radius:12px; padding:26px; margin-bottom:18px; box-shadow:var(--shadow); border:1px solid var(--line); }
+  .part-tag { display:inline-block; background:var(--accent); color:#fff; font-size:12px; font-weight:700;
+              padding:3px 12px; border-radius:20px; margin-bottom:10px; }
+  .directions { background:var(--passage-bg); border-left:4px solid var(--accent); padding:12px 16px; border-radius:6px;
+                font-size:14px; color:var(--text); margin:14px 0; font-style:italic; opacity:.92; }
+  h2.sec { font-size:19px; color:var(--accent); margin:6px 0 4px; }
+  h3.sub { font-size:15px; color:var(--text); margin:18px 0 10px; padding-bottom:6px; border-bottom:1px dashed var(--line); }
+
+  .passage { font-size:15px; line-height:1.9; margin:14px 0; }
+  .passage p { margin-bottom:12px; text-align:justify; }
+  .blank-no { display:inline-block; min-width:34px; text-align:center; color:var(--bad); font-weight:700;
+              border-bottom:2px solid var(--bad); margin:0 3px; }
+
+  .wordbank { display:flex; flex-wrap:wrap; gap:8px; background:var(--passage-bg); padding:14px; border-radius:8px; margin:14px 0; }
+  .wordbank span { background:var(--card); border:1px solid var(--line); border-radius:6px; padding:5px 10px; font-size:13px; }
+  .wordbank b { color:var(--accent); margin-right:3px; }
+  .fill-row { display:flex; align-items:center; gap:10px; margin:8px 0; flex-wrap:wrap; }
+  .fill-row label { font-weight:700; color:var(--accent); min-width:40px; }
+  .fill-row select { padding:6px 10px; border:1px solid var(--line); border-radius:6px; font-size:14px; min-width:160px; background:var(--card); color:var(--text); }
+
+  .q { margin:18px 0; padding:16px; border:1px solid var(--line); border-radius:8px; }
+  .q-text { font-weight:600; margin-bottom:10px; font-size:15px; }
+  .q-text .num { color:var(--accent); margin-right:6px; }
+  .opt { display:block; padding:9px 14px; margin:6px 0; border:1px solid var(--line); border-radius:7px;
+         cursor:pointer; font-size:14px; transition:.15s; }
+  .opt:hover { filter:brightness(.97); }
+  .opt input { margin-right:10px; }
+  .opt.correct { background:rgba(39,174,96,.15); border-color:var(--ok); }
+  .opt.wrong { background:rgba(231,76,60,.12); border-color:var(--bad); }
+  .explain { margin-top:10px; padding:10px 14px; background:var(--warn-bg); border-left:3px solid #f1c40f;
+             border-radius:5px; font-size:13.5px; display:none; }
+  .explain.show { display:block; }
+
+  .audio-ctrl { display:flex; gap:10px; align-items:center; background:var(--passage-bg); padding:12px 16px;
+                border-radius:8px; margin:12px 0; flex-wrap:wrap; }
+  .audio-ctrl button { padding:8px 18px; border:none; border-radius:7px; cursor:pointer; font-size:14px;
+                       font-weight:600; background:var(--accent); color:#fff; }
+  .audio-ctrl button.stop { background:#7f8c8d; }
+  .speaking { color:var(--ok); font-weight:600; font-size:13px; }
+  .script-box summary { cursor:pointer; color:var(--accent); font-weight:600; font-size:13px; }
+  .script-box pre { white-space:pre-wrap; font-family:inherit; background:var(--passage-bg); padding:12px;
+                    border-radius:6px; margin-top:8px; font-size:13.5px; color:var(--text); }
+
+  textarea { width:100%; min-height:220px; padding:14px; border:1px solid var(--line); border-radius:8px;
+             font-size:15px; line-height:1.7; font-family:inherit; resize:vertical; background:var(--card); color:var(--text); }
+  .wordcount { text-align:right; font-size:13px; color:var(--muted); margin-top:6px; }
+  .wordcount.ok { color:var(--ok); }
+  .wordcount.bad { color:var(--bad); }
+  .model-box summary { cursor:pointer; color:var(--accent); font-weight:700; font-size:14px;
+                       padding:10px; background:var(--passage-bg); border-radius:7px; }
+  .model-content { padding:16px; background:var(--passage-bg); border-radius:7px; margin-top:8px; }
+  .model-content p { margin-bottom:10px; }
+  ul.rubric { margin:10px 0 0 20px; font-size:14px; }
+  ul.rubric li { margin:5px 0; }
+  .cn-text { background:var(--cn-bg); border:1px solid var(--line); border-radius:8px; padding:16px; font-size:15.5px;
+             line-height:2; margin:12px 0; }
+
+  .btn-row { display:flex; gap:12px; margin-top:20px; flex-wrap:wrap; }
+  .btn { padding:11px 26px; border:none; border-radius:8px; cursor:pointer; font-size:14px; font-weight:600; }
+  .btn-primary { background:var(--accent); color:#fff; }
+  .btn-grade { background:var(--ok); color:#fff; }
+  .btn-ghost { background:var(--line); color:var(--text); }
+  .btn:disabled { opacity:.55; cursor:not-allowed; }
+
+  .score-big { text-align:center; padding:30px; background:linear-gradient(135deg,var(--accent),var(--accent2)); color:#fff; border-radius:12px; }
+  .score-big .num { font-size:56px; font-weight:800; }
+  .score-big .lbl { font-size:14px; opacity:.85; }
+  .score-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:12px; margin:18px 0; }
+  .score-item { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:16px; text-align:center; }
+  .score-item .v { font-size:26px; font-weight:700; color:var(--accent); }
+  .score-item .k { font-size:13px; color:var(--muted); margin-top:4px; }
+  .pass-tag { display:inline-block; padding:4px 14px; border-radius:20px; font-size:13px; font-weight:700; margin-top:8px; }
+  .pass-tag.pass { background:rgba(39,174,96,.2); color:var(--ok); }
+  .pass-tag.fail { background:rgba(231,76,60,.15); color:var(--bad); }
+
+  .start-screen { text-align:center; padding:40px 20px; }
+  .start-screen h1 { font-size:28px; color:var(--accent); margin-bottom:10px; }
+  .start-screen .sub { color:var(--muted); margin-bottom:6px; }
+  .meta-info { background:var(--card); border-radius:12px; padding:24px; margin:24px 0; text-align:left; box-shadow:var(--shadow); border:1px solid var(--line); }
+  .meta-info li { margin:8px 0; font-size:14px; list-style:none; }
+  .notice { background:var(--warn-bg); border:1px solid var(--warn-border); border-radius:8px; padding:14px; font-size:13.5px; margin:16px 0; text-align:left; }
+
+  .paper-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:12px; margin:20px 0; text-align:left; }
+  .paper-card { border:2px solid var(--line); background:var(--card); border-radius:12px; padding:16px; cursor:pointer; transition:.2s; }
+  .paper-card:hover { border-color:var(--accent); }
+  .paper-card.active { border-color:var(--accent); box-shadow:0 0 0 3px rgba(91,155,213,.25); }
+  .paper-card strong { display:block; font-size:16px; color:var(--accent); margin-bottom:6px; }
+  .paper-card span { font-size:13px; color:var(--muted); }
+
+  .grade-panel { background:var(--passage-bg); border:1px solid var(--line); border-radius:10px; padding:14px; margin-top:14px; font-size:13.5px; }
+  .grade-panel .tag { display:inline-block; font-size:11px; font-weight:700; padding:2px 8px; border-radius:10px; margin-right:6px; }
+  .tag-poe { background:#dbeafe; color:#1d4ed8; }
+  .tag-offline { background:#fef3c7; color:#92400e; }
+  body.dark .tag-poe { background:#1e3a5f; color:#93c5fd; }
+  body.dark .tag-offline { background:#422006; color:#fcd34d; }
+
+  .overlay { position:fixed; inset:0; background:rgba(0,0,0,.45); display:flex; align-items:center; justify-content:center; z-index:200; }
+  .overlay-box { background:var(--card); color:var(--text); padding:28px 32px; border-radius:14px; text-align:center; min-width:280px; box-shadow:var(--shadow); }
+  .spinner { width:36px; height:36px; border:3px solid var(--line); border-top-color:var(--accent); border-radius:50%; animation:spin .8s linear infinite; margin:0 auto 14px; }
+  @keyframes spin { to { transform:rotate(360deg); } }
+</style>
+</head>
+<body>
+<div class="topbar">
+  <h1 id="topTitle">大学英语六级模拟考试系统</h1>
+  <div class="topbar-actions">
+    <button class="icon-btn" id="themeBtn" onclick="toggleDark()" title="切换主题">🌙 黑夜</button>
+    <div class="timer" id="timer" style="display:none">02:10:00</div>
+  </div>
+</div>
+<div class="wrap" id="app"></div>
+
+<script src="dict_words.js"></script>
+<script src="questions.js"></script>
+<script>
+let EXAM = EXAMS[0];
+const state = {
+  paperId: EXAMS[0].id,
+  started: false,
+  current: "start",
+  answers: { listening: {}, readingA: {}, readingC: {}, writing: "", translation: "" },
+  graded: false,
+  grading: false,
+  remain: EXAMS[0].meta.totalTime,
+  timerId: null,
+  dark: localStorage.getItem("cet6_dark") === "1",
+  subjective: { writing: null, translation: null }
+};
+const app = document.getElementById("app");
+const timerEl = document.getElementById("timer");
+
+function saveKey(){ return `cet6_mock_v2_p${state.paperId}`; }
+
+function applyTheme(){
+  document.body.classList.toggle("dark", state.dark);
+  document.getElementById("themeBtn").textContent = state.dark ? "☀️ 白天" : "🌙 黑夜";
+}
+function toggleDark(){
+  state.dark = !state.dark;
+  localStorage.setItem("cet6_dark", state.dark ? "1" : "0");
+  applyTheme();
+}
+
+function pickPaper(id){
+  state.paperId = id;
+  EXAM = EXAMS.find(e => e.id === id) || EXAMS[0];
+  state.remain = EXAM.meta.totalTime;
+  document.getElementById("topTitle").textContent = EXAM.meta.title;
+  render();
+}
+
+function fmt(s){
+  const h = String(Math.floor(s/3600)).padStart(2,"0");
+  const m = String(Math.floor(s%3600/60)).padStart(2,"0");
+  const x = String(String(s%60)).padStart(2,"0");
+  return `${h}:${m}:${x}`;
+}
+function startTimer(){
+  timerEl.style.display = "block";
+  state.timerId = setInterval(()=>{
+    state.remain--;
+    timerEl.textContent = fmt(state.remain);
+    if(state.remain <= 300) timerEl.classList.add("warn");
+    if(state.remain <= 0){ clearInterval(state.timerId); alert("考试时间到，将自动交卷判分。"); gradeAll(); }
+  }, 1000);
+}
+
+function speak(text, rate, statusEl){
+  if(!("speechSynthesis" in window)){ alert("当前浏览器不支持语音朗读，请展开下方原文阅读。"); return; }
+  window.speechSynthesis.cancel();
+  const u = new SpeechSynthesisUtterance(text);
+  u.lang = "en-US"; u.rate = rate || 0.95;
+  const vs = window.speechSynthesis.getVoices().filter(v=>v.lang.startsWith("en"));
+  if(vs.length) u.voice = vs.find(v=>/US|United States/i.test(v.name)) || vs[0];
+  u.onstart = ()=>{ if(statusEl) statusEl.textContent = "🔊 正在播放…"; };
+  u.onend = ()=>{ if(statusEl) statusEl.textContent = "播放结束"; };
+  window.speechSynthesis.speak(u);
+}
+function stopSpeak(statusEl){ window.speechSynthesis.cancel(); if(statusEl) statusEl.textContent = "已停止"; }
+
+const TABS = [["writing","写作"],["listening","听力"],["readingA","选词填空"],["readingC","仔细阅读"],["translation","翻译"],["report","成绩报告"]];
+function renderNav(){
+  return `<div class="nav">` + TABS.map(([k,n])=>{
+    const done = isSectionDone(k);
+    return `<button class="${state.current===k?"active":""}" onclick="go('${k}')">${n}${done?'<span class="dot"></span>':""}</button>`;
+  }).join("") + `</div>`;
+}
+function isSectionDone(k){
+  if(k==="writing") return state.answers.writing.trim().length > 0;
+  if(k==="translation") return state.answers.translation.trim().length > 0;
+  if(k==="listening") return Object.keys(state.answers.listening).length > 0;
+  if(k==="readingA") return Object.keys(state.answers.readingA).length > 0;
+  if(k==="readingC") return Object.keys(state.answers.readingC).length > 0;
+  return false;
+}
+function go(tab){
+  if(tab==="report"){
+    if(!state.graded){
+      if(!confirm("尚未交卷判分。是否现在交卷并查看成绩？")) return;
+      gradeAll(); return;
+    }
+  }
+  state.current = tab;
+  window.speechSynthesis && window.speechSynthesis.cancel();
+  render();
+  window.scrollTo(0,0);
+}
+
+function render(){
+  if(state.grading){
+    app.innerHTML = `<div class="overlay"><div class="overlay-box"><div class="spinner"></div><div>正在判分…</div><div style="font-size:13px;color:var(--muted);margin-top:8px">客观题即时计算 · 写作/翻译 POE 双模型（失败则离线回退）</div></div></div>`;
+    return;
+  }
+  if(!state.started){ renderStart(); return; }
+  let html = renderNav();
+  switch(state.current){
+    case "writing": html += renderWriting(); break;
+    case "listening": html += renderListening(); break;
+    case "readingA": html += renderReadingA(); break;
+    case "readingC": html += renderReadingC(); break;
+    case "translation": html += renderTranslation(); break;
+    case "report": html += renderReport(); break;
+  }
+  app.innerHTML = html;
+  bindInputs();
+}
+
+function renderStart(){
+  const cards = EXAMS.map(e=>`
+    <div class="paper-card ${state.paperId===e.id?"active":""}" onclick="pickPaper(${e.id})">
+      <strong>${e.name}</strong>
+      <span>${e.theme || ""}</span>
+    </div>`).join("");
+  app.innerHTML = `<div class="start-screen">
+    <h1>大学英语六级模拟考试系统</h1>
+    <p class="sub">选择试卷 · 支持黑夜模式 · 写作/翻译 POE 双模型评分</p>
+    <div class="paper-grid">${cards}</div>
+    <div class="meta-info">
+      <h3 class="sub" style="border:none">当前：${EXAM.name} — ${EXAM.meta.subtitle}</h3>
+      <ul>
+        <li>📝 <b>Part I 写作</b>（30分钟，106.5分）</li>
+        <li>🎧 <b>Part II 听力</b>（25分钟，248.5分）—— 浏览器语音朗读</li>
+        <li>📖 <b>Part III 阅读</b>（40分钟，248.5分）</li>
+        <li>🖋️ <b>Part IV 翻译</b>（30分钟，106.5分）</li>
+      </ul>
+      <p style="font-size:13px;color:var(--muted);margin-top:10px">满分 ${EXAM.meta.fullScore} · 总时长 ${EXAM.meta.totalTime/60} 分钟</p>
+    </div>
+    <div class="notice">
+      <b>评分说明：</b>听力/阅读为客观题自动判分；写作/翻译通过本地服务器调用 <b>POE 双模型</b>（gpt-5.5 + deepseek-v4-flash-e）按官方 15 分制评分后折算。
+      若未启动 <code>python server.py</code> 或 API 超时，将自动使用<b>离线启发式</b>估分并标注来源。
+    </div>
+    <button class="btn btn-primary" style="font-size:16px;padding:14px 40px" onclick="startExam()">开始 ${EXAM.name} ▶</button>
+  </div>`;
+}
+
+function startExam(){
+  state.started = true;
+  state.current = "writing";
+  state.answers = { listening:{}, readingA:{}, readingC:{}, writing:"", translation:"" };
+  state.graded = false;
+  state.subjective = { writing:null, translation:null };
+  state.remain = EXAM.meta.totalTime;
+  startTimer();
+  render();
+}
+
+function renderWriting(){
+  const w = EXAM.writing;
+  return `<div class="card">
+    <span class="part-tag">Part I · Writing · ${w.time/60} min</span>
+    <h2 class="sec">写作</h2>
+    <div class="directions">${w.directions}</div>
+    <textarea id="writingInput" placeholder="Begin your essay here...">${state.answers.writing}</textarea>
+    <div class="wordcount" id="wWordCount">词数：0</div>
+    ${state.graded && state.subjective.writing ? gradePanel(state.subjective.writing, "writing") : ""}
+    <details class="model-box" ${state.graded?"open":""}>
+      <summary>📄 参考范文与评分要点</summary>
+      <div class="model-content">
+        ${w.model.split("\n\n").map(p=>`<p>${p}</p>`).join("")}
+        <ul class="rubric">${w.rubric.map(r=>`<li>✔ ${r}</li>`).join("")}</ul>
+      </div>
+    </details>
+    <div class="btn-row"><button class="btn btn-primary" onclick="go('listening')">下一部分：听力 ▶</button></div>
+  </div>`;
+}
+
+function renderListening(){
+  const L = EXAM.listening;
+  let h = `<div class="card"><span class="part-tag">Part II · Listening · ${L.time/60} min</span><h2 class="sec">听力理解</h2>`;
+  h += `<h3 class="sub">${L.sectionA.title}</h3><div class="directions">${L.sectionA.directions}</div>`;
+  L.sectionA.conversations.forEach((c,ci)=>{
+    h += audioBlock(c.id, c.script, `长对话 ${ci+1}`);
+    c.questions.forEach((q,qi)=> h += mcq("listening", c.id+"_"+qi, q, ci*4+qi+1));
+  });
+  h += `<h3 class="sub">${L.sectionB.title}</h3><div class="directions">${L.sectionB.directions}</div>`;
+  L.sectionB.passages.forEach((p,pi)=>{
+    h += audioBlock(p.id, p.script, `短文 ${pi+1}`);
+    p.questions.forEach((q,qi)=> h += mcq("listening", p.id+"_"+qi, q, 8+qi+1));
+  });
+  h += `<div class="btn-row"><button class="btn btn-ghost" onclick="go('writing')">◀ 上一部分</button><button class="btn btn-primary" onclick="go('readingA')">下一部分：阅读 ▶</button></div></div>`;
+  return h;
+}
+
+function audioBlock(id, script, label){
+  const sid = "status_"+id;
+  return `<div class="audio-ctrl">
+    <button onclick="speak(document.getElementById('script_${id}').textContent, getRate(), document.getElementById('${sid}'))">▶ 播放${label}</button>
+    <button class="stop" onclick="stopSpeak(document.getElementById('${sid}'))">■ 停止</button>
+    <span>语速 <input type="range" min="0.6" max="1.1" step="0.05" value="0.95" id="rate_${id}" oninput="syncRate(this.value)"></span>
+    <span class="speaking" id="${sid}"></span>
+    <div class="script-box" style="width:100%"><details ${state.graded?"open":""}><summary>📜 听力原文</summary><pre id="script_${id}">${script}</pre></details></div>
+  </div>`;
+}
+let globalRate = 0.95;
+function getRate(){ return globalRate; }
+function syncRate(v){ globalRate = parseFloat(v); document.querySelectorAll('[id^="rate_"]').forEach(r=>r.value=v); }
+
+function renderReadingA(){
+  const A = EXAM.reading.sectionA;
+  let psg = A.passage.replace(/\b(26|27|28|29|30|31|32|33|34|35)\b/g, n=>`<span class="blank-no">${n}</span>`);
+  let h = `<div class="card"><span class="part-tag">Part III · Reading · Section A</span><h2 class="sec">${A.title}</h2>
+    <div class="directions">${A.directions}</div>
+    <div class="wordbank">${A.bank.map(b=>`<span><b>${b.l}</b>${b.w}</span>`).join("")}</div>
+    <div class="passage">${psg.split("\n\n").map(p=>`<p>${p}</p>`).join("")}</div><h3 class="sub">作答区</h3>`;
+  A.blanks.forEach(n=>{
+    const saved = state.answers.readingA[n] || "";
+    let cls = "", exp = "";
+    if(state.graded){
+      const ok = saved === A.answers[n];
+      cls = ok ? "correct" : "wrong";
+      const word = (A.bank.find(b=>b.l===A.answers[n])||{}).w || "";
+      exp = `<span style="margin-left:10px;font-size:13px;color:${ok?"var(--ok)":"var(--bad)"}">${ok?"✔":"✘"} 正确：${A.answers[n]} (${word})</span>`;
+    }
+    h += `<div class="fill-row ${cls}"><label>${n}.</label>
+      <select onchange="setFill(${n},this.value)" ${state.graded?"disabled":""}>
+        <option value="">— 选择 —</option>
+        ${A.bank.map(b=>`<option value="${b.l}" ${saved===b.l?"selected":""}>${b.l}. ${b.w}</option>`).join("")}
+      </select>${exp}</div>`;
+  });
+  h += `<div class="btn-row"><button class="btn btn-ghost" onclick="go('listening')">◀ 上一部分</button><button class="btn btn-primary" onclick="go('readingC')">下一部分：仔细阅读 ▶</button></div></div>`;
+  return h;
+}
+function setFill(n,v){ if(v) state.answers.readingA[n]=v; else delete state.answers.readingA[n]; saveProgress(); }
+
+function renderReadingC(){
+  const C = EXAM.reading.sectionC;
+  let h = `<div class="card"><span class="part-tag">Part III · Reading · Section C</span><h2 class="sec">${C.title}</h2><div class="directions">${C.directions}</div>`;
+  C.passages.forEach(p=>{
+    h += `<div class="passage" style="background:var(--passage-bg);padding:16px;border-radius:8px">
+      <div style="font-size:12px;color:var(--muted);margin-bottom:8px">📌 ${p.source}</div>
+      ${p.text.split("\n\n").map(x=>`<p>${x}</p>`).join("")}</div>`;
+    p.questions.forEach((q,qi)=> h += mcq("readingC", p.id+"_"+qi, q, q.num));
+  });
+  h += `<div class="btn-row"><button class="btn btn-ghost" onclick="go('readingA')">◀ 上一部分</button><button class="btn btn-primary" onclick="go('translation')">下一部分：翻译 ▶</button></div></div>`;
+  return h;
+}
+
+function renderTranslation(){
+  const T = EXAM.translation;
+  return `<div class="card"><span class="part-tag">Part IV · Translation · ${T.time/60} min</span><h2 class="sec">翻译</h2>
+    <div style="font-size:12px;color:var(--muted)">📌 ${T.source}</div>
+    <div class="directions">${T.directions}</div>
+    <div class="cn-text">${T.text}</div>
+    <textarea id="transInput" placeholder="Translate the passage into English here...">${state.answers.translation}</textarea>
+    <div class="wordcount" id="tWordCount">词数：0</div>
+    ${state.graded && state.subjective.translation ? gradePanel(state.subjective.translation, "translation") : ""}
+    <details class="model-box" ${state.graded?"open":""}>
+      <summary>📄 参考译文与采分点</summary>
+      <div class="model-content"><p>${T.reference}</p><ul class="rubric">${T.points.map(p=>`<li>✔ ${p}</li>`).join("")}</ul></div>
+    </details>
+    <div class="btn-row"><button class="btn btn-ghost" onclick="go('readingC')">◀ 上一部分</button>
+      <button class="btn btn-grade" onclick="go('report')">交卷并查看成绩 ✔</button></div>
+  </div>`;
+}
+
+function mcq(part, key, q, num){
+  const saved = state.answers[part][key];
+  const letters = ["A","B","C","D"];
+  let opts = q.options.map((o,i)=>{
+    let cls = "";
+    if(state.graded){
+      if(i===q.answer) cls = "correct";
+      else if(saved===i) cls = "wrong";
+    }
+    return `<label class="opt ${cls}"><input type="radio" name="${part}_${key}" ${saved===i?"checked":""} ${state.graded?"disabled":""} onchange="setMcq('${part}','${key}',${i})"><b>${letters[i]}.</b> ${o}</label>`;
+  }).join("");
+  let exp = "";
+  if(state.graded){
+    const ok = saved===q.answer;
+    exp = `<div class="explain show">${ok?"✔ 正确":"✘ 错误"}　正确答案：<b>${letters[q.answer]}</b></div>`;
+  }
+  return `<div class="q"><div class="q-text"><span class="num">${num}.</span>${q.q||""}</div>${opts}${exp}</div>`;
+}
+function setMcq(part,key,i){ state.answers[part][key]=i; saveProgress(); }
+
+function bindInputs(){
+  const wi = document.getElementById("writingInput");
+  if(wi){
+    const upd = ()=>{
+      state.answers.writing = wi.value;
+      const n = countWords(wi.value);
+      const el = document.getElementById("wWordCount");
+      el.textContent = `词数：${n}（要求 ${EXAM.writing.minWords}–${EXAM.writing.maxWords}）`;
+      el.className = "wordcount " + (n>=EXAM.writing.minWords && n<=EXAM.writing.maxWords ? "ok" : (n>0?"bad":""));
+      saveProgress();
+    };
+    wi.addEventListener("input", upd); upd();
+  }
+  const ti = document.getElementById("transInput");
+  if(ti){
+    const upd = ()=>{
+      state.answers.translation = ti.value;
+      const n = countWords(ti.value);
+      const el = document.getElementById("tWordCount");
+      el.textContent = `词数：${n}（参考 140–180）`;
+      el.className = "wordcount " + (n>0?"ok":"");
+      saveProgress();
+    };
+    ti.addEventListener("input", upd); upd();
+  }
+}
+function countWords(t){ return (t.trim().match(/[A-Za-z\u4e00-\u9fff]+(?:'[A-Za-z]+)?/g)||[]).length; }
+
+function saveProgress(){
+  if(state.graded) return;
+  try{
+    localStorage.setItem(saveKey(), JSON.stringify({
+      paperId: state.paperId, answers: state.answers, remain: state.remain,
+      started: state.started, current: state.current, ts: Date.now()
+    }));
+  }catch(e){}
+}
+function loadProgress(){
+  for(const e of EXAMS){
+    try{
+      const raw = localStorage.getItem(`cet6_mock_v2_p${e.id}`);
+      if(!raw) continue;
+      const d = JSON.parse(raw);
+      if(!d.started) continue;
+      if(!confirm(`检测到「${e.name}」未完成进度，是否继续？\n（取消则重新开始）`)) continue;
+      pickPaper(e.id);
+      state.answers = d.answers || state.answers;
+      state.remain = d.remain || state.remain;
+      state.started = true;
+      state.current = d.current || "writing";
+      return true;
+    }catch(err){}
+  }
+  return false;
+}
+
+function countWords(t){ return (t.trim().match(/[A-Za-z\u4e00-\u9fff]+(?:'[A-Za-z]+)?/g)||[]).length; }
+
+function findSpellingIssues(text){
+  if(typeof KNOWN_WORDS === "undefined") return [];
+  const seen = new Set(), issues = [];
+  (text.match(/[A-Za-z]{4,}/g)||[]).forEach(w=>{
+    const k = w.toLowerCase();
+    if(seen.has(k)) return;
+    seen.add(k);
+    if(!KNOWN_WORDS.has(k)) issues.push(w);
+  });
+  return issues.slice(0, 8);
+}
+
+function offlineHeuristic(kind, payload){
+  const text = (payload.text || "").trim();
+  const wc = countWords(text);
+  if(!wc) return { source:"offline_heuristic", avg_score:0, comments:["未作答"], suggestions:[], errors:[], models:[] };
+  const spell = findSpellingIssues(text);
+  const spellNote = spell.length ? `；疑似拼写 ${spell.length} 处：${spell.join(", ")}` : "";
+  if(kind==="writing"){
+    let score = 6;
+    const w = EXAM.writing;
+    if(wc >= w.minWords) score += 2.5; else if(wc >= w.minWords*0.7) score += 1;
+    if(wc > w.maxWords) score -= 1;
+    const m = w.directions.match(/"([^"]+)"/);
+    if(m && text.toLowerCase().startsWith(m[1].toLowerCase().slice(0,40))) score += 2;
+    if((text.match(/[.!?]+/g)||[]).length >= 4) score += 1.5;
+    score -= Math.min(spell.length * 0.25, 2);
+    score = Math.max(1, Math.min(12.5, Math.round(score*10)/10));
+    return { source:"offline_heuristic", avg_score:score, comments:[`离线启发式（${wc}词）：字数/开头/结构粗评${spellNote}`], suggestions: spell.length?["检查疑似拼写错误"]:["对照范文自评"], errors: spell.map(w=>`拼写存疑: ${w}`), models:[] };
+  }
+  let score = 6;
+  if(wc >= 120) score += 2.5; else if(wc >= 80) score += 1;
+  const ref = (payload.reference||"").toLowerCase().match(/[a-z]{4,}/g)||[];
+  const ans = text.toLowerCase().match(/[a-z]{4,}/g)||[];
+  const refSet = new Set(ref), hit = ans.filter(w=>refSet.has(w)).length;
+  score += Math.min(hit/Math.max(refSet.size,1)*4, 4);
+  score -= Math.min(spell.length * 0.2, 1.5);
+  score = Math.max(1, Math.min(12, Math.round(score*10)/10));
+  return { source:"offline_heuristic", avg_score:score, comments:[`离线启发式（${wc}词）：词重叠粗评${spellNote}`], suggestions:["对照参考译文检查采分点"], errors: spell.map(w=>`拼写存疑: ${w}`), models:[] };
+}
+
+async function fetchSubjective(kind){
+  const payload = kind==="writing" ? {
+    kind, text: state.answers.writing,
+    directions: EXAM.writing.directions,
+    minWords: EXAM.writing.minWords, maxWords: EXAM.writing.maxWords
+  } : {
+    kind, text: state.answers.translation,
+    source: EXAM.translation.text,
+    reference: EXAM.translation.reference,
+    points: EXAM.translation.points
+  };
+  try{
+    const ctrl = new AbortController();
+    const tid = setTimeout(()=>ctrl.abort(), 90000);
+    const r = await fetch("/api/score", {
+      method:"POST", headers:{"Content-Type":"application/json"},
+      body: JSON.stringify(payload), signal: ctrl.signal
+    });
+    clearTimeout(tid);
+    const d = await r.json();
+    if(d.ok) return d;
+  }catch(e){}
+  return offlineHeuristic(kind, payload);
+}
+
+function to710(sub, maxScore){
+  const s15 = Number(sub.avg_score) || 0;
+  return Math.round(maxScore * s15 / 15);
+}
+
+function gradePanel(sub){
+  const isPoe = sub.source === "poe_dual" || (sub.models && sub.models.length);
+  const tag = isPoe ? `<span class="tag tag-poe">POE 双模型</span>` : `<span class="tag tag-offline">离线启发式</span>`;
+  let models = "";
+  if(sub.models && sub.models.length){
+    models = "<ul class=\"rubric\">" + sub.models.map(m=>`<li><b>${m.model}</b>：${m.score}/15 — ${m.comment||""}</li>`).join("") + "</ul>";
+  }
+  const sug = (sub.suggestions||[]).slice(0,3).map(s=>`<li>${s}</li>`).join("");
+  return `<div class="grade-panel">${tag} <b>${sub.avg_score}/15</b>（折算 ${to710(sub, sub._max||106.5)} / 106.5）
+    <div style="margin-top:8px">${(sub.comments||[]).join(" ")}</div>${models}${sug?`<ul class="rubric">${sug}</ul>`:""}</div>`;
+}
+
+async function gradeAll(){
+  if(state.grading) return;
+  state.grading = true;
+  render();
+  clearInterval(state.timerId);
+  timerEl.classList.remove("warn");
+  try{ localStorage.removeItem(saveKey()); }catch(e){}
+
+  const [wSub, tSub] = await Promise.all([
+    fetchSubjective("writing"),
+    fetchSubjective("translation")
+  ]);
+  wSub._max = EXAM.writing.score;
+  tSub._max = EXAM.translation.score;
+  state.subjective = { writing: wSub, translation: tSub };
+  state.graded = true;
+  state.grading = false;
+  state.current = "report";
+  render();
+  window.scrollTo(0,0);
+}
+
+function calcScores(){
+  const L = EXAM.listening;
+  let lTotal=0, lRight=0;
+  L.sectionA.conversations.forEach(c=>c.questions.forEach((q,qi)=>{ lTotal++; if(state.answers.listening[c.id+"_"+qi]===q.answer) lRight++; }));
+  L.sectionB.passages.forEach(p=>p.questions.forEach((q,qi)=>{ lTotal++; if(state.answers.listening[p.id+"_"+qi]===q.answer) lRight++; }));
+  const A = EXAM.reading.sectionA;
+  let aTotal = A.blanks.length, aRight = 0;
+  A.blanks.forEach(n=>{ if(state.answers.readingA[n]===A.answers[n]) aRight++; });
+  const C = EXAM.reading.sectionC;
+  let cTotal=0, cRight=0;
+  C.passages.forEach(p=>p.questions.forEach((q,qi)=>{ cTotal++; if(state.answers.readingC[p.id+"_"+qi]===q.answer) cRight++; }));
+  const lScore = Math.round(L.score * lRight / lTotal);
+  const rRight = aRight + cRight, rTotal = aTotal + cTotal;
+  const rScore = Math.round(EXAM.reading.score * rRight / rTotal);
+  const wScore = state.subjective.writing ? to710(state.subjective.writing, EXAM.writing.score) : 0;
+  const tScore = state.subjective.translation ? to710(state.subjective.translation, EXAM.translation.score) : 0;
+  return { lRight,lTotal,lScore, aRight,aTotal,cRight,cTotal,rRight,rTotal,rScore, wScore, tScore,
+    objTotal: lScore+rScore, all: lScore+rScore+wScore+tScore };
+}
+
+function renderReport(){
+  const s = calcScores();
+  const pass = s.all >= 425;
+  const wSrc = state.subjective.writing ? (state.subjective.writing.source==="poe_dual"?"POE双模型":"离线启发式") : "-";
+  const tSrc = state.subjective.translation ? (state.subjective.translation.source==="poe_dual"?"POE双模型":"离线启发式") : "-";
+  return `<div class="card">
+    <span class="part-tag">${EXAM.name} · 成绩报告</span>
+    <div class="score-big">
+      <div class="lbl">预估总分（满分 710）</div>
+      <div class="num">${s.all}</div>
+      <div class="pass-tag ${pass?"pass":"fail"}">${pass?"✔ 达到 425 分及格线":"未达 425 分及格线"}</div>
+    </div>
+    <div class="score-grid">
+      <div class="score-item"><div class="v">${s.lScore}</div><div class="k">听力 ${s.lRight}/${s.lTotal}</div></div>
+      <div class="score-item"><div class="v">${s.rScore}</div><div class="k">阅读 ${s.rRight}/${s.rTotal}</div></div>
+      <div class="score-item"><div class="v">${s.wScore}</div><div class="k">写作 · ${wSrc}</div></div>
+      <div class="score-item"><div class="v">${s.tScore}</div><div class="k">翻译 · ${tSrc}</div></div>
+    </div>
+    ${state.subjective.writing ? gradePanel(state.subjective.writing) : ""}
+    ${state.subjective.translation ? gradePanel(state.subjective.translation) : ""}
+    <div class="notice">
+      <b>说明：</b>客观题按答对比例折算；主观题优先 POE 双模型（15分制→710分制），失败时离线启发式回退，来源已在上方标注。
+    </div>
+    <div class="btn-row">
+      <button class="btn btn-primary" onclick="reviewMode()">📖 逐题查看解析</button>
+      <button class="btn btn-ghost" onclick="hardReset()">🔄 重新选卷</button>
+    </div>
+  </div>`;
+}
+function reviewMode(){ go("writing"); }
+function hardReset(){
+  EXAMS.forEach(e=>{ try{ localStorage.removeItem(`cet6_mock_v2_p${e.id}`); }catch(x){} });
+  location.reload();
+}
+
+applyTheme();
+document.getElementById("topTitle").textContent = EXAM.meta.title;
+if("speechSynthesis" in window){ window.speechSynthesis.getVoices(); }
+if(loadProgress()) startTimer();
+render();
+</script>
+</body>
+</html>

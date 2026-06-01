@@ -1,0 +1,3502 @@
+[
+ {
+  "no": 1,
+  "category": "一、国家·文化·传统",
+  "cn": "中国",
+  "en": "China",
+  "exam_freq": 108
+ },
+ {
+  "no": 2,
+  "category": "一、国家·文化·传统",
+  "cn": "中华民族",
+  "en": "the Chinese nation",
+  "exam_freq": 5
+ },
+ {
+  "no": 3,
+  "category": "一、国家·文化·传统",
+  "cn": "文化",
+  "en": "culture",
+  "exam_freq": 12
+ },
+ {
+  "no": 4,
+  "category": "一、国家·文化·传统",
+  "cn": "文明",
+  "en": "civilization",
+  "exam_freq": 0
+ },
+ {
+  "no": 5,
+  "category": "一、国家·文化·传统",
+  "cn": "传统",
+  "en": "tradition; traditional",
+  "exam_freq": 8
+ },
+ {
+  "no": 6,
+  "category": "一、国家·文化·传统",
+  "cn": "历史",
+  "en": "history",
+  "exam_freq": 19
+ },
+ {
+  "no": 7,
+  "category": "一、国家·文化·传统",
+  "cn": "习俗",
+  "en": "custom",
+  "exam_freq": 3
+ },
+ {
+  "no": 8,
+  "category": "一、国家·文化·传统",
+  "cn": "象征",
+  "en": "symbol; to symbolize",
+  "exam_freq": 6
+ },
+ {
+  "no": 9,
+  "category": "一、国家·文化·传统",
+  "cn": "中华文化",
+  "en": "Chinese culture",
+  "exam_freq": 0
+ },
+ {
+  "no": 10,
+  "category": "一、国家·文化·传统",
+  "cn": "民族",
+  "en": "nation; ethnic group",
+  "exam_freq": 2
+ },
+ {
+  "no": 11,
+  "category": "一、国家·文化·传统",
+  "cn": "古代",
+  "en": "ancient times",
+  "exam_freq": 2
+ },
+ {
+  "no": 12,
+  "category": "一、国家·文化·传统",
+  "cn": "悠久",
+  "en": "long-standing; time-honoured",
+  "exam_freq": 0
+ },
+ {
+  "no": 13,
+  "category": "一、国家·文化·传统",
+  "cn": "遗产",
+  "en": "heritage",
+  "exam_freq": 0
+ },
+ {
+  "no": 14,
+  "category": "一、国家·文化·传统",
+  "cn": "价值",
+  "en": "value",
+  "exam_freq": 0
+ },
+ {
+  "no": 15,
+  "category": "一、国家·文化·传统",
+  "cn": "精神",
+  "en": "spirit",
+  "exam_freq": 0
+ },
+ {
+  "no": 16,
+  "category": "一、国家·文化·传统",
+  "cn": "繁荣",
+  "en": "prosperity; to flourish",
+  "exam_freq": 5
+ },
+ {
+  "no": 17,
+  "category": "一、国家·文化·传统",
+  "cn": "伟大",
+  "en": "great",
+  "exam_freq": 4
+ },
+ {
+  "no": 18,
+  "category": "一、国家·文化·传统",
+  "cn": "独特",
+  "en": "unique",
+  "exam_freq": 5
+ },
+ {
+  "no": 19,
+  "category": "一、国家·文化·传统",
+  "cn": "丰富",
+  "en": "rich; abundant",
+  "exam_freq": 6
+ },
+ {
+  "no": 20,
+  "category": "一、国家·文化·传统",
+  "cn": "著名",
+  "en": "famous; renowned",
+  "exam_freq": 6
+ },
+ {
+  "no": 21,
+  "category": "一、国家·文化·传统",
+  "cn": "被誉为",
+  "en": "be hailed/known as",
+  "exam_freq": 5
+ },
+ {
+  "no": 22,
+  "category": "一、国家·文化·传统",
+  "cn": "自古以来",
+  "en": "since ancient times",
+  "exam_freq": 3
+ },
+ {
+  "no": 23,
+  "category": "二、经济·科技·发展",
+  "cn": "经济",
+  "en": "economy",
+  "exam_freq": 14
+ },
+ {
+  "no": 24,
+  "category": "二、经济·科技·发展",
+  "cn": "发展",
+  "en": "development; to develop",
+  "exam_freq": 17
+ },
+ {
+  "no": 25,
+  "category": "二、经济·科技·发展",
+  "cn": "增长",
+  "en": "growth; to grow",
+  "exam_freq": 6
+ },
+ {
+  "no": 26,
+  "category": "二、经济·科技·发展",
+  "cn": "增加",
+  "en": "to increase",
+  "exam_freq": 9
+ },
+ {
+  "no": 27,
+  "category": "二、经济·科技·发展",
+  "cn": "建设",
+  "en": "construction; to build",
+  "exam_freq": 7
+ },
+ {
+  "no": 28,
+  "category": "二、经济·科技·发展",
+  "cn": "工程",
+  "en": "project; engineering",
+  "exam_freq": 3
+ },
+ {
+  "no": 29,
+  "category": "二、经济·科技·发展",
+  "cn": "技术",
+  "en": "technology",
+  "exam_freq": 3
+ },
+ {
+  "no": 30,
+  "category": "二、经济·科技·发展",
+  "cn": "系统",
+  "en": "system",
+  "exam_freq": 6
+ },
+ {
+  "no": 31,
+  "category": "二、经济·科技·发展",
+  "cn": "设计",
+  "en": "design; to design",
+  "exam_freq": 5
+ },
+ {
+  "no": 32,
+  "category": "二、经济·科技·发展",
+  "cn": "先进",
+  "en": "advanced",
+  "exam_freq": 3
+ },
+ {
+  "no": 33,
+  "category": "二、经济·科技·发展",
+  "cn": "迅速",
+  "en": "rapid; rapidly",
+  "exam_freq": 6
+ },
+ {
+  "no": 34,
+  "category": "二、经济·科技·发展",
+  "cn": "现代化",
+  "en": "modernization",
+  "exam_freq": 0
+ },
+ {
+  "no": 35,
+  "category": "二、经济·科技·发展",
+  "cn": "创新",
+  "en": "innovation",
+  "exam_freq": 0
+ },
+ {
+  "no": 36,
+  "category": "二、经济·科技·发展",
+  "cn": "产业",
+  "en": "industry",
+  "exam_freq": 2
+ },
+ {
+  "no": 37,
+  "category": "二、经济·科技·发展",
+  "cn": "企业",
+  "en": "enterprise",
+  "exam_freq": 0
+ },
+ {
+  "no": 38,
+  "category": "二、经济·科技·发展",
+  "cn": "北斗",
+  "en": "Beidou (Navigation Satellite System)",
+  "exam_freq": 4
+ },
+ {
+  "no": 39,
+  "category": "二、经济·科技·发展",
+  "cn": "太空",
+  "en": "space",
+  "exam_freq": 3
+ },
+ {
+  "no": 40,
+  "category": "二、经济·科技·发展",
+  "cn": "航天",
+  "en": "aerospace; space flight",
+  "exam_freq": 0
+ },
+ {
+  "no": 41,
+  "category": "二、经济·科技·发展",
+  "cn": "卫星",
+  "en": "satellite",
+  "exam_freq": 0
+ },
+ {
+  "no": 42,
+  "category": "二、经济·科技·发展",
+  "cn": "全球",
+  "en": "global; the whole world",
+  "exam_freq": 6
+ },
+ {
+  "no": 43,
+  "category": "二、经济·科技·发展",
+  "cn": "覆盖",
+  "en": "to cover",
+  "exam_freq": 3
+ },
+ {
+  "no": 44,
+  "category": "二、经济·科技·发展",
+  "cn": "推进",
+  "en": "to advance/promote",
+  "exam_freq": 4
+ },
+ {
+  "no": 45,
+  "category": "二、经济·科技·发展",
+  "cn": "持续",
+  "en": "continuous; sustained",
+  "exam_freq": 4
+ },
+ {
+  "no": 46,
+  "category": "二、经济·科技·发展",
+  "cn": "促进",
+  "en": "to promote",
+  "exam_freq": 4
+ },
+ {
+  "no": 47,
+  "category": "二、经济·科技·发展",
+  "cn": "改善",
+  "en": "to improve",
+  "exam_freq": 4
+ },
+ {
+  "no": 48,
+  "category": "二、经济·科技·发展",
+  "cn": "提供",
+  "en": "to provide",
+  "exam_freq": 7
+ },
+ {
+  "no": 49,
+  "category": "三、社会·民生·养老",
+  "cn": "社会",
+  "en": "society; social",
+  "exam_freq": 11
+ },
+ {
+  "no": 50,
+  "category": "三、社会·民生·养老",
+  "cn": "政府",
+  "en": "government",
+  "exam_freq": 10
+ },
+ {
+  "no": 51,
+  "category": "三、社会·民生·养老",
+  "cn": "人口",
+  "en": "population",
+  "exam_freq": 5
+ },
+ {
+  "no": 52,
+  "category": "三、社会·民生·养老",
+  "cn": "养老",
+  "en": "elderly care; pension",
+  "exam_freq": 16
+ },
+ {
+  "no": 53,
+  "category": "三、社会·民生·养老",
+  "cn": "老年人",
+  "en": "the elderly; senior citizens",
+  "exam_freq": 8
+ },
+ {
+  "no": 54,
+  "category": "三、社会·民生·养老",
+  "cn": "老龄化",
+  "en": "ageing (of population)",
+  "exam_freq": 3
+ },
+ {
+  "no": 55,
+  "category": "三、社会·民生·养老",
+  "cn": "社区",
+  "en": "community",
+  "exam_freq": 3
+ },
+ {
+  "no": 56,
+  "category": "三、社会·民生·养老",
+  "cn": "社会保障",
+  "en": "social security",
+  "exam_freq": 3
+ },
+ {
+  "no": 57,
+  "category": "三、社会·民生·养老",
+  "cn": "服务",
+  "en": "service",
+  "exam_freq": 7
+ },
+ {
+  "no": 58,
+  "category": "三、社会·民生·养老",
+  "cn": "服务质量",
+  "en": "service quality",
+  "exam_freq": 3
+ },
+ {
+  "no": 59,
+  "category": "三、社会·民生·养老",
+  "cn": "教育",
+  "en": "education",
+  "exam_freq": 5
+ },
+ {
+  "no": 60,
+  "category": "三、社会·民生·养老",
+  "cn": "生活",
+  "en": "life",
+  "exam_freq": 9
+ },
+ {
+  "no": 61,
+  "category": "三、社会·民生·养老",
+  "cn": "幸福",
+  "en": "happiness; well-being",
+  "exam_freq": 3
+ },
+ {
+  "no": 62,
+  "category": "三、社会·民生·养老",
+  "cn": "健康",
+  "en": "health; healthy",
+  "exam_freq": 3
+ },
+ {
+  "no": 63,
+  "category": "三、社会·民生·养老",
+  "cn": "人民",
+  "en": "people",
+  "exam_freq": 3
+ },
+ {
+  "no": 64,
+  "category": "三、社会·民生·养老",
+  "cn": "机构",
+  "en": "institution; organization",
+  "exam_freq": 5
+ },
+ {
+  "no": 65,
+  "category": "三、社会·民生·养老",
+  "cn": "保障",
+  "en": "to guarantee; safeguard",
+  "exam_freq": 0
+ },
+ {
+  "no": 66,
+  "category": "三、社会·民生·养老",
+  "cn": "措施",
+  "en": "measure",
+  "exam_freq": 2
+ },
+ {
+  "no": 67,
+  "category": "三、社会·民生·养老",
+  "cn": "采取措施",
+  "en": "to take measures",
+  "exam_freq": 3
+ },
+ {
+  "no": 68,
+  "category": "三、社会·民生·养老",
+  "cn": "鼓励",
+  "en": "to encourage",
+  "exam_freq": 3
+ },
+ {
+  "no": 69,
+  "category": "三、社会·民生·养老",
+  "cn": "确保",
+  "en": "to ensure",
+  "exam_freq": 3
+ },
+ {
+  "no": 70,
+  "category": "三、社会·民生·养老",
+  "cn": "公共",
+  "en": "public",
+  "exam_freq": 3
+ },
+ {
+  "no": 71,
+  "category": "三、社会·民生·养老",
+  "cn": "改革",
+  "en": "reform",
+  "exam_freq": 0
+ },
+ {
+  "no": 72,
+  "category": "三、社会·民生·养老",
+  "cn": "政策",
+  "en": "policy",
+  "exam_freq": 0
+ },
+ {
+  "no": 73,
+  "category": "三、社会·民生·养老",
+  "cn": "需求",
+  "en": "demand; need",
+  "exam_freq": 2
+ },
+ {
+  "no": 74,
+  "category": "三、社会·民生·养老",
+  "cn": "参与",
+  "en": "to participate",
+  "exam_freq": 0
+ },
+ {
+  "no": 75,
+  "category": "四、地理·自然·旅游",
+  "cn": "地区",
+  "en": "region; area",
+  "exam_freq": 11
+ },
+ {
+  "no": 76,
+  "category": "四、地理·自然·旅游",
+  "cn": "城市",
+  "en": "city",
+  "exam_freq": 7
+ },
+ {
+  "no": 77,
+  "category": "四、地理·自然·旅游",
+  "cn": "旅游",
+  "en": "tourism; to travel",
+  "exam_freq": 7
+ },
+ {
+  "no": 78,
+  "category": "四、地理·自然·旅游",
+  "cn": "游客",
+  "en": "tourist; visitor",
+  "exam_freq": 4
+ },
+ {
+  "no": 79,
+  "category": "四、地理·自然·旅游",
+  "cn": "高原",
+  "en": "plateau",
+  "exam_freq": 4
+ },
+ {
+  "no": 80,
+  "category": "四、地理·自然·旅游",
+  "cn": "青藏高原",
+  "en": "the Qinghai-Tibet Plateau",
+  "exam_freq": 7
+ },
+ {
+  "no": 81,
+  "category": "四、地理·自然·旅游",
+  "cn": "黄土高原",
+  "en": "the Loess Plateau",
+  "exam_freq": 5
+ },
+ {
+  "no": 82,
+  "category": "四、地理·自然·旅游",
+  "cn": "云贵高原",
+  "en": "the Yunnan-Guizhou Plateau",
+  "exam_freq": 5
+ },
+ {
+  "no": 83,
+  "category": "四、地理·自然·旅游",
+  "cn": "河流",
+  "en": "river",
+  "exam_freq": 4
+ },
+ {
+  "no": 84,
+  "category": "四、地理·自然·旅游",
+  "cn": "长江",
+  "en": "the Yangtze River",
+  "exam_freq": 3
+ },
+ {
+  "no": 85,
+  "category": "四、地理·自然·旅游",
+  "cn": "平均海拔",
+  "en": "average elevation/altitude",
+  "exam_freq": 5
+ },
+ {
+  "no": 86,
+  "category": "四、地理·自然·旅游",
+  "cn": "生态系统",
+  "en": "ecosystem",
+  "exam_freq": 3
+ },
+ {
+  "no": 87,
+  "category": "四、地理·自然·旅游",
+  "cn": "生物",
+  "en": "organism; living things",
+  "exam_freq": 3
+ },
+ {
+  "no": 88,
+  "category": "四、地理·自然·旅游",
+  "cn": "风景秀丽",
+  "en": "have beautiful scenery",
+  "exam_freq": 3
+ },
+ {
+  "no": 89,
+  "category": "四、地理·自然·旅游",
+  "cn": "区域",
+  "en": "region; zone",
+  "exam_freq": 3
+ },
+ {
+  "no": 90,
+  "category": "四、地理·自然·旅游",
+  "cn": "分布",
+  "en": "to be distributed",
+  "exam_freq": 3
+ },
+ {
+  "no": 91,
+  "category": "四、地理·自然·旅游",
+  "cn": "位于",
+  "en": "to be located in",
+  "exam_freq": 8
+ },
+ {
+  "no": 92,
+  "category": "四、地理·自然·旅游",
+  "cn": "气候",
+  "en": "climate",
+  "exam_freq": 0
+ },
+ {
+  "no": 93,
+  "category": "四、地理·自然·旅游",
+  "cn": "资源",
+  "en": "resource",
+  "exam_freq": 0
+ },
+ {
+  "no": 94,
+  "category": "四、地理·自然·旅游",
+  "cn": "环境",
+  "en": "environment",
+  "exam_freq": 3
+ },
+ {
+  "no": 95,
+  "category": "四、地理·自然·旅游",
+  "cn": "吸引",
+  "en": "to attract",
+  "exam_freq": 4
+ },
+ {
+  "no": 96,
+  "category": "四、地理·自然·旅游",
+  "cn": "风景",
+  "en": "scenery; landscape",
+  "exam_freq": 0
+ },
+ {
+  "no": 97,
+  "category": "四、地理·自然·旅游",
+  "cn": "自然",
+  "en": "nature; natural",
+  "exam_freq": 2
+ },
+ {
+  "no": 98,
+  "category": "四、地理·自然·旅游",
+  "cn": "世界",
+  "en": "world",
+  "exam_freq": 18
+ },
+ {
+  "no": 99,
+  "category": "五、文学·艺术·语言",
+  "cn": "小说",
+  "en": "novel",
+  "exam_freq": 14
+ },
+ {
+  "no": 100,
+  "category": "五、文学·艺术·语言",
+  "cn": "文学",
+  "en": "literature",
+  "exam_freq": 6
+ },
+ {
+  "no": 101,
+  "category": "五、文学·艺术·语言",
+  "cn": "诗歌",
+  "en": "poetry",
+  "exam_freq": 3
+ },
+ {
+  "no": 102,
+  "category": "五、文学·艺术·语言",
+  "cn": "诗人",
+  "en": "poet",
+  "exam_freq": 3
+ },
+ {
+  "no": 103,
+  "category": "五、文学·艺术·语言",
+  "cn": "艺术",
+  "en": "art",
+  "exam_freq": 6
+ },
+ {
+  "no": 104,
+  "category": "五、文学·艺术·语言",
+  "cn": "绘画",
+  "en": "painting",
+  "exam_freq": 3
+ },
+ {
+  "no": 105,
+  "category": "五、文学·艺术·语言",
+  "cn": "作品",
+  "en": "work (of art/literature)",
+  "exam_freq": 3
+ },
+ {
+  "no": 106,
+  "category": "五、文学·艺术·语言",
+  "cn": "故事",
+  "en": "story",
+  "exam_freq": 5
+ },
+ {
+  "no": 107,
+  "category": "五、文学·艺术·语言",
+  "cn": "成语",
+  "en": "idiom",
+  "exam_freq": 6
+ },
+ {
+  "no": 108,
+  "category": "五、文学·艺术·语言",
+  "cn": "创作",
+  "en": "to create; creation",
+  "exam_freq": 4
+ },
+ {
+  "no": 109,
+  "category": "五、文学·艺术·语言",
+  "cn": "欣赏",
+  "en": "to appreciate",
+  "exam_freq": 3
+ },
+ {
+  "no": 110,
+  "category": "五、文学·艺术·语言",
+  "cn": "语言",
+  "en": "language",
+  "exam_freq": 7
+ },
+ {
+  "no": 111,
+  "category": "五、文学·艺术·语言",
+  "cn": "汉语",
+  "en": "Chinese (language)",
+  "exam_freq": 8
+ },
+ {
+  "no": 112,
+  "category": "五、文学·艺术·语言",
+  "cn": "方言",
+  "en": "dialect",
+  "exam_freq": 10
+ },
+ {
+  "no": 113,
+  "category": "五、文学·艺术·语言",
+  "cn": "人物",
+  "en": "character; figure",
+  "exam_freq": 9
+ },
+ {
+  "no": 114,
+  "category": "五、文学·艺术·语言",
+  "cn": "文字",
+  "en": "writing; characters",
+  "exam_freq": 0
+ },
+ {
+  "no": 115,
+  "category": "五、文学·艺术·语言",
+  "cn": "书法",
+  "en": "calligraphy",
+  "exam_freq": 0
+ },
+ {
+  "no": 116,
+  "category": "五、文学·艺术·语言",
+  "cn": "高雅",
+  "en": "elegant; refined",
+  "exam_freq": 3
+ },
+ {
+  "no": 117,
+  "category": "五、文学·艺术·语言",
+  "cn": "生动",
+  "en": "vivid",
+  "exam_freq": 3
+ },
+ {
+  "no": 118,
+  "category": "五、文学·艺术·语言",
+  "cn": "形象",
+  "en": "image",
+  "exam_freq": 3
+ },
+ {
+  "no": 119,
+  "category": "五、文学·艺术·语言",
+  "cn": "受欢迎",
+  "en": "popular; well-received",
+  "exam_freq": 3
+ },
+ {
+  "no": 120,
+  "category": "五、文学·艺术·语言",
+  "cn": "喜爱",
+  "en": "to be fond of; love",
+  "exam_freq": 4
+ },
+ {
+  "no": 121,
+  "category": "五、文学·艺术·语言",
+  "cn": "创造",
+  "en": "to create",
+  "exam_freq": 4
+ },
+ {
+  "no": 122,
+  "category": "五、文学·艺术·语言",
+  "cn": "形式",
+  "en": "form",
+  "exam_freq": 4
+ },
+ {
+  "no": 123,
+  "category": "五、文学·艺术·语言",
+  "cn": "内容",
+  "en": "content",
+  "exam_freq": 0
+ },
+ {
+  "no": 124,
+  "category": "六、历史·人物·朝代",
+  "cn": "革命",
+  "en": "revolution",
+  "exam_freq": 13
+ },
+ {
+  "no": 125,
+  "category": "六、历史·人物·朝代",
+  "cn": "革命家",
+  "en": "revolutionary",
+  "exam_freq": 3
+ },
+ {
+  "no": 126,
+  "category": "六、历史·人物·朝代",
+  "cn": "郑和",
+  "en": "Zheng He",
+  "exam_freq": 5
+ },
+ {
+  "no": 127,
+  "category": "六、历史·人物·朝代",
+  "cn": "张骞",
+  "en": "Zhang Qian",
+  "exam_freq": 2
+ },
+ {
+  "no": 128,
+  "category": "六、历史·人物·朝代",
+  "cn": "徐霞客",
+  "en": "Xu Xiake",
+  "exam_freq": 3
+ },
+ {
+  "no": 129,
+  "category": "六、历史·人物·朝代",
+  "cn": "丝绸之路",
+  "en": "the Silk Road",
+  "exam_freq": 3
+ },
+ {
+  "no": 130,
+  "category": "六、历史·人物·朝代",
+  "cn": "西域",
+  "en": "the Western Regions",
+  "exam_freq": 4
+ },
+ {
+  "no": 131,
+  "category": "六、历史·人物·朝代",
+  "cn": "明代",
+  "en": "the Ming Dynasty",
+  "exam_freq": 3
+ },
+ {
+  "no": 132,
+  "category": "六、历史·人物·朝代",
+  "cn": "宋朝",
+  "en": "the Song Dynasty",
+  "exam_freq": 3
+ },
+ {
+  "no": 133,
+  "category": "六、历史·人物·朝代",
+  "cn": "公元",
+  "en": "AD; the Christian era",
+  "exam_freq": 3
+ },
+ {
+  "no": 134,
+  "category": "六、历史·人物·朝代",
+  "cn": "时期",
+  "en": "period",
+  "exam_freq": 5
+ },
+ {
+  "no": 135,
+  "category": "六、历史·人物·朝代",
+  "cn": "王朝",
+  "en": "dynasty",
+  "exam_freq": 0
+ },
+ {
+  "no": 136,
+  "category": "六、历史·人物·朝代",
+  "cn": "船队",
+  "en": "fleet",
+  "exam_freq": 3
+ },
+ {
+  "no": 137,
+  "category": "六、历史·人物·朝代",
+  "cn": "率领",
+  "en": "to lead",
+  "exam_freq": 3
+ },
+ {
+  "no": 138,
+  "category": "六、历史·人物·朝代",
+  "cn": "考察",
+  "en": "to explore; investigate",
+  "exam_freq": 3
+ },
+ {
+  "no": 139,
+  "category": "六、历史·人物·朝代",
+  "cn": "旅行",
+  "en": "travel; journey",
+  "exam_freq": 3
+ },
+ {
+  "no": 140,
+  "category": "六、历史·人物·朝代",
+  "cn": "爱国主义",
+  "en": "patriotism",
+  "exam_freq": 3
+ },
+ {
+  "no": 141,
+  "category": "六、历史·人物·朝代",
+  "cn": "纪念馆",
+  "en": "memorial hall",
+  "exam_freq": 3
+ },
+ {
+  "no": 142,
+  "category": "六、历史·人物·朝代",
+  "cn": "老一辈",
+  "en": "the older generation",
+  "exam_freq": 3
+ },
+ {
+  "no": 143,
+  "category": "六、历史·人物·朝代",
+  "cn": "事件",
+  "en": "event",
+  "exam_freq": 3
+ },
+ {
+  "no": 144,
+  "category": "六、历史·人物·朝代",
+  "cn": "延安",
+  "en": "Yan'an",
+  "exam_freq": 5
+ },
+ {
+  "no": 145,
+  "category": "六、历史·人物·朝代",
+  "cn": "西藏",
+  "en": "Tibet",
+  "exam_freq": 4
+ },
+ {
+  "no": 146,
+  "category": "六、历史·人物·朝代",
+  "cn": "事业",
+  "en": "cause; undertaking",
+  "exam_freq": 0
+ },
+ {
+  "no": 147,
+  "category": "七、建筑·交通·设施",
+  "cn": "桥梁",
+  "en": "bridge",
+  "exam_freq": 6
+ },
+ {
+  "no": 148,
+  "category": "七、建筑·交通·设施",
+  "cn": "大桥",
+  "en": "bridge",
+  "exam_freq": 6
+ },
+ {
+  "no": 149,
+  "category": "七、建筑·交通·设施",
+  "cn": "港珠澳大桥",
+  "en": "the Hong Kong-Zhuhai-Macau Bridge",
+  "exam_freq": 0
+ },
+ {
+  "no": 150,
+  "category": "七、建筑·交通·设施",
+  "cn": "卢沟桥",
+  "en": "the Lugou Bridge (Marco Polo Bridge)",
+  "exam_freq": 5
+ },
+ {
+  "no": 151,
+  "category": "七、建筑·交通·设施",
+  "cn": "赵州桥",
+  "en": "the Zhaozhou Bridge",
+  "exam_freq": 4
+ },
+ {
+  "no": 152,
+  "category": "七、建筑·交通·设施",
+  "cn": "铁路",
+  "en": "railway",
+  "exam_freq": 6
+ },
+ {
+  "no": 153,
+  "category": "七、建筑·交通·设施",
+  "cn": "青藏铁路",
+  "en": "the Qinghai-Tibet Railway",
+  "exam_freq": 3
+ },
+ {
+  "no": 154,
+  "category": "七、建筑·交通·设施",
+  "cn": "机场",
+  "en": "airport",
+  "exam_freq": 5
+ },
+ {
+  "no": 155,
+  "category": "七、建筑·交通·设施",
+  "cn": "航站楼",
+  "en": "terminal building",
+  "exam_freq": 3
+ },
+ {
+  "no": 156,
+  "category": "七、建筑·交通·设施",
+  "cn": "博物馆",
+  "en": "museum",
+  "exam_freq": 6
+ },
+ {
+  "no": 157,
+  "category": "七、建筑·交通·设施",
+  "cn": "图书馆",
+  "en": "library",
+  "exam_freq": 6
+ },
+ {
+  "no": 158,
+  "category": "七、建筑·交通·设施",
+  "cn": "体育馆",
+  "en": "gymnasium; stadium",
+  "exam_freq": 6
+ },
+ {
+  "no": 159,
+  "category": "七、建筑·交通·设施",
+  "cn": "读者",
+  "en": "reader",
+  "exam_freq": 6
+ },
+ {
+  "no": 160,
+  "category": "七、建筑·交通·设施",
+  "cn": "展览",
+  "en": "exhibition",
+  "exam_freq": 5
+ },
+ {
+  "no": 161,
+  "category": "七、建筑·交通·设施",
+  "cn": "举办",
+  "en": "to hold (an event)",
+  "exam_freq": 3
+ },
+ {
+  "no": 162,
+  "category": "七、建筑·交通·设施",
+  "cn": "建成",
+  "en": "to be completed/built",
+  "exam_freq": 9
+ },
+ {
+  "no": 163,
+  "category": "七、建筑·交通·设施",
+  "cn": "大型",
+  "en": "large-scale",
+  "exam_freq": 3
+ },
+ {
+  "no": 164,
+  "category": "七、建筑·交通·设施",
+  "cn": "结构",
+  "en": "structure",
+  "exam_freq": 3
+ },
+ {
+  "no": 165,
+  "category": "七、建筑·交通·设施",
+  "cn": "设施",
+  "en": "facility",
+  "exam_freq": 2
+ },
+ {
+  "no": 166,
+  "category": "七、建筑·交通·设施",
+  "cn": "洋山港",
+  "en": "Yangshan Port",
+  "exam_freq": 4
+ },
+ {
+  "no": 167,
+  "category": "七、建筑·交通·设施",
+  "cn": "港口",
+  "en": "port",
+  "exam_freq": 0
+ },
+ {
+  "no": 168,
+  "category": "八、植物·象征·民俗",
+  "cn": "牡丹",
+  "en": "peony",
+  "exam_freq": 6
+ },
+ {
+  "no": 169,
+  "category": "八、植物·象征·民俗",
+  "cn": "梅花",
+  "en": "plum blossom",
+  "exam_freq": 6
+ },
+ {
+  "no": 170,
+  "category": "八、植物·象征·民俗",
+  "cn": "荷花",
+  "en": "lotus",
+  "exam_freq": 6
+ },
+ {
+  "no": 171,
+  "category": "八、植物·象征·民俗",
+  "cn": "竹子",
+  "en": "bamboo",
+  "exam_freq": 5
+ },
+ {
+  "no": 172,
+  "category": "八、植物·象征·民俗",
+  "cn": "石狮",
+  "en": "stone lion",
+  "exam_freq": 4
+ },
+ {
+  "no": 173,
+  "category": "八、植物·象征·民俗",
+  "cn": "婚礼",
+  "en": "wedding",
+  "exam_freq": 6
+ },
+ {
+  "no": 174,
+  "category": "八、植物·象征·民俗",
+  "cn": "习俗",
+  "en": "custom",
+  "exam_freq": 3
+ },
+ {
+  "no": 175,
+  "category": "八、植物·象征·民俗",
+  "cn": "祝福",
+  "en": "blessing; to bless",
+  "exam_freq": 0
+ },
+ {
+  "no": 176,
+  "category": "八、植物·象征·民俗",
+  "cn": "扇子",
+  "en": "fan",
+  "exam_freq": 6
+ },
+ {
+  "no": 177,
+  "category": "八、植物·象征·民俗",
+  "cn": "节日",
+  "en": "festival",
+  "exam_freq": 0
+ },
+ {
+  "no": 178,
+  "category": "八、植物·象征·民俗",
+  "cn": "庆典",
+  "en": "celebration; ceremony",
+  "exam_freq": 0
+ },
+ {
+  "no": 179,
+  "category": "八、植物·象征·民俗",
+  "cn": "祥",
+  "en": "auspicious",
+  "exam_freq": 0
+ },
+ {
+  "no": 180,
+  "category": "八、植物·象征·民俗",
+  "cn": "坚韧",
+  "en": "tough; tenacious",
+  "exam_freq": 0
+ },
+ {
+  "no": 181,
+  "category": "八、植物·象征·民俗",
+  "cn": "品格",
+  "en": "character; moral quality",
+  "exam_freq": 2
+ },
+ {
+  "no": 182,
+  "category": "八、植物·象征·民俗",
+  "cn": "纯洁",
+  "en": "purity; pure",
+  "exam_freq": 0
+ },
+ {
+  "no": 183,
+  "category": "八、植物·象征·民俗",
+  "cn": "高贵",
+  "en": "noble",
+  "exam_freq": 0
+ },
+ {
+  "no": 184,
+  "category": "九、高频动词·程度·连接",
+  "cn": "随着",
+  "en": "with; as",
+  "exam_freq": 9
+ },
+ {
+  "no": 185,
+  "category": "九、高频动词·程度·连接",
+  "cn": "近年来",
+  "en": "in recent years",
+  "exam_freq": 8
+ },
+ {
+  "no": 186,
+  "category": "九、高频动词·程度·连接",
+  "cn": "逐渐",
+  "en": "gradually",
+  "exam_freq": 0
+ },
+ {
+  "no": 187,
+  "category": "九、高频动词·程度·连接",
+  "cn": "不断",
+  "en": "continuously",
+  "exam_freq": 0
+ },
+ {
+  "no": 188,
+  "category": "九、高频动词·程度·连接",
+  "cn": "越来越",
+  "en": "more and more",
+  "exam_freq": 0
+ },
+ {
+  "no": 189,
+  "category": "九、高频动词·程度·连接",
+  "cn": "广泛",
+  "en": "widely; extensive",
+  "exam_freq": 5
+ },
+ {
+  "no": 190,
+  "category": "九、高频动词·程度·连接",
+  "cn": "得到",
+  "en": "to obtain; gain",
+  "exam_freq": 4
+ },
+ {
+  "no": 191,
+  "category": "九、高频动词·程度·连接",
+  "cn": "使用",
+  "en": "to use",
+  "exam_freq": 7
+ },
+ {
+  "no": 192,
+  "category": "九、高频动词·程度·连接",
+  "cn": "出现",
+  "en": "to appear; emerge",
+  "exam_freq": 3
+ },
+ {
+  "no": 193,
+  "category": "九、高频动词·程度·连接",
+  "cn": "形成",
+  "en": "to form; take shape",
+  "exam_freq": 4
+ },
+ {
+  "no": 194,
+  "category": "九、高频动词·程度·连接",
+  "cn": "采用",
+  "en": "to adopt",
+  "exam_freq": 3
+ },
+ {
+  "no": 195,
+  "category": "九、高频动词·程度·连接",
+  "cn": "缩短",
+  "en": "to shorten",
+  "exam_freq": 3
+ },
+ {
+  "no": 196,
+  "category": "九、高频动词·程度·连接",
+  "cn": "种植",
+  "en": "to plant; grow",
+  "exam_freq": 4
+ },
+ {
+  "no": 197,
+  "category": "九、高频动词·程度·连接",
+  "cn": "介绍",
+  "en": "to introduce",
+  "exam_freq": 3
+ },
+ {
+  "no": 198,
+  "category": "九、高频动词·程度·连接",
+  "cn": "产生",
+  "en": "to produce; generate",
+  "exam_freq": 3
+ },
+ {
+  "no": 199,
+  "category": "九、高频动词·程度·连接",
+  "cn": "做出",
+  "en": "to make (contribution)",
+  "exam_freq": 4
+ },
+ {
+  "no": 200,
+  "category": "九、高频动词·程度·连接",
+  "cn": "成为",
+  "en": "to become",
+  "exam_freq": 0
+ },
+ {
+  "no": 201,
+  "category": "九、高频动词·程度·连接",
+  "cn": "实现",
+  "en": "to realize/achieve",
+  "exam_freq": 0
+ },
+ {
+  "no": 202,
+  "category": "九、高频动词·程度·连接",
+  "cn": "经过",
+  "en": "after; through",
+  "exam_freq": 4
+ },
+ {
+  "no": 203,
+  "category": "十、真题原文给定译法",
+  "cn": "北斗(卫星导航系统)",
+  "en": "Beidou (Satellite Navigation System)",
+  "exam_freq": 4
+ },
+ {
+  "no": 204,
+  "category": "十、真题原文给定译法",
+  "cn": "洋山港",
+  "en": "Yangshan Port",
+  "exam_freq": 4
+ },
+ {
+  "no": 205,
+  "category": "十、真题原文给定译法",
+  "cn": "拜天地",
+  "en": "bow to Heaven and Earth",
+  "exam_freq": 0
+ },
+ {
+  "no": 206,
+  "category": "十、真题原文给定译法",
+  "cn": "张骞",
+  "en": "Zhang Qian",
+  "exam_freq": 2
+ },
+ {
+  "no": 207,
+  "category": "十、真题原文给定译法",
+  "cn": "活字印刷",
+  "en": "movable-type printing",
+  "exam_freq": 0
+ },
+ {
+  "no": 208,
+  "category": "十、真题原文给定译法",
+  "cn": "成语",
+  "en": "Chinese idioms",
+  "exam_freq": 6
+ },
+ {
+  "no": 209,
+  "category": "十、真题原文给定译法",
+  "cn": "方块字",
+  "en": "square characters",
+  "exam_freq": 0
+ },
+ {
+  "no": 210,
+  "category": "十、真题原文给定译法",
+  "cn": "荷花",
+  "en": "lotus flower",
+  "exam_freq": 6
+ },
+ {
+  "no": 211,
+  "category": "十、真题原文给定译法",
+  "cn": "取经",
+  "en": "to fetch Buddhist scriptures",
+  "exam_freq": 0
+ },
+ {
+  "no": 212,
+  "category": "十、真题原文给定译法",
+  "cn": "港珠澳大桥",
+  "en": "the Hong Kong-Zhuhai-Macau Bridge",
+  "exam_freq": 0
+ },
+ {
+  "no": 213,
+  "category": "十、真题原文给定译法",
+  "cn": "农村包围城市",
+  "en": "to besiege the cities from the countryside",
+  "exam_freq": 0
+ },
+ {
+  "no": 214,
+  "category": "十、真题原文给定译法",
+  "cn": "峡谷",
+  "en": "canyon",
+  "exam_freq": 2
+ },
+ {
+  "no": 215,
+  "category": "十一、补充·国家文化民俗",
+  "cn": "国家",
+  "en": "country; nation",
+  "exam_freq": 8
+ },
+ {
+  "no": 216,
+  "category": "十一、补充·国家文化民俗",
+  "cn": "中国政府",
+  "en": "the Chinese government",
+  "exam_freq": 2
+ },
+ {
+  "no": 217,
+  "category": "十一、补充·国家文化民俗",
+  "cn": "中式",
+  "en": "Chinese-style",
+  "exam_freq": 2
+ },
+ {
+  "no": 218,
+  "category": "十一、补充·国家文化民俗",
+  "cn": "习俗",
+  "en": "custom",
+  "exam_freq": 3
+ },
+ {
+  "no": 219,
+  "category": "十一、补充·国家文化民俗",
+  "cn": "新人",
+  "en": "the newly-weds",
+  "exam_freq": 2
+ },
+ {
+  "no": 220,
+  "category": "十一、补充·国家文化民俗",
+  "cn": "宾客",
+  "en": "guests",
+  "exam_freq": 2
+ },
+ {
+  "no": 221,
+  "category": "十一、补充·国家文化民俗",
+  "cn": "场地",
+  "en": "venue; site",
+  "exam_freq": 2
+ },
+ {
+  "no": 222,
+  "category": "十一、补充·国家文化民俗",
+  "cn": "红色",
+  "en": "red",
+  "exam_freq": 2
+ },
+ {
+  "no": 223,
+  "category": "十一、补充·国家文化民俗",
+  "cn": "浪漫",
+  "en": "romance; romantic",
+  "exam_freq": 2
+ },
+ {
+  "no": 224,
+  "category": "十一、补充·国家文化民俗",
+  "cn": "美好",
+  "en": "fine; happy",
+  "exam_freq": 2
+ },
+ {
+  "no": 225,
+  "category": "十一、补充·国家文化民俗",
+  "cn": "体验",
+  "en": "to experience",
+  "exam_freq": 2
+ },
+ {
+  "no": 226,
+  "category": "十一、补充·国家文化民俗",
+  "cn": "和平",
+  "en": "peace",
+  "exam_freq": 2
+ },
+ {
+  "no": 227,
+  "category": "十一、补充·国家文化民俗",
+  "cn": "风土人情",
+  "en": "local customs and practices",
+  "exam_freq": 2
+ },
+ {
+  "no": 228,
+  "category": "十一、补充·国家文化民俗",
+  "cn": "古老",
+  "en": "ancient; age-old",
+  "exam_freq": 2
+ },
+ {
+  "no": 229,
+  "category": "十一、补充·国家文化民俗",
+  "cn": "历史悠久",
+  "en": "have a long history",
+  "exam_freq": 2
+ },
+ {
+  "no": 230,
+  "category": "十一、补充·国家文化民俗",
+  "cn": "辉煌",
+  "en": "brilliant; glorious",
+  "exam_freq": 2
+ },
+ {
+  "no": 231,
+  "category": "十一、补充·国家文化民俗",
+  "cn": "珍贵",
+  "en": "precious; valuable",
+  "exam_freq": 2
+ },
+ {
+  "no": 232,
+  "category": "十一、补充·国家文化民俗",
+  "cn": "巨大贡献",
+  "en": "great/tremendous contribution",
+  "exam_freq": 2
+ },
+ {
+  "no": 233,
+  "category": "十一、补充·国家文化民俗",
+  "cn": "贡献",
+  "en": "contribution",
+  "exam_freq": 2
+ },
+ {
+  "no": 234,
+  "category": "十一、补充·国家文化民俗",
+  "cn": "主题",
+  "en": "theme; subject",
+  "exam_freq": 2
+ },
+ {
+  "no": 235,
+  "category": "十二、补充·经济科技航天",
+  "cn": "导航系统",
+  "en": "navigation system",
+  "exam_freq": 2
+ },
+ {
+  "no": 236,
+  "category": "十二、补充·经济科技航天",
+  "cn": "研发",
+  "en": "research and development",
+  "exam_freq": 2
+ },
+ {
+  "no": 237,
+  "category": "十二、补充·经济科技航天",
+  "cn": "人员",
+  "en": "personnel; staff",
+  "exam_freq": 2
+ },
+ {
+  "no": 238,
+  "category": "十二、补充·经济科技航天",
+  "cn": "数字",
+  "en": "digital",
+  "exam_freq": 2
+ },
+ {
+  "no": 239,
+  "category": "十二、补充·经济科技航天",
+  "cn": "数字技术",
+  "en": "digital technology",
+  "exam_freq": 0
+ },
+ {
+  "no": 240,
+  "category": "十二、补充·经济科技航天",
+  "cn": "研发人员",
+  "en": "R&D personnel",
+  "exam_freq": 0
+ },
+ {
+  "no": 241,
+  "category": "十二、补充·经济科技航天",
+  "cn": "宇航员",
+  "en": "astronaut",
+  "exam_freq": 2
+ },
+ {
+  "no": 242,
+  "category": "十二、补充·经济科技航天",
+  "cn": "探索",
+  "en": "to explore; exploration",
+  "exam_freq": 2
+ },
+ {
+  "no": 243,
+  "category": "十二、补充·经济科技航天",
+  "cn": "未来",
+  "en": "the future",
+  "exam_freq": 2
+ },
+ {
+  "no": 244,
+  "category": "十二、补充·经济科技航天",
+  "cn": "航运",
+  "en": "shipping",
+  "exam_freq": 2
+ },
+ {
+  "no": 245,
+  "category": "十二、补充·经济科技航天",
+  "cn": "深水港",
+  "en": "deep-water port",
+  "exam_freq": 2
+ },
+ {
+  "no": 246,
+  "category": "十二、补充·经济科技航天",
+  "cn": "组成部分",
+  "en": "component; part",
+  "exam_freq": 2
+ },
+ {
+  "no": 247,
+  "category": "十二、补充·经济科技航天",
+  "cn": "高度",
+  "en": "highly; height",
+  "exam_freq": 2
+ },
+ {
+  "no": 248,
+  "category": "十二、补充·经济科技航天",
+  "cn": "繁忙",
+  "en": "busy",
+  "exam_freq": 2
+ },
+ {
+  "no": 249,
+  "category": "十二、补充·经济科技航天",
+  "cn": "生产",
+  "en": "production; to produce",
+  "exam_freq": 2
+ },
+ {
+  "no": 250,
+  "category": "十二、补充·经济科技航天",
+  "cn": "商业",
+  "en": "commerce; business",
+  "exam_freq": 2
+ },
+ {
+  "no": 251,
+  "category": "十二、补充·经济科技航天",
+  "cn": "市场",
+  "en": "market",
+  "exam_freq": 2
+ },
+ {
+  "no": 252,
+  "category": "十二、补充·经济科技航天",
+  "cn": "商品",
+  "en": "commodity; goods",
+  "exam_freq": 2
+ },
+ {
+  "no": 253,
+  "category": "十二、补充·经济科技航天",
+  "cn": "科学",
+  "en": "science",
+  "exam_freq": 2
+ },
+ {
+  "no": 254,
+  "category": "十二、补充·经济科技航天",
+  "cn": "对外开放",
+  "en": "opening-up to the world",
+  "exam_freq": 2
+ },
+ {
+  "no": 255,
+  "category": "十二、补充·经济科技航天",
+  "cn": "城市化",
+  "en": "urbanization",
+  "exam_freq": 2
+ },
+ {
+  "no": 256,
+  "category": "十二、补充·经济科技航天",
+  "cn": "建造",
+  "en": "to build; construct",
+  "exam_freq": 2
+ },
+ {
+  "no": 257,
+  "category": "十二、补充·经济科技航天",
+  "cn": "建立",
+  "en": "to establish",
+  "exam_freq": 2
+ },
+ {
+  "no": 258,
+  "category": "十二、补充·经济科技航天",
+  "cn": "改进",
+  "en": "to improve",
+  "exam_freq": 2
+ },
+ {
+  "no": 259,
+  "category": "十三、补充·社会民生养老",
+  "cn": "人口老龄化",
+  "en": "population ageing",
+  "exam_freq": 2
+ },
+ {
+  "no": 260,
+  "category": "十三、补充·社会民生养老",
+  "cn": "居家",
+  "en": "home-based",
+  "exam_freq": 2
+ },
+ {
+  "no": 261,
+  "category": "十三、补充·社会民生养老",
+  "cn": "自助",
+  "en": "self-help",
+  "exam_freq": 2
+ },
+ {
+  "no": 262,
+  "category": "十三、补充·社会民生养老",
+  "cn": "家庭",
+  "en": "family",
+  "exam_freq": 2
+ },
+ {
+  "no": 263,
+  "category": "十三、补充·社会民生养老",
+  "cn": "逐步",
+  "en": "step by step; gradually",
+  "exam_freq": 2
+ },
+ {
+  "no": 264,
+  "category": "十三、补充·社会民生养老",
+  "cn": "舒适",
+  "en": "comfortable",
+  "exam_freq": 2
+ },
+ {
+  "no": 265,
+  "category": "十三、补充·社会民生养老",
+  "cn": "积极",
+  "en": "active; positive",
+  "exam_freq": 2
+ },
+ {
+  "no": 266,
+  "category": "十三、补充·社会民生养老",
+  "cn": "加大",
+  "en": "to increase; intensify",
+  "exam_freq": 2
+ },
+ {
+  "no": 267,
+  "category": "十三、补充·社会民生养老",
+  "cn": "支持",
+  "en": "support; to support",
+  "exam_freq": 2
+ },
+ {
+  "no": 268,
+  "category": "十三、补充·社会民生养老",
+  "cn": "团体",
+  "en": "group; organization",
+  "exam_freq": 2
+ },
+ {
+  "no": 269,
+  "category": "十三、补充·社会民生养老",
+  "cn": "大众",
+  "en": "the public; the masses",
+  "exam_freq": 2
+ },
+ {
+  "no": 270,
+  "category": "十三、补充·社会民生养老",
+  "cn": "稳定",
+  "en": "stable; stability",
+  "exam_freq": 2
+ },
+ {
+  "no": 271,
+  "category": "十三、补充·社会民生养老",
+  "cn": "开设",
+  "en": "to set up; offer",
+  "exam_freq": 2
+ },
+ {
+  "no": 272,
+  "category": "十三、补充·社会民生养老",
+  "cn": "免费",
+  "en": "free of charge",
+  "exam_freq": 2
+ },
+ {
+  "no": 273,
+  "category": "十三、补充·社会民生养老",
+  "cn": "公众",
+  "en": "the public",
+  "exam_freq": 2
+ },
+ {
+  "no": 274,
+  "category": "十三、补充·社会民生养老",
+  "cn": "开放",
+  "en": "to open",
+  "exam_freq": 2
+ },
+ {
+  "no": 275,
+  "category": "十三、补充·社会民生养老",
+  "cn": "参观",
+  "en": "to visit",
+  "exam_freq": 2
+ },
+ {
+  "no": 276,
+  "category": "十三、补充·社会民生养老",
+  "cn": "健身",
+  "en": "to keep fit; fitness",
+  "exam_freq": 2
+ },
+ {
+  "no": 277,
+  "category": "十三、补充·社会民生养老",
+  "cn": "学习",
+  "en": "to learn; study",
+  "exam_freq": 4
+ },
+ {
+  "no": 278,
+  "category": "十三、补充·社会民生养老",
+  "cn": "学生",
+  "en": "student",
+  "exam_freq": 2
+ },
+ {
+  "no": 279,
+  "category": "十三、补充·社会民生养老",
+  "cn": "教育",
+  "en": "education",
+  "exam_freq": 5
+ },
+ {
+  "no": 280,
+  "category": "十三、补充·社会民生养老",
+  "cn": "提高",
+  "en": "to raise; improve",
+  "exam_freq": 2
+ },
+ {
+  "no": 281,
+  "category": "十三、补充·社会民生养老",
+  "cn": "机会",
+  "en": "opportunity",
+  "exam_freq": 2
+ },
+ {
+  "no": 282,
+  "category": "十三、补充·社会民生养老",
+  "cn": "满足",
+  "en": "to satisfy; meet",
+  "exam_freq": 2
+ },
+ {
+  "no": 283,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "云南",
+  "en": "Yunnan",
+  "exam_freq": 7
+ },
+ {
+  "no": 284,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "上海",
+  "en": "Shanghai",
+  "exam_freq": 5
+ },
+ {
+  "no": 285,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "北京",
+  "en": "Beijing",
+  "exam_freq": 4
+ },
+ {
+  "no": 286,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "南京",
+  "en": "Nanjing",
+  "exam_freq": 3
+ },
+ {
+  "no": 287,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "洛阳",
+  "en": "Luoyang",
+  "exam_freq": 3
+ },
+ {
+  "no": 288,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "海南",
+  "en": "Hainan",
+  "exam_freq": 3
+ },
+ {
+  "no": 289,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "青海",
+  "en": "Qinghai",
+  "exam_freq": 3
+ },
+ {
+  "no": 290,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "西部",
+  "en": "the west; western part",
+  "exam_freq": 2
+ },
+ {
+  "no": 291,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "西南",
+  "en": "the southwest",
+  "exam_freq": 2
+ },
+ {
+  "no": 292,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "公里",
+  "en": "kilometre",
+  "exam_freq": 5
+ },
+ {
+  "no": 293,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "面积",
+  "en": "area",
+  "exam_freq": 2
+ },
+ {
+  "no": 294,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "万平方公里",
+  "en": "ten thousand square kilometres",
+  "exam_freq": 3
+ },
+ {
+  "no": 295,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "大部分",
+  "en": "most; the majority",
+  "exam_freq": 3
+ },
+ {
+  "no": 296,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "当地",
+  "en": "local",
+  "exam_freq": 3
+ },
+ {
+  "no": 297,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "各地",
+  "en": "various places",
+  "exam_freq": 2
+ },
+ {
+  "no": 298,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "国内外",
+  "en": "at home and abroad",
+  "exam_freq": 2
+ },
+ {
+  "no": 299,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "中外",
+  "en": "China and abroad",
+  "exam_freq": 2
+ },
+ {
+  "no": 300,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "欧洲",
+  "en": "Europe",
+  "exam_freq": 4
+ },
+ {
+  "no": 301,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "西亚",
+  "en": "West Asia",
+  "exam_freq": 2
+ },
+ {
+  "no": 302,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "东南亚",
+  "en": "Southeast Asia",
+  "exam_freq": 2
+ },
+ {
+  "no": 303,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "印度洋",
+  "en": "the Indian Ocean",
+  "exam_freq": 2
+ },
+ {
+  "no": 304,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "少数民族",
+  "en": "ethnic minority",
+  "exam_freq": 2
+ },
+ {
+  "no": 305,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "高山",
+  "en": "high mountains",
+  "exam_freq": 2
+ },
+ {
+  "no": 306,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "冰川",
+  "en": "glacier",
+  "exam_freq": 2
+ },
+ {
+  "no": 307,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "黄土",
+  "en": "loess",
+  "exam_freq": 2
+ },
+ {
+  "no": 308,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "农作物",
+  "en": "crop",
+  "exam_freq": 2
+ },
+ {
+  "no": 309,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "水稻",
+  "en": "rice",
+  "exam_freq": 2
+ },
+ {
+  "no": 310,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "农业",
+  "en": "agriculture",
+  "exam_freq": 5
+ },
+ {
+  "no": 311,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "生长",
+  "en": "to grow",
+  "exam_freq": 2
+ },
+ {
+  "no": 312,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "产量",
+  "en": "output; yield",
+  "exam_freq": 2
+ },
+ {
+  "no": 313,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "有机",
+  "en": "organic",
+  "exam_freq": 2
+ },
+ {
+  "no": 314,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "珍稀",
+  "en": "rare and precious",
+  "exam_freq": 2
+ },
+ {
+  "no": 315,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "物种",
+  "en": "species",
+  "exam_freq": 2
+ },
+ {
+  "no": 316,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "保护",
+  "en": "to protect; protection",
+  "exam_freq": 2
+ },
+ {
+  "no": 317,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "旅游业",
+  "en": "tourism industry",
+  "exam_freq": 2
+ },
+ {
+  "no": 318,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "目的地",
+  "en": "destination",
+  "exam_freq": 2
+ },
+ {
+  "no": 319,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "蓬勃发展",
+  "en": "to flourish; boom",
+  "exam_freq": 2
+ },
+ {
+  "no": 320,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "国际",
+  "en": "international",
+  "exam_freq": 5
+ },
+ {
+  "no": 321,
+  "category": "十四、补充·地理旅游自然",
+  "cn": "全国",
+  "en": "nationwide",
+  "exam_freq": 5
+ },
+ {
+  "no": 322,
+  "category": "十五、补充·历史人物文学",
+  "cn": "出使",
+  "en": "to be sent as an envoy",
+  "exam_freq": 2
+ },
+ {
+  "no": 323,
+  "category": "十五、补充·历史人物文学",
+  "cn": "开辟",
+  "en": "to open up; pioneer",
+  "exam_freq": 2
+ },
+ {
+  "no": 324,
+  "category": "十五、补充·历史人物文学",
+  "cn": "航海",
+  "en": "navigation; voyage",
+  "exam_freq": 2
+ },
+ {
+  "no": 325,
+  "category": "十五、补充·历史人物文学",
+  "cn": "远航",
+  "en": "long voyage",
+  "exam_freq": 2
+ },
+ {
+  "no": 326,
+  "category": "十五、补充·历史人物文学",
+  "cn": "船队",
+  "en": "fleet",
+  "exam_freq": 3
+ },
+ {
+  "no": 327,
+  "category": "十五、补充·历史人物文学",
+  "cn": "率领",
+  "en": "to lead",
+  "exam_freq": 3
+ },
+ {
+  "no": 328,
+  "category": "十五、补充·历史人物文学",
+  "cn": "西域",
+  "en": "the Western Regions",
+  "exam_freq": 4
+ },
+ {
+  "no": 329,
+  "category": "十五、补充·历史人物文学",
+  "cn": "丝绸之路",
+  "en": "the Silk Road",
+  "exam_freq": 3
+ },
+ {
+  "no": 330,
+  "category": "十五、补充·历史人物文学",
+  "cn": "后人",
+  "en": "later generations",
+  "exam_freq": 2
+ },
+ {
+  "no": 331,
+  "category": "十五、补充·历史人物文学",
+  "cn": "游记",
+  "en": "travel notes",
+  "exam_freq": 2
+ },
+ {
+  "no": 332,
+  "category": "十五、补充·历史人物文学",
+  "cn": "唐代",
+  "en": "the Tang Dynasty",
+  "exam_freq": 2
+ },
+ {
+  "no": 333,
+  "category": "十五、补充·历史人物文学",
+  "cn": "诗人",
+  "en": "poet",
+  "exam_freq": 3
+ },
+ {
+  "no": 334,
+  "category": "十五、补充·历史人物文学",
+  "cn": "文学作品",
+  "en": "literary works",
+  "exam_freq": 2
+ },
+ {
+  "no": 335,
+  "category": "十五、补充·历史人物文学",
+  "cn": "小说",
+  "en": "novel",
+  "exam_freq": 14
+ },
+ {
+  "no": 336,
+  "category": "十五、补充·历史人物文学",
+  "cn": "描写",
+  "en": "to depict",
+  "exam_freq": 0
+ },
+ {
+  "no": 337,
+  "category": "十五、补充·历史人物文学",
+  "cn": "描绘",
+  "en": "to portray; depict",
+  "exam_freq": 2
+ },
+ {
+  "no": 338,
+  "category": "十五、补充·历史人物文学",
+  "cn": "描述",
+  "en": "to describe",
+  "exam_freq": 2
+ },
+ {
+  "no": 339,
+  "category": "十五、补充·历史人物文学",
+  "cn": "创作",
+  "en": "to create",
+  "exam_freq": 4
+ },
+ {
+  "no": 340,
+  "category": "十五、补充·历史人物文学",
+  "cn": "四大",
+  "en": "the four great ...",
+  "exam_freq": 3
+ },
+ {
+  "no": 341,
+  "category": "十五、补充·历史人物文学",
+  "cn": "时期",
+  "en": "period",
+  "exam_freq": 5
+ },
+ {
+  "no": 342,
+  "category": "十五、补充·历史人物文学",
+  "cn": "当时",
+  "en": "at that time",
+  "exam_freq": 2
+ },
+ {
+  "no": 343,
+  "category": "十五、补充·历史人物文学",
+  "cn": "期间",
+  "en": "during",
+  "exam_freq": 3
+ },
+ {
+  "no": 344,
+  "category": "十五、补充·历史人物文学",
+  "cn": "影响",
+  "en": "influence; to influence",
+  "exam_freq": 5
+ },
+ {
+  "no": 345,
+  "category": "十五、补充·历史人物文学",
+  "cn": "作用",
+  "en": "role; function",
+  "exam_freq": 4
+ },
+ {
+  "no": 346,
+  "category": "十五、补充·历史人物文学",
+  "cn": "起到",
+  "en": "to play (a role)",
+  "exam_freq": 2
+ },
+ {
+  "no": 347,
+  "category": "十五、补充·历史人物文学",
+  "cn": "事件",
+  "en": "event",
+  "exam_freq": 3
+ },
+ {
+  "no": 348,
+  "category": "十五、补充·历史人物文学",
+  "cn": "观看",
+  "en": "to watch",
+  "exam_freq": 2
+ },
+ {
+  "no": 349,
+  "category": "十五、补充·历史人物文学",
+  "cn": "欣赏",
+  "en": "to appreciate",
+  "exam_freq": 3
+ },
+ {
+  "no": 350,
+  "category": "十五、补充·历史人物文学",
+  "cn": "含义",
+  "en": "meaning; implication",
+  "exam_freq": 2
+ },
+ {
+  "no": 351,
+  "category": "十六、补充·建筑交通桥梁",
+  "cn": "南京长江大桥",
+  "en": "the Nanjing Yangtze River Bridge",
+  "exam_freq": 2
+ },
+ {
+  "no": 352,
+  "category": "十六、补充·建筑交通桥梁",
+  "cn": "铁路桥",
+  "en": "railway bridge",
+  "exam_freq": 2
+ },
+ {
+  "no": 353,
+  "category": "十六、补充·建筑交通桥梁",
+  "cn": "天安门广场",
+  "en": "Tian'anmen Square",
+  "exam_freq": 2
+ },
+ {
+  "no": 354,
+  "category": "十六、补充·建筑交通桥梁",
+  "cn": "柱子",
+  "en": "pillar; column",
+  "exam_freq": 2
+ },
+ {
+  "no": 355,
+  "category": "十六、补充·建筑交通桥梁",
+  "cn": "狮子",
+  "en": "lion",
+  "exam_freq": 2
+ },
+ {
+  "no": 356,
+  "category": "十六、补充·建筑交通桥梁",
+  "cn": "石狮",
+  "en": "stone lion",
+  "exam_freq": 4
+ },
+ {
+  "no": 357,
+  "category": "十六、补充·建筑交通桥梁",
+  "cn": "跨度",
+  "en": "span",
+  "exam_freq": 2
+ },
+ {
+  "no": 358,
+  "category": "十六、补充·建筑交通桥梁",
+  "cn": "建于",
+  "en": "to be built in",
+  "exam_freq": 2
+ },
+ {
+  "no": 359,
+  "category": "十六、补充·建筑交通桥梁",
+  "cn": "公认",
+  "en": "universally acknowledged",
+  "exam_freq": 2
+ },
+ {
+  "no": 360,
+  "category": "十六、补充·建筑交通桥梁",
+  "cn": "连接",
+  "en": "to connect",
+  "exam_freq": 2
+ },
+ {
+  "no": 361,
+  "category": "十六、补充·建筑交通桥梁",
+  "cn": "洪水",
+  "en": "flood",
+  "exam_freq": 2
+ },
+ {
+  "no": 362,
+  "category": "十六、补充·建筑交通桥梁",
+  "cn": "节省",
+  "en": "to save",
+  "exam_freq": 2
+ },
+ {
+  "no": 363,
+  "category": "十六、补充·建筑交通桥梁",
+  "cn": "建筑",
+  "en": "building; architecture",
+  "exam_freq": 2
+ },
+ {
+  "no": 364,
+  "category": "十六、补充·建筑交通桥梁",
+  "cn": "设施",
+  "en": "facility",
+  "exam_freq": 2
+ },
+ {
+  "no": 365,
+  "category": "十六、补充·建筑交通桥梁",
+  "cn": "中心",
+  "en": "centre",
+  "exam_freq": 5
+ },
+ {
+  "no": 366,
+  "category": "十六、补充·建筑交通桥梁",
+  "cn": "区域",
+  "en": "region",
+  "exam_freq": 3
+ },
+ {
+  "no": 367,
+  "category": "十六、补充·建筑交通桥梁",
+  "cn": "分钟",
+  "en": "minute",
+  "exam_freq": 3
+ },
+ {
+  "no": 368,
+  "category": "十六、补充·建筑交通桥梁",
+  "cn": "小时",
+  "en": "hour",
+  "exam_freq": 4
+ },
+ {
+  "no": 369,
+  "category": "十六、补充·建筑交通桥梁",
+  "cn": "数量",
+  "en": "quantity; number",
+  "exam_freq": 5
+ },
+ {
+  "no": 370,
+  "category": "十六、补充·建筑交通桥梁",
+  "cn": "人数",
+  "en": "number of people",
+  "exam_freq": 4
+ },
+ {
+  "no": 371,
+  "category": "十六、补充·建筑交通桥梁",
+  "cn": "快速增长",
+  "en": "rapid growth",
+  "exam_freq": 2
+ },
+ {
+  "no": 372,
+  "category": "十六、补充·建筑交通桥梁",
+  "cn": "超过",
+  "en": "to exceed; surpass",
+  "exam_freq": 2
+ },
+ {
+  "no": 373,
+  "category": "十六、补充·建筑交通桥梁",
+  "cn": "广泛应用",
+  "en": "to be widely used",
+  "exam_freq": 0
+ },
+ {
+  "no": 374,
+  "category": "十六、补充·建筑交通桥梁",
+  "cn": "在线",
+  "en": "online",
+  "exam_freq": 2
+ },
+ {
+  "no": 375,
+  "category": "十六、补充·建筑交通桥梁",
+  "cn": "展品",
+  "en": "exhibit",
+  "exam_freq": 2
+ },
+ {
+  "no": 376,
+  "category": "十六、补充·建筑交通桥梁",
+  "cn": "观赏",
+  "en": "to view; admire",
+  "exam_freq": 2
+ },
+ {
+  "no": 377,
+  "category": "高频搭配/词组",
+  "cn": "自古以来",
+  "en": "since ancient times",
+  "exam_freq": ""
+ },
+ {
+  "no": 378,
+  "category": "高频搭配/词组",
+  "cn": "举世闻名",
+  "en": "world-renowned",
+  "exam_freq": ""
+ },
+ {
+  "no": 379,
+  "category": "高频搭配/词组",
+  "cn": "有着悠久的历史",
+  "en": "have a long history",
+  "exam_freq": ""
+ },
+ {
+  "no": 380,
+  "category": "高频搭配/词组",
+  "cn": "作为……的象征",
+  "en": "as a symbol of ...",
+  "exam_freq": ""
+ },
+ {
+  "no": 381,
+  "category": "高频搭配/词组",
+  "cn": "被列为世界文化遗产",
+  "en": "be listed as a World Cultural Heritage site",
+  "exam_freq": ""
+ },
+ {
+  "no": 382,
+  "category": "高频搭配/词组",
+  "cn": "随着经济的发展",
+  "en": "with the development of the economy",
+  "exam_freq": ""
+ },
+ {
+  "no": 383,
+  "category": "高频搭配/词组",
+  "cn": "人民生活水平不断提高",
+  "en": "people's living standards keep improving",
+  "exam_freq": ""
+ },
+ {
+  "no": 384,
+  "category": "高频搭配/词组",
+  "cn": "越来越多的人",
+  "en": "an increasing number of people",
+  "exam_freq": ""
+ },
+ {
+  "no": 385,
+  "category": "高频搭配/词组",
+  "cn": "发挥重要作用",
+  "en": "play an important role",
+  "exam_freq": ""
+ },
+ {
+  "no": 386,
+  "category": "高频搭配/词组",
+  "cn": "做出巨大贡献",
+  "en": "make great contributions",
+  "exam_freq": ""
+ },
+ {
+  "no": 387,
+  "category": "高频搭配/词组",
+  "cn": "引起广泛关注",
+  "en": "attract/arouse wide attention",
+  "exam_freq": ""
+ },
+ {
+  "no": 388,
+  "category": "高频搭配/词组",
+  "cn": "受到普遍欢迎",
+  "en": "be widely welcomed",
+  "exam_freq": ""
+ },
+ {
+  "no": 389,
+  "category": "高频搭配/词组",
+  "cn": "在……方面取得成就",
+  "en": "make achievements in ...",
+  "exam_freq": ""
+ },
+ {
+  "no": 390,
+  "category": "高频搭配/词组",
+  "cn": "位于中国南部",
+  "en": "be located in southern China",
+  "exam_freq": ""
+ },
+ {
+  "no": 391,
+  "category": "高频搭配/词组",
+  "cn": "拥有丰富的资源",
+  "en": "be rich in resources",
+  "exam_freq": ""
+ },
+ {
+  "no": 392,
+  "category": "高频搭配/词组",
+  "cn": "吸引大量游客",
+  "en": "attract a large number of tourists",
+  "exam_freq": ""
+ },
+ {
+  "no": 393,
+  "category": "高频搭配/词组",
+  "cn": "具有重要意义",
+  "en": "be of great significance",
+  "exam_freq": ""
+ },
+ {
+  "no": 394,
+  "category": "高频搭配/词组",
+  "cn": "象征着……的精神",
+  "en": "symbolize the spirit of ...",
+  "exam_freq": ""
+ },
+ {
+  "no": 395,
+  "category": "高频搭配/词组",
+  "cn": "有助于",
+  "en": "contribute to; help to",
+  "exam_freq": ""
+ },
+ {
+  "no": 396,
+  "category": "高频搭配/词组",
+  "cn": "致力于",
+  "en": "be committed/devoted to",
+  "exam_freq": ""
+ },
+ {
+  "no": 397,
+  "category": "高频搭配/词组",
+  "cn": "据估计",
+  "en": "it is estimated that",
+  "exam_freq": ""
+ },
+ {
+  "no": 398,
+  "category": "高频搭配/词组",
+  "cn": "众所周知",
+  "en": "it is well known that",
+  "exam_freq": ""
+ },
+ {
+  "no": 399,
+  "category": "高频搭配/词组",
+  "cn": "不仅……而且……",
+  "en": "not only ... but also ...",
+  "exam_freq": ""
+ },
+ {
+  "no": 400,
+  "category": "高频搭配/词组",
+  "cn": "无论……都",
+  "en": "no matter ...; regardless of",
+  "exam_freq": ""
+ },
+ {
+  "no": 401,
+  "category": "高频搭配/词组",
+  "cn": "与……密切相关",
+  "en": "be closely related to",
+  "exam_freq": ""
+ },
+ {
+  "no": 402,
+  "category": "高频搭配/词组",
+  "cn": "满足……的需求",
+  "en": "meet the demand/needs of",
+  "exam_freq": ""
+ },
+ {
+  "no": 403,
+  "category": "高频搭配/词组",
+  "cn": "应对挑战",
+  "en": "cope with/meet challenges",
+  "exam_freq": ""
+ },
+ {
+  "no": 404,
+  "category": "高频搭配/词组",
+  "cn": "提高生活质量",
+  "en": "improve the quality of life",
+  "exam_freq": ""
+ },
+ {
+  "no": 405,
+  "category": "高频搭配/词组",
+  "cn": "促进经济增长",
+  "en": "promote economic growth",
+  "exam_freq": ""
+ },
+ {
+  "no": 406,
+  "category": "高频搭配/词组",
+  "cn": "加大投入",
+  "en": "increase investment",
+  "exam_freq": ""
+ },
+ {
+  "no": 407,
+  "category": "高频搭配/词组",
+  "cn": "逐步扩大",
+  "en": "gradually expand",
+  "exam_freq": ""
+ },
+ {
+  "no": 408,
+  "category": "高频搭配/词组",
+  "cn": "广泛应用于",
+  "en": "be widely applied/used in",
+  "exam_freq": ""
+ },
+ {
+  "no": 409,
+  "category": "高频搭配/词组",
+  "cn": "世界上规模最大的之一",
+  "en": "one of the largest in the world",
+  "exam_freq": ""
+ },
+ {
+  "no": 410,
+  "category": "高频搭配/词组",
+  "cn": "独立自主",
+  "en": "independent; self-reliant",
+  "exam_freq": ""
+ },
+ {
+  "no": 411,
+  "category": "高频搭配/词组",
+  "cn": "享有盛誉",
+  "en": "enjoy a high reputation",
+  "exam_freq": ""
+ },
+ {
+  "no": 412,
+  "category": "高频搭配/词组",
+  "cn": "深受人们喜爱",
+  "en": "be deeply loved by people",
+  "exam_freq": ""
+ },
+ {
+  "no": 413,
+  "category": "高频搭配/词组",
+  "cn": "代代相传",
+  "en": "be passed down from generation to generation",
+  "exam_freq": ""
+ },
+ {
+  "no": 414,
+  "category": "高频搭配/词组",
+  "cn": "源远流长",
+  "en": "have a long history; date back to ancient times",
+  "exam_freq": ""
+ },
+ {
+  "no": 415,
+  "category": "高频搭配/词组",
+  "cn": "博大精深",
+  "en": "extensive and profound",
+  "exam_freq": ""
+ },
+ {
+  "no": 416,
+  "category": "高频搭配/词组",
+  "cn": "名胜古迹",
+  "en": "scenic spots and historical sites",
+  "exam_freq": ""
+ },
+ {
+  "no": 417,
+  "category": "高频搭配/词组",
+  "cn": "传统节日",
+  "en": "traditional festival",
+  "exam_freq": ""
+ },
+ {
+  "no": 418,
+  "category": "高频搭配/词组",
+  "cn": "文化交流",
+  "en": "cultural exchange",
+  "exam_freq": ""
+ },
+ {
+  "no": 419,
+  "category": "高频搭配/词组",
+  "cn": "可持续发展",
+  "en": "sustainable development",
+  "exam_freq": ""
+ },
+ {
+  "no": 420,
+  "category": "高频搭配/词组",
+  "cn": "综合国力",
+  "en": "overall national strength",
+  "exam_freq": ""
+ },
+ {
+  "no": 421,
+  "category": "高频搭配/词组",
+  "cn": "人工智能",
+  "en": "artificial intelligence",
+  "exam_freq": ""
+ },
+ {
+  "no": 422,
+  "category": "高频搭配/词组",
+  "cn": "数字技术",
+  "en": "digital technology",
+  "exam_freq": ""
+ },
+ {
+  "no": 423,
+  "category": "高频搭配/词组",
+  "cn": "碳排放",
+  "en": "carbon emission",
+  "exam_freq": ""
+ },
+ {
+  "no": 424,
+  "category": "高频搭配/词组",
+  "cn": "远程操控",
+  "en": "remote control",
+  "exam_freq": ""
+ },
+ {
+  "no": 425,
+  "category": "高频搭配/词组",
+  "cn": "全球覆盖",
+  "en": "global coverage",
+  "exam_freq": ""
+ },
+ {
+  "no": 426,
+  "category": "高频搭配/词组",
+  "cn": "高精度定位",
+  "en": "high-precision positioning",
+  "exam_freq": ""
+ },
+ {
+  "no": 427,
+  "category": "高频搭配/词组",
+  "cn": "不间断运作",
+  "en": "operate around the clock",
+  "exam_freq": ""
+ },
+ {
+  "no": 428,
+  "category": "高频搭配/词组",
+  "cn": "举世瞩目",
+  "en": "attract worldwide attention",
+  "exam_freq": ""
+ },
+ {
+  "no": 429,
+  "category": "高频搭配/词组",
+  "cn": "家喻户晓",
+  "en": "be a household name",
+  "exam_freq": ""
+ },
+ {
+  "no": 430,
+  "category": "高频搭配/词组",
+  "cn": "脱颖而出",
+  "en": "stand out",
+  "exam_freq": ""
+ },
+ {
+  "no": 431,
+  "category": "高频搭配/词组",
+  "cn": "供不应求",
+  "en": "demand exceeds supply",
+  "exam_freq": ""
+ },
+ {
+  "no": 432,
+  "category": "高频搭配/词组",
+  "cn": "与日俱增",
+  "en": "increase day by day",
+  "exam_freq": ""
+ },
+ {
+  "no": 433,
+  "category": "高频搭配/词组",
+  "cn": "不可或缺",
+  "en": "indispensable",
+  "exam_freq": ""
+ },
+ {
+  "no": 434,
+  "category": "高频搭配/词组",
+  "cn": "丰富多彩",
+  "en": "rich and varied; colourful",
+  "exam_freq": ""
+ },
+ {
+  "no": 435,
+  "category": "高频搭配/词组",
+  "cn": "独一无二",
+  "en": "unique; one of a kind",
+  "exam_freq": ""
+ },
+ {
+  "no": 436,
+  "category": "高频搭配/词组",
+  "cn": "举足轻重",
+  "en": "play a decisive role",
+  "exam_freq": ""
+ },
+ {
+  "no": 437,
+  "category": "高频搭配/词组",
+  "cn": "日新月异",
+  "en": "change rapidly with each passing day",
+  "exam_freq": ""
+ },
+ {
+  "no": 438,
+  "category": "高频搭配/词组",
+  "cn": "精益求精",
+  "en": "keep improving; strive for perfection",
+  "exam_freq": ""
+ },
+ {
+  "no": 439,
+  "category": "高频搭配/词组",
+  "cn": "齐心协力",
+  "en": "work together; make concerted efforts",
+  "exam_freq": ""
+ },
+ {
+  "no": 440,
+  "category": "高频搭配/词组",
+  "cn": "供人欣赏",
+  "en": "for people to appreciate",
+  "exam_freq": ""
+ },
+ {
+  "no": 441,
+  "category": "高频搭配/词组",
+  "cn": "造型优美",
+  "en": "be elegant in shape",
+  "exam_freq": ""
+ },
+ {
+  "no": 442,
+  "category": "高频搭配/词组",
+  "cn": "做工精良",
+  "en": "be exquisitely made",
+  "exam_freq": ""
+ },
+ {
+  "no": 443,
+  "category": "高频搭配/词组",
+  "cn": "艺术价值",
+  "en": "artistic value",
+  "exam_freq": ""
+ },
+ {
+  "no": 444,
+  "category": "高频搭配/词组",
+  "cn": "实用功能",
+  "en": "practical function",
+  "exam_freq": ""
+ },
+ {
+  "no": 445,
+  "category": "高频搭配/词组",
+  "cn": "文化符号",
+  "en": "cultural symbol",
+  "exam_freq": ""
+ },
+ {
+  "no": 446,
+  "category": "高频搭配/词组",
+  "cn": "生命力",
+  "en": "vitality",
+  "exam_freq": ""
+ },
+ {
+  "no": 447,
+  "category": "高频搭配/词组",
+  "cn": "适应能力",
+  "en": "adaptability",
+  "exam_freq": ""
+ },
+ {
+  "no": 448,
+  "category": "高频搭配/词组",
+  "cn": "坚韧不拔",
+  "en": "persevering; indomitable",
+  "exam_freq": ""
+ },
+ {
+  "no": 449,
+  "category": "高频搭配/词组",
+  "cn": "正直的品格",
+  "en": "upright character",
+  "exam_freq": ""
+ },
+ {
+  "no": 450,
+  "category": "高频搭配/词组",
+  "cn": "广泛认可",
+  "en": "wide recognition",
+  "exam_freq": ""
+ },
+ {
+  "no": 451,
+  "category": "高频搭配/词组",
+  "cn": "优质服务",
+  "en": "high-quality service",
+  "exam_freq": ""
+ },
+ {
+  "no": 452,
+  "category": "高频搭配/词组",
+  "cn": "重大成就",
+  "en": "major achievement",
+  "exam_freq": ""
+ },
+ {
+  "no": 453,
+  "category": "高频搭配/词组",
+  "cn": "科技成就",
+  "en": "scientific and technological achievement",
+  "exam_freq": ""
+ },
+ {
+  "no": 454,
+  "category": "高频搭配/词组",
+  "cn": "不懈努力",
+  "en": "unremitting efforts",
+  "exam_freq": ""
+ },
+ {
+  "no": 455,
+  "category": "高频搭配/词组",
+  "cn": "攻克难题",
+  "en": "overcome difficulties/problems",
+  "exam_freq": ""
+ },
+ {
+  "no": 456,
+  "category": "高频搭配/词组",
+  "cn": "少数几个国家之一",
+  "en": "one of the few countries",
+  "exam_freq": ""
+ },
+ {
+  "no": 457,
+  "category": "高频搭配/词组",
+  "cn": "交通运输",
+  "en": "transportation",
+  "exam_freq": ""
+ },
+ {
+  "no": 458,
+  "category": "高频搭配/词组",
+  "cn": "灾害救援",
+  "en": "disaster relief",
+  "exam_freq": ""
+ },
+ {
+  "no": 459,
+  "category": "高频搭配/词组",
+  "cn": "天气预报",
+  "en": "weather forecast",
+  "exam_freq": ""
+ },
+ {
+  "no": 460,
+  "category": "高频搭配/词组",
+  "cn": "公共安全",
+  "en": "public security",
+  "exam_freq": ""
+ },
+ {
+  "no": 461,
+  "category": "高频搭配/词组",
+  "cn": "用工成本",
+  "en": "labour cost",
+  "exam_freq": ""
+ },
+ {
+  "no": 462,
+  "category": "高频搭配/词组",
+  "cn": "管理系统",
+  "en": "management system",
+  "exam_freq": ""
+ },
+ {
+  "no": 463,
+  "category": "高频搭配/词组",
+  "cn": "大型设备",
+  "en": "large equipment",
+  "exam_freq": ""
+ },
+ {
+  "no": 464,
+  "category": "高频搭配/词组",
+  "cn": "全面建成",
+  "en": "be fully completed",
+  "exam_freq": ""
+ },
+ {
+  "no": 465,
+  "category": "高频搭配/词组",
+  "cn": "稳步推进",
+  "en": "advance steadily",
+  "exam_freq": ""
+ },
+ {
+  "no": 466,
+  "category": "高频搭配/词组",
+  "cn": "基础设施",
+  "en": "infrastructure",
+  "exam_freq": ""
+ },
+ {
+  "no": 467,
+  "category": "高频搭配/词组",
+  "cn": "创新发展",
+  "en": "innovation-driven development",
+  "exam_freq": ""
+ },
+ {
+  "no": 468,
+  "category": "高频搭配/词组",
+  "cn": "写下辉煌一页",
+  "en": "write a glorious chapter",
+  "exam_freq": ""
+ },
+ {
+  "no": 469,
+  "category": "高频搭配/词组",
+  "cn": "人类文明",
+  "en": "human civilization",
+  "exam_freq": ""
+ },
+ {
+  "no": 470,
+  "category": "高频搭配/词组",
+  "cn": "迈得更稳更远",
+  "en": "go steadier and further",
+  "exam_freq": ""
+ },
+ {
+  "no": 471,
+  "category": "高频搭配/词组",
+  "cn": "精心装饰",
+  "en": "be carefully decorated",
+  "exam_freq": ""
+ },
+ {
+  "no": 472,
+  "category": "高频搭配/词组",
+  "cn": "设宴招待",
+  "en": "hold a banquet to entertain",
+  "exam_freq": ""
+ },
+ {
+  "no": 473,
+  "category": "高频搭配/词组",
+  "cn": "敬酒致谢",
+  "en": "propose a toast to express thanks",
+  "exam_freq": ""
+ },
+ {
+  "no": 474,
+  "category": "高频搭配/词组",
+  "cn": "钟情于",
+  "en": "be fond of; have a special liking for",
+  "exam_freq": ""
+ },
+ {
+  "no": 475,
+  "category": "高频搭配/词组",
+  "cn": "沿用至今",
+  "en": "be in use up to now",
+  "exam_freq": ""
+ },
+ {
+  "no": 476,
+  "category": "高频句型",
+  "cn": "中国是……的国家",
+  "en": "China is a country that/where ...",
+  "exam_freq": ""
+ },
+ {
+  "no": 477,
+  "category": "高频句型",
+  "cn": "……起源于中国",
+  "en": "... originated in China",
+  "exam_freq": ""
+ },
+ {
+  "no": 478,
+  "category": "高频句型",
+  "cn": "……可以追溯到……",
+  "en": "... can date/be traced back to ...",
+  "exam_freq": ""
+ },
+ {
+  "no": 479,
+  "category": "高频句型",
+  "cn": "……是中国最……之一",
+  "en": "... is one of the most ... in China",
+  "exam_freq": ""
+ },
+ {
+  "no": 480,
+  "category": "高频句型",
+  "cn": "自从……以来，……发生了巨大变化",
+  "en": "Since ..., great changes have taken place in ...",
+  "exam_freq": ""
+ },
+ {
+  "no": 481,
+  "category": "高频句型",
+  "cn": "为了……，政府采取了一系列措施",
+  "en": "In order to ..., the government has taken a series of measures.",
+  "exam_freq": ""
+ },
+ {
+  "no": 482,
+  "category": "高频句型",
+  "cn": "随着……的到来，……",
+  "en": "With the arrival of ..., ...",
+  "exam_freq": ""
+ },
+ {
+  "no": 483,
+  "category": "高频句型",
+  "cn": "据报道/据估计，……",
+  "en": "It is reported/estimated that ...",
+  "exam_freq": ""
+ },
+ {
+  "no": 484,
+  "category": "高频句型",
+  "cn": "正是……使得……",
+  "en": "It is ... that makes ...",
+  "exam_freq": ""
+ },
+ {
+  "no": 485,
+  "category": "高频句型",
+  "cn": "不仅在国内，而且在国际上……",
+  "en": "not only at home but also abroad ...",
+  "exam_freq": ""
+ },
+ {
+  "no": 486,
+  "category": "高频句型",
+  "cn": "无论……，……都……",
+  "en": "No matter how ..., ... always ...",
+  "exam_freq": ""
+ },
+ {
+  "no": 487,
+  "category": "高频句型",
+  "cn": "……越来越受到人们的重视",
+  "en": "... has received increasing attention",
+  "exam_freq": ""
+ },
+ {
+  "no": 488,
+  "category": "高频句型",
+  "cn": "……被认为是……",
+  "en": "... is regarded/considered as ...",
+  "exam_freq": ""
+ },
+ {
+  "no": 489,
+  "category": "高频句型",
+  "cn": "……象征着中华民族的……",
+  "en": "... symbolizes the ... of the Chinese nation",
+  "exam_freq": ""
+ },
+ {
+  "no": 490,
+  "category": "高频句型",
+  "cn": "如今，……已成为……",
+  "en": "Nowadays, ... has become ...",
+  "exam_freq": ""
+ },
+ {
+  "no": 491,
+  "category": "高频句型",
+  "cn": "未来，……将……",
+  "en": "In the future, ... will ...",
+  "exam_freq": ""
+ },
+ {
+  "no": 492,
+  "category": "高频句型",
+  "cn": "……不但历史悠久，而且……",
+  "en": "... not only has a long history but also ...",
+  "exam_freq": ""
+ },
+ {
+  "no": 493,
+  "category": "高频句型",
+  "cn": "中国政府高度重视……",
+  "en": "The Chinese government attaches great importance to ...",
+  "exam_freq": ""
+ },
+ {
+  "no": 494,
+  "category": "高频句型",
+  "cn": "……在世界上享有盛誉",
+  "en": "... enjoys a high reputation in the world",
+  "exam_freq": ""
+ },
+ {
+  "no": 495,
+  "category": "高频句型",
+  "cn": "经过多年的发展，……",
+  "en": "After years of development, ...",
+  "exam_freq": ""
+ },
+ {
+  "no": 496,
+  "category": "高频句型",
+  "cn": "……不仅推动了经济，也促进了……",
+  "en": "... has not only boosted the economy but also promoted ...",
+  "exam_freq": ""
+ },
+ {
+  "no": 497,
+  "category": "高频句型",
+  "cn": "值得一提的是，……",
+  "en": "It is worth mentioning that ...",
+  "exam_freq": ""
+ },
+ {
+  "no": 498,
+  "category": "高频句型",
+  "cn": "正如人们所说，……",
+  "en": "As the saying goes, ...",
+  "exam_freq": ""
+ },
+ {
+  "no": 499,
+  "category": "高频句型",
+  "cn": "可以毫不夸张地说，……",
+  "en": "It is no exaggeration to say that ...",
+  "exam_freq": ""
+ },
+ {
+  "no": 500,
+  "category": "高频句型",
+  "cn": "……在很大程度上取决于……",
+  "en": "... depends largely on ...",
+  "exam_freq": ""
+ }
+]

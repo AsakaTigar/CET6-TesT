@@ -1,0 +1,501 @@
+﻿序号,类别,中文,标准英译,真题词频
+1,一、国家·文化·传统,中国,China,108
+2,一、国家·文化·传统,中华民族,the Chinese nation,5
+3,一、国家·文化·传统,文化,culture,12
+4,一、国家·文化·传统,文明,civilization,0
+5,一、国家·文化·传统,传统,tradition; traditional,8
+6,一、国家·文化·传统,历史,history,19
+7,一、国家·文化·传统,习俗,custom,3
+8,一、国家·文化·传统,象征,symbol; to symbolize,6
+9,一、国家·文化·传统,中华文化,Chinese culture,0
+10,一、国家·文化·传统,民族,nation; ethnic group,2
+11,一、国家·文化·传统,古代,ancient times,2
+12,一、国家·文化·传统,悠久,long-standing; time-honoured,0
+13,一、国家·文化·传统,遗产,heritage,0
+14,一、国家·文化·传统,价值,value,0
+15,一、国家·文化·传统,精神,spirit,0
+16,一、国家·文化·传统,繁荣,prosperity; to flourish,5
+17,一、国家·文化·传统,伟大,great,4
+18,一、国家·文化·传统,独特,unique,5
+19,一、国家·文化·传统,丰富,rich; abundant,6
+20,一、国家·文化·传统,著名,famous; renowned,6
+21,一、国家·文化·传统,被誉为,be hailed/known as,5
+22,一、国家·文化·传统,自古以来,since ancient times,3
+23,二、经济·科技·发展,经济,economy,14
+24,二、经济·科技·发展,发展,development; to develop,17
+25,二、经济·科技·发展,增长,growth; to grow,6
+26,二、经济·科技·发展,增加,to increase,9
+27,二、经济·科技·发展,建设,construction; to build,7
+28,二、经济·科技·发展,工程,project; engineering,3
+29,二、经济·科技·发展,技术,technology,3
+30,二、经济·科技·发展,系统,system,6
+31,二、经济·科技·发展,设计,design; to design,5
+32,二、经济·科技·发展,先进,advanced,3
+33,二、经济·科技·发展,迅速,rapid; rapidly,6
+34,二、经济·科技·发展,现代化,modernization,0
+35,二、经济·科技·发展,创新,innovation,0
+36,二、经济·科技·发展,产业,industry,2
+37,二、经济·科技·发展,企业,enterprise,0
+38,二、经济·科技·发展,北斗,Beidou (Navigation Satellite System),4
+39,二、经济·科技·发展,太空,space,3
+40,二、经济·科技·发展,航天,aerospace; space flight,0
+41,二、经济·科技·发展,卫星,satellite,0
+42,二、经济·科技·发展,全球,global; the whole world,6
+43,二、经济·科技·发展,覆盖,to cover,3
+44,二、经济·科技·发展,推进,to advance/promote,4
+45,二、经济·科技·发展,持续,continuous; sustained,4
+46,二、经济·科技·发展,促进,to promote,4
+47,二、经济·科技·发展,改善,to improve,4
+48,二、经济·科技·发展,提供,to provide,7
+49,三、社会·民生·养老,社会,society; social,11
+50,三、社会·民生·养老,政府,government,10
+51,三、社会·民生·养老,人口,population,5
+52,三、社会·民生·养老,养老,elderly care; pension,16
+53,三、社会·民生·养老,老年人,the elderly; senior citizens,8
+54,三、社会·民生·养老,老龄化,ageing (of population),3
+55,三、社会·民生·养老,社区,community,3
+56,三、社会·民生·养老,社会保障,social security,3
+57,三、社会·民生·养老,服务,service,7
+58,三、社会·民生·养老,服务质量,service quality,3
+59,三、社会·民生·养老,教育,education,5
+60,三、社会·民生·养老,生活,life,9
+61,三、社会·民生·养老,幸福,happiness; well-being,3
+62,三、社会·民生·养老,健康,health; healthy,3
+63,三、社会·民生·养老,人民,people,3
+64,三、社会·民生·养老,机构,institution; organization,5
+65,三、社会·民生·养老,保障,to guarantee; safeguard,0
+66,三、社会·民生·养老,措施,measure,2
+67,三、社会·民生·养老,采取措施,to take measures,3
+68,三、社会·民生·养老,鼓励,to encourage,3
+69,三、社会·民生·养老,确保,to ensure,3
+70,三、社会·民生·养老,公共,public,3
+71,三、社会·民生·养老,改革,reform,0
+72,三、社会·民生·养老,政策,policy,0
+73,三、社会·民生·养老,需求,demand; need,2
+74,三、社会·民生·养老,参与,to participate,0
+75,四、地理·自然·旅游,地区,region; area,11
+76,四、地理·自然·旅游,城市,city,7
+77,四、地理·自然·旅游,旅游,tourism; to travel,7
+78,四、地理·自然·旅游,游客,tourist; visitor,4
+79,四、地理·自然·旅游,高原,plateau,4
+80,四、地理·自然·旅游,青藏高原,the Qinghai-Tibet Plateau,7
+81,四、地理·自然·旅游,黄土高原,the Loess Plateau,5
+82,四、地理·自然·旅游,云贵高原,the Yunnan-Guizhou Plateau,5
+83,四、地理·自然·旅游,河流,river,4
+84,四、地理·自然·旅游,长江,the Yangtze River,3
+85,四、地理·自然·旅游,平均海拔,average elevation/altitude,5
+86,四、地理·自然·旅游,生态系统,ecosystem,3
+87,四、地理·自然·旅游,生物,organism; living things,3
+88,四、地理·自然·旅游,风景秀丽,have beautiful scenery,3
+89,四、地理·自然·旅游,区域,region; zone,3
+90,四、地理·自然·旅游,分布,to be distributed,3
+91,四、地理·自然·旅游,位于,to be located in,8
+92,四、地理·自然·旅游,气候,climate,0
+93,四、地理·自然·旅游,资源,resource,0
+94,四、地理·自然·旅游,环境,environment,3
+95,四、地理·自然·旅游,吸引,to attract,4
+96,四、地理·自然·旅游,风景,scenery; landscape,0
+97,四、地理·自然·旅游,自然,nature; natural,2
+98,四、地理·自然·旅游,世界,world,18
+99,五、文学·艺术·语言,小说,novel,14
+100,五、文学·艺术·语言,文学,literature,6
+101,五、文学·艺术·语言,诗歌,poetry,3
+102,五、文学·艺术·语言,诗人,poet,3
+103,五、文学·艺术·语言,艺术,art,6
+104,五、文学·艺术·语言,绘画,painting,3
+105,五、文学·艺术·语言,作品,work (of art/literature),3
+106,五、文学·艺术·语言,故事,story,5
+107,五、文学·艺术·语言,成语,idiom,6
+108,五、文学·艺术·语言,创作,to create; creation,4
+109,五、文学·艺术·语言,欣赏,to appreciate,3
+110,五、文学·艺术·语言,语言,language,7
+111,五、文学·艺术·语言,汉语,Chinese (language),8
+112,五、文学·艺术·语言,方言,dialect,10
+113,五、文学·艺术·语言,人物,character; figure,9
+114,五、文学·艺术·语言,文字,writing; characters,0
+115,五、文学·艺术·语言,书法,calligraphy,0
+116,五、文学·艺术·语言,高雅,elegant; refined,3
+117,五、文学·艺术·语言,生动,vivid,3
+118,五、文学·艺术·语言,形象,image,3
+119,五、文学·艺术·语言,受欢迎,popular; well-received,3
+120,五、文学·艺术·语言,喜爱,to be fond of; love,4
+121,五、文学·艺术·语言,创造,to create,4
+122,五、文学·艺术·语言,形式,form,4
+123,五、文学·艺术·语言,内容,content,0
+124,六、历史·人物·朝代,革命,revolution,13
+125,六、历史·人物·朝代,革命家,revolutionary,3
+126,六、历史·人物·朝代,郑和,Zheng He,5
+127,六、历史·人物·朝代,张骞,Zhang Qian,2
+128,六、历史·人物·朝代,徐霞客,Xu Xiake,3
+129,六、历史·人物·朝代,丝绸之路,the Silk Road,3
+130,六、历史·人物·朝代,西域,the Western Regions,4
+131,六、历史·人物·朝代,明代,the Ming Dynasty,3
+132,六、历史·人物·朝代,宋朝,the Song Dynasty,3
+133,六、历史·人物·朝代,公元,AD; the Christian era,3
+134,六、历史·人物·朝代,时期,period,5
+135,六、历史·人物·朝代,王朝,dynasty,0
+136,六、历史·人物·朝代,船队,fleet,3
+137,六、历史·人物·朝代,率领,to lead,3
+138,六、历史·人物·朝代,考察,to explore; investigate,3
+139,六、历史·人物·朝代,旅行,travel; journey,3
+140,六、历史·人物·朝代,爱国主义,patriotism,3
+141,六、历史·人物·朝代,纪念馆,memorial hall,3
+142,六、历史·人物·朝代,老一辈,the older generation,3
+143,六、历史·人物·朝代,事件,event,3
+144,六、历史·人物·朝代,延安,Yan'an,5
+145,六、历史·人物·朝代,西藏,Tibet,4
+146,六、历史·人物·朝代,事业,cause; undertaking,0
+147,七、建筑·交通·设施,桥梁,bridge,6
+148,七、建筑·交通·设施,大桥,bridge,6
+149,七、建筑·交通·设施,港珠澳大桥,the Hong Kong-Zhuhai-Macau Bridge,0
+150,七、建筑·交通·设施,卢沟桥,the Lugou Bridge (Marco Polo Bridge),5
+151,七、建筑·交通·设施,赵州桥,the Zhaozhou Bridge,4
+152,七、建筑·交通·设施,铁路,railway,6
+153,七、建筑·交通·设施,青藏铁路,the Qinghai-Tibet Railway,3
+154,七、建筑·交通·设施,机场,airport,5
+155,七、建筑·交通·设施,航站楼,terminal building,3
+156,七、建筑·交通·设施,博物馆,museum,6
+157,七、建筑·交通·设施,图书馆,library,6
+158,七、建筑·交通·设施,体育馆,gymnasium; stadium,6
+159,七、建筑·交通·设施,读者,reader,6
+160,七、建筑·交通·设施,展览,exhibition,5
+161,七、建筑·交通·设施,举办,to hold (an event),3
+162,七、建筑·交通·设施,建成,to be completed/built,9
+163,七、建筑·交通·设施,大型,large-scale,3
+164,七、建筑·交通·设施,结构,structure,3
+165,七、建筑·交通·设施,设施,facility,2
+166,七、建筑·交通·设施,洋山港,Yangshan Port,4
+167,七、建筑·交通·设施,港口,port,0
+168,八、植物·象征·民俗,牡丹,peony,6
+169,八、植物·象征·民俗,梅花,plum blossom,6
+170,八、植物·象征·民俗,荷花,lotus,6
+171,八、植物·象征·民俗,竹子,bamboo,5
+172,八、植物·象征·民俗,石狮,stone lion,4
+173,八、植物·象征·民俗,婚礼,wedding,6
+174,八、植物·象征·民俗,习俗,custom,3
+175,八、植物·象征·民俗,祝福,blessing; to bless,0
+176,八、植物·象征·民俗,扇子,fan,6
+177,八、植物·象征·民俗,节日,festival,0
+178,八、植物·象征·民俗,庆典,celebration; ceremony,0
+179,八、植物·象征·民俗,祥,auspicious,0
+180,八、植物·象征·民俗,坚韧,tough; tenacious,0
+181,八、植物·象征·民俗,品格,character; moral quality,2
+182,八、植物·象征·民俗,纯洁,purity; pure,0
+183,八、植物·象征·民俗,高贵,noble,0
+184,九、高频动词·程度·连接,随着,with; as,9
+185,九、高频动词·程度·连接,近年来,in recent years,8
+186,九、高频动词·程度·连接,逐渐,gradually,0
+187,九、高频动词·程度·连接,不断,continuously,0
+188,九、高频动词·程度·连接,越来越,more and more,0
+189,九、高频动词·程度·连接,广泛,widely; extensive,5
+190,九、高频动词·程度·连接,得到,to obtain; gain,4
+191,九、高频动词·程度·连接,使用,to use,7
+192,九、高频动词·程度·连接,出现,to appear; emerge,3
+193,九、高频动词·程度·连接,形成,to form; take shape,4
+194,九、高频动词·程度·连接,采用,to adopt,3
+195,九、高频动词·程度·连接,缩短,to shorten,3
+196,九、高频动词·程度·连接,种植,to plant; grow,4
+197,九、高频动词·程度·连接,介绍,to introduce,3
+198,九、高频动词·程度·连接,产生,to produce; generate,3
+199,九、高频动词·程度·连接,做出,to make (contribution),4
+200,九、高频动词·程度·连接,成为,to become,0
+201,九、高频动词·程度·连接,实现,to realize/achieve,0
+202,九、高频动词·程度·连接,经过,after; through,4
+203,十、真题原文给定译法,北斗(卫星导航系统),Beidou (Satellite Navigation System),4
+204,十、真题原文给定译法,洋山港,Yangshan Port,4
+205,十、真题原文给定译法,拜天地,bow to Heaven and Earth,0
+206,十、真题原文给定译法,张骞,Zhang Qian,2
+207,十、真题原文给定译法,活字印刷,movable-type printing,0
+208,十、真题原文给定译法,成语,Chinese idioms,6
+209,十、真题原文给定译法,方块字,square characters,0
+210,十、真题原文给定译法,荷花,lotus flower,6
+211,十、真题原文给定译法,取经,to fetch Buddhist scriptures,0
+212,十、真题原文给定译法,港珠澳大桥,the Hong Kong-Zhuhai-Macau Bridge,0
+213,十、真题原文给定译法,农村包围城市,to besiege the cities from the countryside,0
+214,十、真题原文给定译法,峡谷,canyon,2
+215,十一、补充·国家文化民俗,国家,country; nation,8
+216,十一、补充·国家文化民俗,中国政府,the Chinese government,2
+217,十一、补充·国家文化民俗,中式,Chinese-style,2
+218,十一、补充·国家文化民俗,习俗,custom,3
+219,十一、补充·国家文化民俗,新人,the newly-weds,2
+220,十一、补充·国家文化民俗,宾客,guests,2
+221,十一、补充·国家文化民俗,场地,venue; site,2
+222,十一、补充·国家文化民俗,红色,red,2
+223,十一、补充·国家文化民俗,浪漫,romance; romantic,2
+224,十一、补充·国家文化民俗,美好,fine; happy,2
+225,十一、补充·国家文化民俗,体验,to experience,2
+226,十一、补充·国家文化民俗,和平,peace,2
+227,十一、补充·国家文化民俗,风土人情,local customs and practices,2
+228,十一、补充·国家文化民俗,古老,ancient; age-old,2
+229,十一、补充·国家文化民俗,历史悠久,have a long history,2
+230,十一、补充·国家文化民俗,辉煌,brilliant; glorious,2
+231,十一、补充·国家文化民俗,珍贵,precious; valuable,2
+232,十一、补充·国家文化民俗,巨大贡献,great/tremendous contribution,2
+233,十一、补充·国家文化民俗,贡献,contribution,2
+234,十一、补充·国家文化民俗,主题,theme; subject,2
+235,十二、补充·经济科技航天,导航系统,navigation system,2
+236,十二、补充·经济科技航天,研发,research and development,2
+237,十二、补充·经济科技航天,人员,personnel; staff,2
+238,十二、补充·经济科技航天,数字,digital,2
+239,十二、补充·经济科技航天,数字技术,digital technology,0
+240,十二、补充·经济科技航天,研发人员,R&D personnel,0
+241,十二、补充·经济科技航天,宇航员,astronaut,2
+242,十二、补充·经济科技航天,探索,to explore; exploration,2
+243,十二、补充·经济科技航天,未来,the future,2
+244,十二、补充·经济科技航天,航运,shipping,2
+245,十二、补充·经济科技航天,深水港,deep-water port,2
+246,十二、补充·经济科技航天,组成部分,component; part,2
+247,十二、补充·经济科技航天,高度,highly; height,2
+248,十二、补充·经济科技航天,繁忙,busy,2
+249,十二、补充·经济科技航天,生产,production; to produce,2
+250,十二、补充·经济科技航天,商业,commerce; business,2
+251,十二、补充·经济科技航天,市场,market,2
+252,十二、补充·经济科技航天,商品,commodity; goods,2
+253,十二、补充·经济科技航天,科学,science,2
+254,十二、补充·经济科技航天,对外开放,opening-up to the world,2
+255,十二、补充·经济科技航天,城市化,urbanization,2
+256,十二、补充·经济科技航天,建造,to build; construct,2
+257,十二、补充·经济科技航天,建立,to establish,2
+258,十二、补充·经济科技航天,改进,to improve,2
+259,十三、补充·社会民生养老,人口老龄化,population ageing,2
+260,十三、补充·社会民生养老,居家,home-based,2
+261,十三、补充·社会民生养老,自助,self-help,2
+262,十三、补充·社会民生养老,家庭,family,2
+263,十三、补充·社会民生养老,逐步,step by step; gradually,2
+264,十三、补充·社会民生养老,舒适,comfortable,2
+265,十三、补充·社会民生养老,积极,active; positive,2
+266,十三、补充·社会民生养老,加大,to increase; intensify,2
+267,十三、补充·社会民生养老,支持,support; to support,2
+268,十三、补充·社会民生养老,团体,group; organization,2
+269,十三、补充·社会民生养老,大众,the public; the masses,2
+270,十三、补充·社会民生养老,稳定,stable; stability,2
+271,十三、补充·社会民生养老,开设,to set up; offer,2
+272,十三、补充·社会民生养老,免费,free of charge,2
+273,十三、补充·社会民生养老,公众,the public,2
+274,十三、补充·社会民生养老,开放,to open,2
+275,十三、补充·社会民生养老,参观,to visit,2
+276,十三、补充·社会民生养老,健身,to keep fit; fitness,2
+277,十三、补充·社会民生养老,学习,to learn; study,4
+278,十三、补充·社会民生养老,学生,student,2
+279,十三、补充·社会民生养老,教育,education,5
+280,十三、补充·社会民生养老,提高,to raise; improve,2
+281,十三、补充·社会民生养老,机会,opportunity,2
+282,十三、补充·社会民生养老,满足,to satisfy; meet,2
+283,十四、补充·地理旅游自然,云南,Yunnan,7
+284,十四、补充·地理旅游自然,上海,Shanghai,5
+285,十四、补充·地理旅游自然,北京,Beijing,4
+286,十四、补充·地理旅游自然,南京,Nanjing,3
+287,十四、补充·地理旅游自然,洛阳,Luoyang,3
+288,十四、补充·地理旅游自然,海南,Hainan,3
+289,十四、补充·地理旅游自然,青海,Qinghai,3
+290,十四、补充·地理旅游自然,西部,the west; western part,2
+291,十四、补充·地理旅游自然,西南,the southwest,2
+292,十四、补充·地理旅游自然,公里,kilometre,5
+293,十四、补充·地理旅游自然,面积,area,2
+294,十四、补充·地理旅游自然,万平方公里,ten thousand square kilometres,3
+295,十四、补充·地理旅游自然,大部分,most; the majority,3
+296,十四、补充·地理旅游自然,当地,local,3
+297,十四、补充·地理旅游自然,各地,various places,2
+298,十四、补充·地理旅游自然,国内外,at home and abroad,2
+299,十四、补充·地理旅游自然,中外,China and abroad,2
+300,十四、补充·地理旅游自然,欧洲,Europe,4
+301,十四、补充·地理旅游自然,西亚,West Asia,2
+302,十四、补充·地理旅游自然,东南亚,Southeast Asia,2
+303,十四、补充·地理旅游自然,印度洋,the Indian Ocean,2
+304,十四、补充·地理旅游自然,少数民族,ethnic minority,2
+305,十四、补充·地理旅游自然,高山,high mountains,2
+306,十四、补充·地理旅游自然,冰川,glacier,2
+307,十四、补充·地理旅游自然,黄土,loess,2
+308,十四、补充·地理旅游自然,农作物,crop,2
+309,十四、补充·地理旅游自然,水稻,rice,2
+310,十四、补充·地理旅游自然,农业,agriculture,5
+311,十四、补充·地理旅游自然,生长,to grow,2
+312,十四、补充·地理旅游自然,产量,output; yield,2
+313,十四、补充·地理旅游自然,有机,organic,2
+314,十四、补充·地理旅游自然,珍稀,rare and precious,2
+315,十四、补充·地理旅游自然,物种,species,2
+316,十四、补充·地理旅游自然,保护,to protect; protection,2
+317,十四、补充·地理旅游自然,旅游业,tourism industry,2
+318,十四、补充·地理旅游自然,目的地,destination,2
+319,十四、补充·地理旅游自然,蓬勃发展,to flourish; boom,2
+320,十四、补充·地理旅游自然,国际,international,5
+321,十四、补充·地理旅游自然,全国,nationwide,5
+322,十五、补充·历史人物文学,出使,to be sent as an envoy,2
+323,十五、补充·历史人物文学,开辟,to open up; pioneer,2
+324,十五、补充·历史人物文学,航海,navigation; voyage,2
+325,十五、补充·历史人物文学,远航,long voyage,2
+326,十五、补充·历史人物文学,船队,fleet,3
+327,十五、补充·历史人物文学,率领,to lead,3
+328,十五、补充·历史人物文学,西域,the Western Regions,4
+329,十五、补充·历史人物文学,丝绸之路,the Silk Road,3
+330,十五、补充·历史人物文学,后人,later generations,2
+331,十五、补充·历史人物文学,游记,travel notes,2
+332,十五、补充·历史人物文学,唐代,the Tang Dynasty,2
+333,十五、补充·历史人物文学,诗人,poet,3
+334,十五、补充·历史人物文学,文学作品,literary works,2
+335,十五、补充·历史人物文学,小说,novel,14
+336,十五、补充·历史人物文学,描写,to depict,0
+337,十五、补充·历史人物文学,描绘,to portray; depict,2
+338,十五、补充·历史人物文学,描述,to describe,2
+339,十五、补充·历史人物文学,创作,to create,4
+340,十五、补充·历史人物文学,四大,the four great ...,3
+341,十五、补充·历史人物文学,时期,period,5
+342,十五、补充·历史人物文学,当时,at that time,2
+343,十五、补充·历史人物文学,期间,during,3
+344,十五、补充·历史人物文学,影响,influence; to influence,5
+345,十五、补充·历史人物文学,作用,role; function,4
+346,十五、补充·历史人物文学,起到,to play (a role),2
+347,十五、补充·历史人物文学,事件,event,3
+348,十五、补充·历史人物文学,观看,to watch,2
+349,十五、补充·历史人物文学,欣赏,to appreciate,3
+350,十五、补充·历史人物文学,含义,meaning; implication,2
+351,十六、补充·建筑交通桥梁,南京长江大桥,the Nanjing Yangtze River Bridge,2
+352,十六、补充·建筑交通桥梁,铁路桥,railway bridge,2
+353,十六、补充·建筑交通桥梁,天安门广场,Tian'anmen Square,2
+354,十六、补充·建筑交通桥梁,柱子,pillar; column,2
+355,十六、补充·建筑交通桥梁,狮子,lion,2
+356,十六、补充·建筑交通桥梁,石狮,stone lion,4
+357,十六、补充·建筑交通桥梁,跨度,span,2
+358,十六、补充·建筑交通桥梁,建于,to be built in,2
+359,十六、补充·建筑交通桥梁,公认,universally acknowledged,2
+360,十六、补充·建筑交通桥梁,连接,to connect,2
+361,十六、补充·建筑交通桥梁,洪水,flood,2
+362,十六、补充·建筑交通桥梁,节省,to save,2
+363,十六、补充·建筑交通桥梁,建筑,building; architecture,2
+364,十六、补充·建筑交通桥梁,设施,facility,2
+365,十六、补充·建筑交通桥梁,中心,centre,5
+366,十六、补充·建筑交通桥梁,区域,region,3
+367,十六、补充·建筑交通桥梁,分钟,minute,3
+368,十六、补充·建筑交通桥梁,小时,hour,4
+369,十六、补充·建筑交通桥梁,数量,quantity; number,5
+370,十六、补充·建筑交通桥梁,人数,number of people,4
+371,十六、补充·建筑交通桥梁,快速增长,rapid growth,2
+372,十六、补充·建筑交通桥梁,超过,to exceed; surpass,2
+373,十六、补充·建筑交通桥梁,广泛应用,to be widely used,0
+374,十六、补充·建筑交通桥梁,在线,online,2
+375,十六、补充·建筑交通桥梁,展品,exhibit,2
+376,十六、补充·建筑交通桥梁,观赏,to view; admire,2
+377,高频搭配/词组,自古以来,since ancient times,
+378,高频搭配/词组,举世闻名,world-renowned,
+379,高频搭配/词组,有着悠久的历史,have a long history,
+380,高频搭配/词组,作为……的象征,as a symbol of ...,
+381,高频搭配/词组,被列为世界文化遗产,be listed as a World Cultural Heritage site,
+382,高频搭配/词组,随着经济的发展,with the development of the economy,
+383,高频搭配/词组,人民生活水平不断提高,people's living standards keep improving,
+384,高频搭配/词组,越来越多的人,an increasing number of people,
+385,高频搭配/词组,发挥重要作用,play an important role,
+386,高频搭配/词组,做出巨大贡献,make great contributions,
+387,高频搭配/词组,引起广泛关注,attract/arouse wide attention,
+388,高频搭配/词组,受到普遍欢迎,be widely welcomed,
+389,高频搭配/词组,在……方面取得成就,make achievements in ...,
+390,高频搭配/词组,位于中国南部,be located in southern China,
+391,高频搭配/词组,拥有丰富的资源,be rich in resources,
+392,高频搭配/词组,吸引大量游客,attract a large number of tourists,
+393,高频搭配/词组,具有重要意义,be of great significance,
+394,高频搭配/词组,象征着……的精神,symbolize the spirit of ...,
+395,高频搭配/词组,有助于,contribute to; help to,
+396,高频搭配/词组,致力于,be committed/devoted to,
+397,高频搭配/词组,据估计,it is estimated that,
+398,高频搭配/词组,众所周知,it is well known that,
+399,高频搭配/词组,不仅……而且……,not only ... but also ...,
+400,高频搭配/词组,无论……都,no matter ...; regardless of,
+401,高频搭配/词组,与……密切相关,be closely related to,
+402,高频搭配/词组,满足……的需求,meet the demand/needs of,
+403,高频搭配/词组,应对挑战,cope with/meet challenges,
+404,高频搭配/词组,提高生活质量,improve the quality of life,
+405,高频搭配/词组,促进经济增长,promote economic growth,
+406,高频搭配/词组,加大投入,increase investment,
+407,高频搭配/词组,逐步扩大,gradually expand,
+408,高频搭配/词组,广泛应用于,be widely applied/used in,
+409,高频搭配/词组,世界上规模最大的之一,one of the largest in the world,
+410,高频搭配/词组,独立自主,independent; self-reliant,
+411,高频搭配/词组,享有盛誉,enjoy a high reputation,
+412,高频搭配/词组,深受人们喜爱,be deeply loved by people,
+413,高频搭配/词组,代代相传,be passed down from generation to generation,
+414,高频搭配/词组,源远流长,have a long history; date back to ancient times,
+415,高频搭配/词组,博大精深,extensive and profound,
+416,高频搭配/词组,名胜古迹,scenic spots and historical sites,
+417,高频搭配/词组,传统节日,traditional festival,
+418,高频搭配/词组,文化交流,cultural exchange,
+419,高频搭配/词组,可持续发展,sustainable development,
+420,高频搭配/词组,综合国力,overall national strength,
+421,高频搭配/词组,人工智能,artificial intelligence,
+422,高频搭配/词组,数字技术,digital technology,
+423,高频搭配/词组,碳排放,carbon emission,
+424,高频搭配/词组,远程操控,remote control,
+425,高频搭配/词组,全球覆盖,global coverage,
+426,高频搭配/词组,高精度定位,high-precision positioning,
+427,高频搭配/词组,不间断运作,operate around the clock,
+428,高频搭配/词组,举世瞩目,attract worldwide attention,
+429,高频搭配/词组,家喻户晓,be a household name,
+430,高频搭配/词组,脱颖而出,stand out,
+431,高频搭配/词组,供不应求,demand exceeds supply,
+432,高频搭配/词组,与日俱增,increase day by day,
+433,高频搭配/词组,不可或缺,indispensable,
+434,高频搭配/词组,丰富多彩,rich and varied; colourful,
+435,高频搭配/词组,独一无二,unique; one of a kind,
+436,高频搭配/词组,举足轻重,play a decisive role,
+437,高频搭配/词组,日新月异,change rapidly with each passing day,
+438,高频搭配/词组,精益求精,keep improving; strive for perfection,
+439,高频搭配/词组,齐心协力,work together; make concerted efforts,
+440,高频搭配/词组,供人欣赏,for people to appreciate,
+441,高频搭配/词组,造型优美,be elegant in shape,
+442,高频搭配/词组,做工精良,be exquisitely made,
+443,高频搭配/词组,艺术价值,artistic value,
+444,高频搭配/词组,实用功能,practical function,
+445,高频搭配/词组,文化符号,cultural symbol,
+446,高频搭配/词组,生命力,vitality,
+447,高频搭配/词组,适应能力,adaptability,
+448,高频搭配/词组,坚韧不拔,persevering; indomitable,
+449,高频搭配/词组,正直的品格,upright character,
+450,高频搭配/词组,广泛认可,wide recognition,
+451,高频搭配/词组,优质服务,high-quality service,
+452,高频搭配/词组,重大成就,major achievement,
+453,高频搭配/词组,科技成就,scientific and technological achievement,
+454,高频搭配/词组,不懈努力,unremitting efforts,
+455,高频搭配/词组,攻克难题,overcome difficulties/problems,
+456,高频搭配/词组,少数几个国家之一,one of the few countries,
+457,高频搭配/词组,交通运输,transportation,
+458,高频搭配/词组,灾害救援,disaster relief,
+459,高频搭配/词组,天气预报,weather forecast,
+460,高频搭配/词组,公共安全,public security,
+461,高频搭配/词组,用工成本,labour cost,
+462,高频搭配/词组,管理系统,management system,
+463,高频搭配/词组,大型设备,large equipment,
+464,高频搭配/词组,全面建成,be fully completed,
+465,高频搭配/词组,稳步推进,advance steadily,
+466,高频搭配/词组,基础设施,infrastructure,
+467,高频搭配/词组,创新发展,innovation-driven development,
+468,高频搭配/词组,写下辉煌一页,write a glorious chapter,
+469,高频搭配/词组,人类文明,human civilization,
+470,高频搭配/词组,迈得更稳更远,go steadier and further,
+471,高频搭配/词组,精心装饰,be carefully decorated,
+472,高频搭配/词组,设宴招待,hold a banquet to entertain,
+473,高频搭配/词组,敬酒致谢,propose a toast to express thanks,
+474,高频搭配/词组,钟情于,be fond of; have a special liking for,
+475,高频搭配/词组,沿用至今,be in use up to now,
+476,高频句型,中国是……的国家,China is a country that/where ...,
+477,高频句型,……起源于中国,... originated in China,
+478,高频句型,……可以追溯到……,... can date/be traced back to ...,
+479,高频句型,……是中国最……之一,... is one of the most ... in China,
+480,高频句型,自从……以来，……发生了巨大变化,"Since ..., great changes have taken place in ...",
+481,高频句型,为了……，政府采取了一系列措施,"In order to ..., the government has taken a series of measures.",
+482,高频句型,随着……的到来，……,"With the arrival of ..., ...",
+483,高频句型,据报道/据估计，……,It is reported/estimated that ...,
+484,高频句型,正是……使得……,It is ... that makes ...,
+485,高频句型,不仅在国内，而且在国际上……,not only at home but also abroad ...,
+486,高频句型,无论……，……都……,"No matter how ..., ... always ...",
+487,高频句型,……越来越受到人们的重视,... has received increasing attention,
+488,高频句型,……被认为是……,... is regarded/considered as ...,
+489,高频句型,……象征着中华民族的……,... symbolizes the ... of the Chinese nation,
+490,高频句型,如今，……已成为……,"Nowadays, ... has become ...",
+491,高频句型,未来，……将……,"In the future, ... will ...",
+492,高频句型,……不但历史悠久，而且……,... not only has a long history but also ...,
+493,高频句型,中国政府高度重视……,The Chinese government attaches great importance to ...,
+494,高频句型,……在世界上享有盛誉,... enjoys a high reputation in the world,
+495,高频句型,经过多年的发展，……,"After years of development, ...",
+496,高频句型,……不仅推动了经济，也促进了……,... has not only boosted the economy but also promoted ...,
+497,高频句型,值得一提的是，……,It is worth mentioning that ...,
+498,高频句型,正如人们所说，……,"As the saying goes, ...",
+499,高频句型,可以毫不夸张地说，……,It is no exaggeration to say that ...,
+500,高频句型,……在很大程度上取决于……,... depends largely on ...,
